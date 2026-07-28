@@ -22,7 +22,7 @@ print(f"Loaded {len(df)} rows from cleaned CSV")
 df.to_sql(
     'layoffs',
     engine,
-    if_exists='replace',   # drops and recreates the table with this data - fine for now
+    if_exists='append',   # drops and recreates the table with this data - fine for now
     index=False
 )
 
