@@ -82,4 +82,4 @@ A few real debugging problems worth noting (details in commit history):
 - **Tableau Public's live-connection restriction** required converting all data sources to extracts before publishing
 
 ## Author
-Shubham Shaw
+Shubham Shaw — [GitHub](https://github.com/ShubhamShaw2006) [LinkedIn](https://www.linkedin.com/in/shaw-shubham/)
