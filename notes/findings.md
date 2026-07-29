@@ -37,18 +37,24 @@ Bucketing by total funds raised, regardless of stage:
 **Takeaway:** A large industry can have huge headcount losses without necessarily being "risky" per company — smaller industries with high average % cuts may actually be riskier bets individually.
 
 ## Finding 4: Repeat layoffs are common at the largest tech companies
-Top repeat offenders by number of separate layoff rounds:
+"A layoff round" is defined here as any distinct reported layoff event (by date), regardless of whether an exact headcount was disclosed for that event — this is a deliberately broader definition than counting only headcount-disclosed rounds, since a company can announce a layoff without giving a precise number and that's still a real event.
 
-| Company | Rounds | Total Laid Off | First → Most Recent |
-|---|---|---|---|
-| Amazon | 15 | 59,291 | 2022 → 2026 |
-| Salesforce | 13 | 16,611 | 2020 → 2026 |
-| Microsoft | 11 | 34,855 | 2023 → 2026 |
-| Google | 10 | 13,697 | 2023 → 2025 |
-| Intel | 9 | 43,115 | 2022 → 2025 |
-| Meta | 9 | 35,700 | 2022 → 2026 |
+Top repeat offenders by number of distinct layoff dates:
 
-**Takeaway:** Big Tech layoffs aren't one-time corrections — they're recurring. A company having laid off once is not a reliable signal that it's "done"; several of the largest companies have cut staff in 5+ separate rounds over multiple years.
+| Company | Distinct Layoff Dates |
+|---|---|
+| Amazon | 21 |
+| Google | 18 |
+| Microsoft | 17 |
+| Salesforce | 13 |
+| Rivian | 12 |
+| Intel | 12 |
+| Meta | 12 |
+| Oracle | 9 |
+
+(Note: an earlier pass counted only rounds with a disclosed headcount, which gave smaller numbers, e.g. Amazon = 15. This version counts all reported events and is the definition used in the dashboard.)
+
+**Takeaway:** Big Tech layoffs aren't one-time corrections — they're recurring. A company having laid off once is not a reliable signal that it's "done"; several of the largest companies have cut staff in 8+ separate rounds over multiple years.
 
 ## Finding 5: Layoffs spiked sharply in two distinct waves
 - **Wave 1 (COVID):** April–May 2020, peaking around 26–27K/month, driven by pandemic shutdowns

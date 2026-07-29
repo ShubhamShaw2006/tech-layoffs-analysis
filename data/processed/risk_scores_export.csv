@@ -1,0 +1,2947 @@
+company,industry,stage_group,funds_raised,layoff_rounds,total_laid_off_all_rounds,most_recent_layoff,stage_risk,funding_risk,repeat_risk,industry_risk,composite_risk_score
+Homie,Real Estate,Early,35.00,4,159,2024-04-19,10,7,8,3.38,7.61
+FrontRow,Education,Early,17.00,4,275,2023-07-10,10,7,8,3.39,7.61
+Simpl,Finance,Early,72.00,4,360,2025-10-01,10,7,8,2.98,7.55
+Service,Travel,Early,5.10,2,,2020-03-20,10,10,4,3.36,7.50
+GenWise,Other,Early,3.00,2,15,2025-12-09,10,10,4,2.63,7.39
+TripAdvisor,Travel,Mature/Exit,3.00,5,1100,2025-11-05,4,10,10,3.36,7.20
+Vendease,Food,Early,43.00,3,215,2025-02-19,10,7,6,3.90,7.18
+Exosonic,Aerospace,Early,4.00,1,,2024-11-08,10,10,2,4.54,7.18
+Cisco,Infrastructure,Mature/Exit,2.00,6,18521,2026-05-13,4,10,10,3.06,7.16
+DayTwo,Healthcare,Early,90.00,3,,2024-08-13,10,7,6,3.48,7.12
+RealSelf,Healthcare,Early,42.00,3,51,2024-12-19,10,7,6,3.48,7.12
+Microsoft,Other,Mature/Exit,1.00,17,34855,2026-07-06,4,10,10,2.63,7.09
+Nate,Retail,Early,47.00,3,60,2023-01-27,10,7,6,3.17,7.08
+Haus,Food,Early,7.00,1,,2022-08-09,10,10,2,3.90,7.08
+Bardee,Food,Early,5.00,1,30,2023-08-03,10,10,2,3.90,7.08
+Alerzo,Retail,Early,16.00,3,500,2023-11-21,10,7,6,3.17,7.08
+Kune,Food,Early,1.00,1,,2022-06-23,10,10,2,3.90,7.08
+Greenikk,Food,Early,1.00,1,,2024-09-30,10,10,2,3.90,7.08
+Eatsy,Food,Early,0.98,1,20,2020-08-08,10,10,2,3.90,7.08
+Fipola,Food,Early,9.00,1,,2023-02-20,10,10,2,3.90,7.08
+Oddle,Food,Early,9.00,1,,2023-04-27,10,10,2,3.90,7.08
+CoLab,Food,Early,3.00,1,,2023-04-18,10,10,2,3.90,7.08
+Synergysuite,Food,Early,6.00,1,5,2020-04-02,10,10,2,3.90,7.08
+Dukaan,Retail,Early,17.00,3,79,2023-07-11,10,7,6,3.17,7.08
+SEND,Food,Early,3.00,1,300,2022-05-04,10,10,2,3.90,7.08
+Hooray Foods,Food,Early,7.00,1,,2023-09-17,10,10,2,3.90,7.08
+Ezoic,Infrastructure,Early,39.00,3,45,2023-07-17,10,7,6,3.06,7.06
+Made Renovation,Construction,Early,9.00,1,,2023-10-18,10,10,2,3.66,7.05
+Yojak,Construction,Early,3.00,1,140,2022-06-02,10,10,2,3.66,7.05
+Synapsica,Healthcare,Early,4.00,1,30,2022-10-21,10,10,2,3.48,7.02
+ConnectedH,Healthcare,Early,2.00,1,,2023-08-02,10,10,2,3.48,7.02
+Spora Health,Healthcare,Early,4.00,1,,2022-11-28,10,10,2,3.48,7.02
+Perx Health,Healthcare,Early,2.00,1,,2022-07-02,10,10,2,3.48,7.02
+Breathe,Healthcare,Early,6.00,1,50,2022-06-14,10,10,2,3.48,7.02
+Curative,Healthcare,Early,8.00,1,109,2022-09-20,10,10,2,3.48,7.02
+Glamyo Health,Healthcare,Early,9.00,1,160,2023-06-01,10,10,2,3.48,7.02
+Crejo.Fun,Education,Early,3.00,1,170,2022-06-30,10,10,2,3.39,7.01
+Udayy,Education,Early,2.00,1,100,2022-06-01,10,10,2,3.39,7.01
+TutorMundi,Education,Early,2.00,1,4,2020-04-24,10,10,2,3.39,7.01
+DwellWell,Real Estate,Early,6.00,1,,2023-12-04,10,10,2,3.38,7.01
+CodeCombat,Education,Early,8.00,1,8,2020-10-23,10,10,2,3.39,7.01
+Vah Vah!,Education,Early,2.00,1,150,2023-04-30,10,10,2,3.39,7.01
+Bluelearn,Education,Early,4.00,1,,2024-07-22,10,10,2,3.39,7.01
+SquadVoice,Real Estate,Early,2.00,1,,2020-04-16,10,10,2,3.38,7.01
+Here,Real Estate,Early,5.00,1,,2024-01-08,10,10,2,3.38,7.01
+Classkick,Education,Early,1.00,1,,2022-08-01,10,10,2,3.39,7.01
+Mapify,Travel,Early,1.30,1,,2020-08-19,10,10,2,3.36,7.00
+Cabin,Travel,Early,3.00,1,,2020-03-23,10,10,2,3.36,7.00
+Flynote,Travel,Early,1.00,1,,2020-05-01,10,10,2,3.36,7.00
+PickYourTrail,Travel,Early,3.00,1,70,2020-05-21,10,10,2,3.36,7.00
+GoWild,Retail,Early,8.00,1,,2024-10-10,10,10,2,3.17,6.98
+The Sill,Retail,Early,7.00,1,20,2020-05-28,10,10,2,3.17,6.98
+Alle,Retail,Early,3.00,1,,2026-01-13,10,10,2,3.17,6.98
+Tails.com,Retail,Early,5.00,1,55,2024-02-20,10,10,2,3.17,6.98
+Shopee,Food,Unknown,,5,200,2026-06-10,7,6,10,3.90,6.98
+Amicole,Retail,Early,5.00,1,,2025-07-17,10,10,2,3.17,6.98
+Shipsi,Retail,Early,2.00,1,20,2020-04-28,10,10,2,3.17,6.98
+GoodGood,Retail,Early,6.00,1,,2022-11-23,10,10,2,3.17,6.98
+DSCO,Retail,Early,4.00,1,12,2020-04-03,10,10,2,3.17,6.98
+NeuroPixel.AI,Retail,Early,1.00,1,,2026-04-03,10,10,2,3.17,6.98
+Masse,Retail,Early,3.00,1,,2020-05-15,10,10,2,3.17,6.98
+Ideoclick,Retail,Early,7.00,1,40,2022-05-04,10,10,2,3.17,6.98
+Sendy,Logistics,Early,26.00,3,84,2023-08-08,10,7,6,2.56,6.98
+Universal Standard,Retail,Early,8.00,1,,2020-03-25,10,10,2,3.17,6.98
+Beat,Transportation,Early,6.00,1,,2022-11-08,10,10,2,3.06,6.96
+Karshare,Transportation,Early,4.00,1,,2023-06-16,10,10,2,3.06,6.96
+91Trucks,Transportation,Early,5.00,1,100,2026-06-22,10,10,2,3.06,6.96
+CTO.ai,Infrastructure,Early,7.00,1,30,2020-03-20,10,10,2,3.06,6.96
+The Appraisal Lane,Transportation,Early,1.80,1,,2020-08-07,10,10,2,3.06,6.96
+Secfi,Finance,Early,7.00,1,,2022-06-30,10,10,2,2.98,6.95
+Ranger Insurance,Finance,Early,5.00,1,,2024-04-01,10,10,2,2.98,6.95
+Alza,Finance,Early,7.00,1,,2025-01-13,10,10,2,2.98,6.95
+Pivo,Finance,Early,3.00,1,,2023-12-05,10,10,2,2.98,6.95
+Purse,Crypto,Early,1.00,1,,2020-04-16,10,10,2,3.02,6.95
+Unstoppable Domains,Crypto,Early,7.00,1,42,2022-07-14,10,10,2,3.02,6.95
+Thepeer,Finance,Early,2.00,1,,2024-04-02,10,10,2,2.98,6.95
+Ignite,Crypto,Early,9.00,1,,2022-07-11,10,10,2,3.02,6.95
+Aya,Finance,Early,3.00,1,5,2020-11-19,10,10,2,2.98,6.95
+Tickertape,Finance,Early,5.00,1,29,2023-04-27,10,10,2,2.98,6.95
+Clockwork,Crypto,Early,4.00,1,,2023-08-28,10,10,2,3.02,6.95
+Nestcoin,Crypto,Early,6.00,1,30,2022-11-14,10,10,2,3.02,6.95
+Akudo,Finance,Early,4.00,1,,2023-09-20,10,10,2,2.98,6.95
+FranShares,Finance,Early,6.00,1,,2026-03-17,10,10,2,2.98,6.95
+Gigbanc,Finance,Early,1.00,1,,2026-07-13,10,10,2,2.98,6.95
+ComplYant,Finance,Early,6.00,1,,2024-04-29,10,10,2,2.98,6.95
+SuperRare,Crypto,Early,9.00,1,,2023-01-06,10,10,2,3.02,6.95
+Assure,Finance,Early,2.00,1,,2022-11-23,10,10,2,2.98,6.95
+TenureX,Finance,Early,6.00,1,,2023-02-06,10,10,2,2.98,6.95
+OnePipe,Finance,Early,9.00,1,,2023-03-29,10,10,2,2.98,6.95
+Octopus Network,Crypto,Early,8.00,1,,2022-12-27,10,10,2,3.02,6.95
+Akseleran,Finance,Early,9.00,1,60,2023-07-27,10,10,2,2.98,6.95
+Muvin,Finance,Early,4.00,1,,2024-02-05,10,10,2,2.98,6.95
+Bundle Africa,Crypto,Early,1.00,1,,2023-07-21,10,10,2,3.02,6.95
+Chipax,Finance,Early,2.00,1,,2022-11-11,10,10,2,2.98,6.95
+Billion Hearts,Consumer,Early,5.00,1,,2026-07-07,10,10,2,2.97,6.94
+TextNow,Consumer,Early,1.00,1,22,2022-07-28,10,10,2,2.97,6.94
+WeFit,Fitness,Early,1.00,1,,2020-05-13,10,10,2,2.96,6.94
+Pebble,Consumer,Early,1.00,1,,2023-10-24,10,10,2,2.97,6.94
+Panda Squad,Consumer,Early,1.00,1,6,2020-03-13,10,10,2,2.97,6.94
+Thursday,Consumer,Early,3.00,1,,2024-01-16,10,10,2,2.97,6.94
+Smashing,Consumer,Early,3.00,1,7,2025-04-16,10,10,2,2.97,6.94
+Roof Stacks,Consumer,Early,1.00,1,220,2026-01-24,10,10,2,2.97,6.94
+SweetEscape,Consumer,Early,7.00,1,,2020-04-15,10,10,2,2.97,6.94
+Junglee Games,Consumer,Early,3.00,1,350,2025-11-26,10,10,2,2.97,6.94
+Noice,Consumer,Early,5.00,1,,2023-08-15,10,10,2,2.97,6.94
+Lex,Consumer,Early,7.00,1,,2024-07-17,10,10,2,2.97,6.94
+Qt Company,Product,Early,7.00,1,200,2026-04-20,10,10,2,2.84,6.93
+Zeplin,Product,Early,1.00,1,37,2023-08-30,10,10,2,2.84,6.93
+Dark,Product,Early,3.00,1,6,2020-06-23,10,10,2,2.84,6.93
+Turso,Product,Early,7.00,1,,2025-01-21,10,10,2,2.84,6.93
+TheWrap,Media,Early,3.50,1,,2020-09-29,10,10,2,2.71,6.91
+Big Cabal Media,Media,Early,3.00,1,,2023-08-04,10,10,2,2.71,6.91
+Qwick,Recruiting,Early,4.00,1,,2020-04-27,10,10,2,2.70,6.91
+dot.LA,Media,Early,4.00,1,,2023-06-12,10,10,2,2.71,6.91
+Protonn,Other,Early,9.00,1,,2022-01-20,10,10,2,2.63,6.89
+Gated,Other,Early,3.00,1,,2023-09-01,10,10,2,2.63,6.89
+OSlash,Other,Early,7.00,1,,2023-11-09,10,10,2,2.63,6.89
+Zapier,Other,Early,1.00,1,,2023-06-28,10,10,2,2.63,6.89
+theGist,Other,Early,7.00,1,,2025-09-03,10,10,2,2.63,6.89
+Mixtroz,Other,Early,2.00,1,,2024-12-06,10,10,2,2.63,6.89
+The Gist,Other,Early,7.00,1,,2025-09-03,10,10,2,2.63,6.89
+Consider.co,Other,Early,5.00,1,13,2020-03-26,10,10,2,2.63,6.89
+Pesto,Other,Early,6.00,1,,2022-09-23,10,10,2,2.63,6.89
+Hunty,HR,Early,6.00,1,30,2022-06-14,10,10,2,2.43,6.86
+Arc,HR,Early,1.00,1,13,2022-07-20,10,10,2,2.43,6.86
+Workfellow,HR,Early,3.00,1,,2024-02-07,10,10,2,2.43,6.86
+Kazoo,HR,Early,8.00,1,,2020-03-31,10,10,2,2.43,6.86
+Panther,HR,Early,2.00,1,,2023-06-19,10,10,2,2.43,6.86
+Plato,HR,Early,3.00,1,29,2022-08-23,10,10,2,2.43,6.86
+Andgo,HR,Early,5.00,1,9,2023-09-29,10,10,2,2.43,6.86
+PeopleGrove,HR,Early,7.00,1,,2020-04-03,10,10,2,2.43,6.86
+Candidate Labs,HR,Early,5.00,1,,2022-09-21,10,10,2,2.43,6.86
+Gavelytics,Legal,Early,5.00,1,,2022-06-30,10,10,2,2.21,6.83
+Anar,Marketing,Early,6.00,1,,2023-11-25,10,10,2,2.11,6.82
+UPshow,Marketing,Early,7.00,1,19,2020-04-24,10,10,2,2.11,6.82
+Claravine,Marketing,Early,4.00,1,,2020-03-31,10,10,2,2.11,6.82
+Flytedesk,Marketing,Early,4.00,1,4,2020-03-18,10,10,2,2.11,6.82
+Linkfire,Marketing,Early,2.00,1,35,2022-10-11,10,10,2,2.11,6.82
+Coho AI,Sales,Early,8.00,1,,2025-04-06,10,10,2,1.85,6.78
+NSO,Security,Early,1.00,1,100,2022-08-21,10,10,2,1.85,6.78
+Opora,Security,Early,7.00,1,,2023-06-08,10,10,2,1.85,6.78
+Kitty Hawk,Aerospace,Unknown,1.00,2,170,2022-09-21,7,10,4,4.54,6.78
+Help.com,Support,Early,6.00,1,16,2020-03-16,10,10,2,1.67,6.75
+OrCam,Healthcare,Unknown,86.00,4,212,2024-07-28,7,7,8,3.48,6.72
+Divvy Homes,Real Estate,Early,180.00,4,134,2023-09-11,10,4,8,3.38,6.71
+BharatAgri,Food,Early,21.00,2,77,2025-11-13,10,7,4,3.90,6.68
+Milkrun,Food,Early,86.00,2,400,2023-04-11,10,7,4,3.90,6.68
+Voly,Food,Early,13.00,2,,2022-11-10,10,7,4,3.90,6.68
+Bolt.Earth,Energy,Early,24.00,2,70,2024-04-06,10,7,4,3.72,6.66
+Electronic Arts,Consumer,Mature/Exit,2.00,4,1950,2025-04-29,4,10,8,2.97,6.64
+CareRev,Healthcare,Early,51.00,2,100,2023-06-15,10,7,4,3.48,6.62
+Brave Care,Healthcare,Early,43.00,2,40,2024-12-31,10,7,4,3.48,6.62
+Embark Vet,Healthcare,Early,94.00,2,69,2023-04-28,10,7,4,3.48,6.62
+Skill Lync,Education,Early,17.00,2,600,2023-07-13,10,7,4,3.39,6.61
+Wonderschool,Education,Early,24.00,2,50,2023-02-10,10,7,4,3.39,6.61
+Reforge,Education,Early,81.00,2,,2023-04-11,10,7,4,3.39,6.61
+Studio,Education,Early,50.00,2,33,2022-11-03,10,7,4,3.39,6.61
+On Deck,Education,Early,20.00,2,145,2022-08-04,10,7,4,3.39,6.61
+JetClosing,Real Estate,Early,44.00,2,20,2022-06-15,10,7,4,3.38,6.61
+Zenius,Education,Early,20.00,2,200,2022-08-04,10,7,4,3.39,6.61
+Clever Real Estate,Real Estate,Early,13.00,2,,2022-10-19,10,7,4,3.38,6.61
+Propzy,Real Estate,Early,33.00,2,,2022-09-13,10,7,4,3.38,6.61
+Trybe,Education,Early,40.00,2,175,2023-06-09,10,7,4,3.39,6.61
+Textio,Recruiting,Unknown,42.00,4,74,2025-01-15,7,7,8,2.70,6.61
+Adda247,Education,Early,61.00,2,500,2026-05-10,10,7,4,3.39,6.61
+Career Karma,Education,Early,51.00,2,82,2023-01-12,10,7,4,3.39,6.61
+WanderJaunt,Travel,Early,26.00,2,141,2022-07-01,10,7,4,3.36,6.60
+Mejuri,Retail,Early,28.00,2,86,2022-08-05,10,7,4,3.17,6.58
+Bonsai,Retail,Early,27.00,2,59,2022-06-20,10,7,4,3.17,6.58
+Booktopia,Retail,Early,23.00,2,30,2023-01-23,10,7,4,3.17,6.58
+ThirdLove,Retail,Early,68.00,2,75,2020-04-02,10,7,4,3.17,6.58
+BeepKart,Retail,Early,19.00,2,280,2025-08-23,10,7,4,3.17,6.58
+Caliva,Retail,Early,75.00,2,74,2023-08-08,10,7,4,3.17,6.58
+Mara,Crypto,Early,23.00,2,6,2023-06-06,10,7,4,3.02,6.55
+Nuri,Finance,Early,42.00,2,45,2022-10-17,10,7,4,2.98,6.55
+FamPay,Finance,Early,42.00,2,18,2023-08-02,10,7,4,2.98,6.55
+Tropic,Finance,Early,67.00,2,66,2024-05-31,10,7,4,2.98,6.55
+Quanto,Finance,Early,20.00,2,28,2023-05-16,10,7,4,2.98,6.55
+Lighter Capital,Finance,Early,15.00,2,40,2020-07-20,10,7,4,2.98,6.55
+Synapse,Finance,Early,50.00,2,86,2023-10-02,10,7,4,2.98,6.55
+Huobi,Crypto,Unknown,2.00,2,575,2023-01-06,7,10,4,3.02,6.55
+Equitybee,Finance,Early,85.00,2,49,2023-02-08,10,7,4,2.98,6.55
+Lightico,Finance,Early,42.00,2,40,2023-02-05,10,7,4,2.98,6.55
+Brave,Consumer,Early,42.00,2,27,2024-08-28,10,7,4,2.97,6.54
+Mozilla,Consumer,Unknown,2.30,2,310,2024-02-13,7,10,4,2.97,6.54
+VSCO,Consumer,Early,90.00,2,69,2025-12-09,10,7,4,2.97,6.54
+Airtime,Consumer,Early,33.00,2,55,2025-06-04,10,7,4,2.97,6.54
+Fable,Product,Early,19.00,2,13,2024-10-15,10,7,4,2.84,6.53
+Cypress.io,Product,Early,54.00,2,11,2024-06-14,10,7,4,2.84,6.53
+Jellysmack,Media,Growth,22.00,6,273,2024-10-21,5,7,10,2.71,6.51
+Joonko,Recruiting,Early,38.00,2,,2024-05-19,10,7,4,2.70,6.51
+Lendis,Other,Early,90.00,2,18,2022-12-21,10,7,4,2.63,6.49
+Esper,Other,Early,10.00,2,,2023-01-10,10,7,4,2.63,6.49
+Singularity 6,Other,Early,49.00,2,85,2024-05-15,10,7,4,2.63,6.49
+Slync,Logistics,Early,76.00,2,,2023-10-25,10,7,4,2.56,6.48
+EasyPost,Logistics,Early,12.00,2,125,2020-04-13,10,7,4,2.56,6.48
+Bonusly,HR,Early,31.00,2,,2023-03-16,10,7,4,2.43,6.46
+Vee,HR,Early,15.00,2,33,2022-10-25,10,7,4,2.43,6.46
+Rock Content,Marketing,Early,34.00,2,100,2023-01-12,10,7,4,2.11,6.42
+Airmeet,Marketing,Early,50.00,2,75,2024-03-19,10,7,4,2.11,6.42
+Sama,Data,Early,85.00,2,1108,2026-04-16,10,7,4,2.04,6.41
+Morning Consult,Data,Early,91.00,2,,2024-01-09,10,7,4,2.04,6.41
+Clearbit,Sales,Early,17.00,2,,2023-05-18,10,7,4,1.85,6.38
+Malwarebytes,Security,Early,80.00,2,225,2023-08-31,10,7,4,1.85,6.38
+Dunzo,Food,Unknown,458.00,5,600,2024-08-31,7,4,10,3.90,6.38
+Tome,Sales,Early,75.00,2,24,2024-10-02,10,7,4,1.85,6.38
+Balto,Sales,Early,51.00,2,65,2022-12-12,10,7,4,1.85,6.38
+Zillow,Real Estate,Mature/Exit,97.00,5,2523,2026-02-02,4,7,10,3.38,6.31
+Gro Intelligence,Food,Early,118.00,3,110,2024-05-31,10,4,6,3.90,6.28
+Stitch Fix,Retail,Mature/Exit,79.00,6,2688,2024-01-18,4,7,10,3.17,6.28
+SSense,Retail,Early,,2,353,2026-03-05,10,6,4,3.17,6.28
+Subspace,Infrastructure,Early,,2,,2022-05-13,10,6,4,3.06,6.26
+UKG,HR,Unknown,,4,3715,2026-04-15,7,6,8,2.43,6.26
+Genesis,Crypto,Early,,2,112,2023-01-05,10,6,4,3.02,6.25
+BitMEX,Crypto,Early,,2,75,2022-11-02,10,6,4,3.02,6.25
+RenoRun,Construction,Early,163.00,3,280,2023-04-26,10,4,6,3.66,6.25
+Crypto.com,Crypto,Unknown,156.00,5,2260,2026-03-19,7,4,10,3.02,6.25
+Gemini,Crypto,Unknown,423.00,5,368,2026-03-20,7,4,10,3.02,6.25
+Google,Consumer,Mature/Exit,26.00,18,13697,2026-06-04,4,7,10,2.97,6.24
+Kenko Health,Healthcare,Unknown,14.00,3,100,2024-08-23,7,7,6,3.48,6.22
+Utopia Music,Other,Early,,2,,2023-04-17,10,6,4,2.63,6.19
+Shelf Engine,Food,Early,58.00,1,43,2022-07-29,10,7,2,3.90,6.18
+Shef,Food,Early,28.00,1,29,2022-06-02,10,7,2,3.90,6.18
+Gramophone,Food,Early,17.00,1,75,2023-01-16,10,7,2,3.90,6.18
+D-ID,AI,Early,48.00,1,22,2025-03-10,10,7,2,3.87,6.18
+Stellar Pizza,Food,Early,25.00,1,,2023-12-14,10,7,2,3.90,6.18
+Favo,Food,Early,31.00,1,170,2022-06-02,10,7,2,3.90,6.18
+PicoBrew,Food,Early,15.00,1,,2020-04-30,10,7,2,3.90,6.18
+YourGrocer,Food,Unknown,2.00,1,,2022-12-19,7,10,2,3.90,6.18
+Loop,Retail,Early,125.00,3,34,2024-08-16,10,4,6,3.17,6.18
+Oh My Green,Food,Early,20.00,1,40,2020-03-27,10,7,2,3.90,6.18
+Datagen,AI,Early,72.00,1,,2023-08-22,10,7,2,3.87,6.18
+Regrow Ag,Food,Early,64.00,1,,2024-08-16,10,7,2,3.90,6.18
+Lunchbox,Food,Early,72.00,1,60,2022-07-21,10,7,2,3.90,6.18
+Foodsby,Food,Early,20.00,1,87,2020-03-24,10,7,2,3.90,6.18
+Yupp,AI,Early,33.00,1,,2026-03-31,10,7,2,3.87,6.18
+Finder,Retail,Unknown,30.00,3,100,2024-02-21,7,7,6,3.17,6.18
+Otipy,Food,Early,44.00,1,300,2025-05-23,10,7,2,3.90,6.18
+Nowadays,Food,Early,10.00,1,,2023-09-18,10,7,2,3.90,6.18
+Thriver,Food,Early,53.00,1,75,2020-08-06,10,7,2,3.90,6.18
+Logically,AI,Early,37.00,1,40,2025-02-17,10,7,2,3.87,6.18
+Zak,Food,Early,29.00,1,100,2022-05-16,10,7,2,3.90,6.18
+Flash Coffee,Food,Early,57.00,1,,2022-11-22,10,7,2,3.90,6.18
+Fraazo,Food,Early,63.00,1,150,2022-07-12,10,7,2,3.90,6.18
+Deepgram,AI,Early,86.00,1,20,2023-10-11,10,7,2,3.87,6.18
+Circus Kitchens,Food,Early,12.00,1,35,2023-05-25,10,7,2,3.90,6.18
+Tabnine,AI,Early,57.00,1,15,2025-02-05,10,7,2,3.87,6.18
+Avo,Food,Early,45.00,1,500,2022-05-01,10,7,2,3.90,6.18
+Cheetah,Food,Early,67.00,1,,2020-10-25,10,7,2,3.90,6.18
+Mr. Yum,Food,Early,73.00,1,,2022-08-22,10,7,2,3.90,6.18
+Fifth Season,Food,Early,35.00,1,100,2022-10-28,10,7,2,3.90,6.18
+ApnaMart,Food,Early,40.00,1,35,2026-05-06,10,7,2,3.90,6.18
+Iris Nova,Food,Early,15.00,1,9,2020-03-30,10,7,2,3.90,6.18
+Butler Hospitality,Food,Early,50.00,1,1000,2022-07-08,10,7,2,3.90,6.18
+SCiFi Foods,Food,Early,39.00,1,,2024-06-12,10,7,2,3.90,6.18
+Spyce,Food,Early,26.00,1,4,2020-04-08,10,7,2,3.90,6.18
+Noogata,AI,Early,28.00,1,10,2025-05-15,10,7,2,3.87,6.18
+Emitwise,Energy,Early,16.00,1,,2022-10-11,10,7,2,3.72,6.16
+5B Solar,Energy,Early,12.00,1,,2022-06-03,10,7,2,3.72,6.16
+Running Tide,Energy,Early,54.00,1,,2024-06-15,10,7,2,3.72,6.16
+Sunfolding,Energy,Early,32.00,1,,2023-12-09,10,7,2,3.72,6.16
+Electriq Global,Energy,Unknown,8.00,1,,2025-02-21,7,10,2,3.72,6.16
+Scope3,Energy,Early,45.00,1,,2025-09-05,10,7,2,3.72,6.16
+Modern Hydrogen,Energy,Early,99.00,1,,2025-12-03,10,7,2,3.72,6.16
+Colossus,Energy,Early,41.00,1,97,2022-05-04,10,7,2,3.72,6.16
+NCX,Energy,Early,78.00,1,,2022-11-28,10,7,2,3.72,6.16
+Rhumbix,Construction,Early,35.00,1,16,2020-04-10,10,7,2,3.66,6.15
+Raken,Construction,Early,12.00,1,60,2020-03-27,10,7,2,3.66,6.15
+Cosuno,Construction,Early,45.00,1,,2022-07-14,10,7,2,3.66,6.15
+Bridgit,Construction,Early,36.00,1,13,2022-12-06,10,7,2,3.66,6.15
+Koo,Consumer,Unknown,51.00,3,118,2024-07-02,7,7,6,2.97,6.14
+Yahoo,Consumer,Mature/Exit,6.00,3,1600,2024-12-12,4,10,6,2.97,6.14
+HealthMatch,Healthcare,Early,20.00,1,18,2022-06-28,10,7,2,3.48,6.12
+Vesalius Therapeutics,Healthcare,Early,75.00,1,29,2022-09-19,10,7,2,3.48,6.12
+Plume,Healthcare,Early,38.00,1,24,2023-10-18,10,7,2,3.48,6.12
+Virtudent,Healthcare,Early,10.00,1,70,2020-05-01,10,7,2,3.48,6.12
+PhableCare,Healthcare,Early,40.00,1,,2023-02-14,10,7,2,3.48,6.12
+Jasper Health,Healthcare,Early,32.00,1,,2024-05-31,10,7,2,3.48,6.12
+Opencare,Healthcare,Early,24.00,1,18,2020-04-03,10,7,2,3.48,6.12
+Faze Medicines,Healthcare,Early,81.00,1,,2022-11-09,10,7,2,3.48,6.12
+Give Legacy,Healthcare,Early,45.00,1,,2022-06-24,10,7,2,3.48,6.12
+Dozee,Healthcare,Early,26.00,1,40,2024-09-02,10,7,2,3.48,6.12
+Mojocare,Healthcare,Early,24.00,1,170,2023-06-17,10,7,2,3.48,6.12
+GroundGame Health,Healthcare,Early,17.00,1,97,2025-05-15,10,7,2,3.48,6.12
+OFFOR Health,Healthcare,Early,14.00,1,16,2023-01-24,10,7,2,3.48,6.12
+Circulo Health,Healthcare,Early,50.00,1,,2022-06-16,10,7,2,3.48,6.12
+Edifecs,Healthcare,Unknown,1.00,1,30,2023-01-20,7,10,2,3.48,6.12
+54gene,Healthcare,Early,44.00,1,95,2022-08-29,10,7,2,3.48,6.12
+Zoe,Healthcare,Early,89.00,1,,2024-04-11,10,7,2,3.48,6.12
+PatientPop,Healthcare,Early,75.00,1,100,2020-04-01,10,7,2,3.48,6.12
+Ahead,Healthcare,Unknown,9.00,1,44,2022-04-14,7,10,2,3.48,6.12
+Halcyon Health,Healthcare,Unknown,2.00,1,,2022-04-15,7,10,2,3.48,6.12
+Welkin Health,Healthcare,Early,29.00,1,10,2020-04-24,10,7,2,3.48,6.12
+Inbound Health,Healthcare,Early,50.00,1,,2025-12-01,10,7,2,3.48,6.12
+Astrate Medical,Healthcare,Early,13.00,1,,2024-02-05,10,7,2,3.48,6.12
+Intel,Hardware,Mature/Exit,12.00,12,43115,2026-07-20,4,7,10,2.11,6.12
+Nova Benefits,Healthcare,Early,41.00,1,,2022-06-28,10,7,2,3.48,6.12
+Remedy,Healthcare,Early,12.50,1,82,2020-10-29,10,7,2,3.48,6.12
+HerMD,Healthcare,Early,28.00,1,,2025-02-24,10,7,2,3.48,6.12
+Plum,Healthcare,Early,20.00,1,36,2022-11-09,10,7,2,3.48,6.12
+SummerBio,Healthcare,Unknown,7.00,1,101,2022-06-20,7,10,2,3.48,6.12
+Bridge Connector,Healthcare,Early,45.00,1,154,2020-11-17,10,7,2,3.48,6.12
+Decent,Healthcare,Early,18.00,1,,2023-01-27,10,7,2,3.48,6.12
+Docly,Healthcare,Early,15.50,1,8,2020-08-19,10,7,2,3.48,6.12
+Anagram,Healthcare,Early,14.00,1,17,2020-04-03,10,7,2,3.48,6.12
+TwinStrand,Healthcare,Early,73.00,1,,2022-10-05,10,7,2,3.48,6.12
+Incredible Health,Healthcare,Early,15.00,1,9,2020-04-01,10,7,2,3.48,6.12
+Keepe,Real Estate,Unknown,6.00,1,,2022-06-10,7,10,2,3.38,6.11
+Doubtnut,Education,Early,49.00,1,,2022-10-31,10,7,2,3.39,6.11
+Peerspace,Real Estate,Early,34.00,1,41,2020-03-26,10,7,2,3.38,6.11
+Blueground,Real Estate,Early,77.00,1,130,2020-03-27,10,7,2,3.38,6.11
+Localize,Real Estate,Early,40.00,1,,2024-08-19,10,7,2,3.38,6.11
+StreamElements,Media,Early,111.00,3,100,2023-08-17,10,4,6,2.71,6.11
+Section4,Education,Early,37.00,1,32,2022-05-12,10,7,2,3.39,6.11
+Flockjay,Education,Early,14.00,1,37,2021-08-24,10,7,2,3.39,6.11
+Swing Education,Education,Early,22.80,1,,2020-09-05,10,7,2,3.39,6.11
+Luxury Presence,Real Estate,Early,31.00,1,44,2023-01-17,10,7,2,3.38,6.11
+Inspectify,Real Estate,Early,11.00,1,,2022-11-28,10,7,2,3.38,6.11
+Curbio,Real Estate,Early,76.00,1,,2023-12-14,10,7,2,3.38,6.11
+Anywell,Real Estate,Early,15.00,1,11,2022-08-14,10,7,2,3.38,6.11
+Mudafy,Real Estate,Early,13.00,1,,2023-01-19,10,7,2,3.38,6.11
+Buzzer,Media,Unknown,32.00,3,,2023-06-30,7,7,6,2.71,6.11
+HubHaus,Real Estate,Early,13.40,1,,2020-09-11,10,7,2,3.38,6.11
+Coding Dojo,Education,Unknown,2.00,1,7,2020-04-02,7,10,2,3.39,6.11
+Camp K12,Education,Early,16.00,1,,2023-01-23,10,7,2,3.39,6.11
+Lido,Education,Early,24.00,1,150,2022-02-21,10,7,2,3.39,6.11
+Yabonza,Real Estate,Unknown,6.00,1,,2022-07-29,7,10,2,3.38,6.11
+Loftium,Real Estate,Early,17.00,1,32,2020-05-29,10,7,2,3.38,6.11
+Eden / Managed By Q,Real Estate,Early,40.00,1,40,2020-04-08,10,7,2,3.38,6.11
+Treehouse,Education,Early,12.00,1,41,2021-09-14,10,7,2,3.39,6.11
+StudySmarter,Education,Early,64.00,1,70,2022-11-30,10,7,2,3.39,6.11
+Archipelago,Real Estate,Early,57.00,1,40,2023-08-01,10,7,2,3.38,6.11
+Loftsmart,Real Estate,Early,18.00,1,25,2020-03-30,10,7,2,3.38,6.11
+Crehana,Education,Early,93.00,1,,2022-06-15,10,7,2,3.39,6.11
+Scaler,Education,Early,55.00,1,150,2024-04-10,10,7,2,3.39,6.11
+Labster,Education,Early,34.00,1,40,2020-04-17,10,7,2,3.39,6.11
+BookClub,Education,Early,26.00,1,12,2022-05-31,10,7,2,3.39,6.11
+The Guild,Travel,Early,36.00,1,38,2020-03-23,10,7,2,3.36,6.10
+Journera,Travel,Early,31.00,1,,2024-02-08,10,7,2,3.36,6.10
+WhyHotel,Travel,Early,33.00,1,,2020-04-01,10,7,2,3.36,6.10
+Peek,Travel,Early,39.00,1,45,2020-03-20,10,7,2,3.36,6.10
+FabHotels,Travel,Early,48.00,1,80,2020-03-30,10,7,2,3.36,6.10
+Glisser,Travel,Unknown,1.00,1,25,2023-01-26,7,10,2,3.36,6.10
+Remote Year,Travel,Early,17.00,1,50,2020-03-19,10,7,2,3.36,6.10
+TravelBank,Travel,Early,35.00,1,20,2020-03-24,10,7,2,3.36,6.10
+Hipcamp,Travel,Early,40.50,1,,2020-04-20,10,7,2,3.36,6.10
+Heygo,Travel,Early,20.00,1,,2023-04-13,10,7,2,3.36,6.10
+Stay Alfred,Travel,Early,62.00,1,221,2020-05-20,10,7,2,3.36,6.10
+Pana,Travel,Early,11.00,1,18,2020-04-01,10,7,2,3.36,6.10
+Impala,Travel,Early,32.00,1,30,2022-06-01,10,7,2,3.36,6.10
+Horizn Studios,Travel,Early,30.00,1,15,2020-04-24,10,7,2,3.36,6.10
+Snaptravel,Travel,Early,22.40,1,,2020-07-16,10,7,2,3.36,6.10
+Appsmith,Unknown,Early,51.00,1,35,2023-09-22,10,7,2,3.25,6.09
+Chief,Other,Early,140.00,3,43,2024-10-20,10,4,6,2.63,6.09
+Hubilo,Other,Early,153.00,3,210,2023-10-30,10,4,6,2.63,6.09
+Trell,Retail,Early,62.00,1,300,2022-03-15,10,7,2,3.17,6.08
+Awok,Retail,Early,30.00,1,,2020-09-02,10,7,2,3.17,6.08
+Karma,Retail,Early,34.00,1,20,2023-05-04,10,7,2,3.17,6.08
+Stockwell AI,Retail,Early,10.00,1,,2020-06-15,10,7,2,3.17,6.08
+UpScalio,Retail,Early,62.00,1,25,2023-01-05,10,7,2,3.17,6.08
+Increff,Retail,Early,17.00,1,,2023-08-01,10,7,2,3.17,6.08
+Kaiyo,Retail,Early,43.00,1,,2024-08-21,10,7,2,3.17,6.08
+Una Brands,Retail,Early,55.00,1,,2022-06-28,10,7,2,3.17,6.08
+SIRCLO,Retail,Early,92.00,1,160,2022-11-22,10,7,2,3.17,6.08
+Grailed,Retail,Early,16.00,1,,2020-04-16,10,7,2,3.17,6.08
+BlissClub,Retail,Early,20.00,1,21,2024-02-09,10,7,2,3.17,6.08
+Lantern,Retail,Early,40.00,1,,2023-01-06,10,7,2,3.17,6.08
+Reach,Retail,Early,30.00,1,,2022-12-16,10,7,2,3.17,6.08
+Dastgyr,Retail,Early,41.00,1,,2024-01-12,10,7,2,3.17,6.08
+Hubba,Retail,Early,61.00,1,45,2021-02-01,10,7,2,3.17,6.08
+Marketforce,Retail,Early,42.00,1,54,2022-08-11,10,7,2,3.17,6.08
+Sabi,Retail,Early,66.00,1,50,2025-06-19,10,7,2,3.17,6.08
+Worksmith,Retail,Unknown,3.80,1,30,2020-11-09,7,10,2,3.17,6.08
+Bikayi,Retail,Early,12.00,1,,2022-07-28,10,7,2,3.17,6.08
+Hypefast,Retail,Early,33.00,1,,2023-08-22,10,7,2,3.17,6.08
+Sampler,Retail,Early,10.00,1,,2024-08-15,10,7,2,3.17,6.08
+GoSpotCheck,Retail,Early,47.00,1,23,2020-03-26,10,7,2,3.17,6.08
+Hodinkee,Retail,Early,40.00,1,24,2023-09-05,10,7,2,3.17,6.08
+Engine eCommerce,Retail,Unknown,4.00,1,,2020-06-28,7,10,2,3.17,6.08
+Dropp,Retail,Unknown,2.00,1,60,2023-02-14,7,10,2,3.17,6.08
+Jane,Retail,Early,40.00,1,,2023-11-17,10,7,2,3.17,6.08
+Salesforce,Sales,Mature/Exit,65.40,14,16611,2026-06-09,4,7,10,1.85,6.08
+Sorabel,Retail,Early,27.00,1,,2020-07-23,10,7,2,3.17,6.08
+Liongard,Infrastructure,Early,22.00,1,,2022-06-10,10,7,2,3.06,6.06
+Indeed,HR,Mature/Exit,5.00,3,3200,2025-11-05,4,10,6,2.43,6.06
+Atsu,Infrastructure,Unknown,1.00,1,6,2020-04-10,7,10,2,3.06,6.06
+Locomation,Transportation,Early,57.00,1,,2023-02-22,10,7,2,3.06,6.06
+BusBud,Transportation,Early,21.00,1,23,2020-04-06,10,7,2,3.06,6.06
+Parallel Wireless,Infrastructure,Unknown,8.00,1,60,2022-06-29,7,10,2,3.06,6.06
+Starship Technologies,Transportation,Early,82.00,1,30,2020-03-30,10,7,2,3.06,6.06
+Mobius Motors,Transportation,Unknown,6.00,1,,2024-08-06,7,10,2,3.06,6.06
+Baton,Transportation,Early,13.00,1,16,2022-06-29,10,7,2,3.06,6.06
+Earth Rides,Transportation,Unknown,2.00,1,,2023-01-19,7,10,2,3.06,6.06
+Getta,Transportation,Early,49.00,1,30,2022-05-31,10,7,2,3.06,6.06
+Splyt,Transportation,Early,34.00,1,57,2022-11-18,10,7,2,3.06,6.06
+Divergent 3D,Transportation,Early,88.00,1,57,2020-04-24,10,7,2,3.06,6.06
+Kodiak Robotics,Transportation,Early,40.00,1,15,2020-04-15,10,7,2,3.06,6.06
+Ike,Transportation,Early,52.00,1,10,2020-04-22,10,7,2,3.06,6.06
+AI Fleet,Transportation,Early,56.00,1,,2025-11-13,10,7,2,3.06,6.06
+Lumina Networks,Infrastructure,Early,10.00,1,,2020-08-18,10,7,2,3.06,6.06
+FireHydrant,Infrastructure,Early,32.00,1,,2022-12-08,10,7,2,3.06,6.06
+Ridecell,Transportation,Early,73.00,1,35,2020-05-14,10,7,2,3.06,6.06
+Perceptive Automata,Transportation,Early,20.00,1,,2022-08-01,10,7,2,3.06,6.06
+StrongDM,Infrastructure,Early,76.00,1,40,2023-02-23,10,7,2,3.06,6.06
+Slice Labs,Finance,Early,35.00,1,,2020-04-08,10,7,2,2.98,6.05
+Wint Wealth,Finance,Early,16.00,1,19,2024-02-14,10,7,2,2.98,6.05
+Inscribe,Finance,Early,39.00,1,,2024-03-08,10,7,2,2.98,6.05
+Funding Societies,Finance,Early,42.00,1,65,2020-04-16,10,7,2,2.98,6.05
+Argyle,Finance,Early,78.00,1,20,2022-08-26,10,7,2,2.98,6.05
+Ledger Investing,Finance,Early,91.00,1,,2024-01-08,10,7,2,2.98,6.05
+Unchained Capital,Crypto,Early,33.00,1,,2022-11-18,10,7,2,3.02,6.05
+Community Gaming,Crypto,Early,18.00,1,17,2023-04-14,10,7,2,3.02,6.05
+Unison,Finance,Early,40.00,1,89,2020-04-08,10,7,2,2.98,6.05
+Primer,Finance,Early,73.00,1,85,2022-12-09,10,7,2,2.98,6.05
+Glean AI,Finance,Early,11.00,1,5,2023-05-08,10,7,2,2.98,6.05
+Ocavu,Crypto,Early,11.00,1,20,2022-11-10,10,7,2,3.02,6.05
+Azibo,Finance,Early,19.00,1,,2023-06-05,10,7,2,2.98,6.05
+TechAdvance,Finance,Unknown,1.00,1,,2020-04-08,7,10,2,2.98,6.05
+Qoala,Finance,Early,89.00,1,80,2023-07-31,10,7,2,2.98,6.05
+Cashfree Payments,Finance,Early,41.00,1,100,2023-01-12,10,7,2,2.98,6.05
+Shakepay,Crypto,Early,45.00,1,21,2023-01-27,10,7,2,3.02,6.05
+Bright Money,Finance,Early,31.00,1,100,2022-07-15,10,7,2,2.98,6.05
+Messari,Crypto,Early,61.00,1,,2023-02-23,10,7,2,3.02,6.05
+Mainvest,Finance,Unknown,3.00,1,,2024-05-14,7,10,2,2.98,6.05
+SynapseFI,Finance,Early,50.00,1,63,2020-06-12,10,7,2,2.98,6.05
+Recur,Crypto,Early,55.00,1,,2023-08-21,10,7,2,3.02,6.05
+Synctera,Finance,Early,79.00,1,17,2024-03-26,10,7,2,2.98,6.05
+First AML,Finance,Early,29.00,1,,2022-10-06,10,7,2,2.98,6.05
+Bond,Finance,Early,42.00,1,,2022-06-07,10,7,2,2.98,6.05
+Kevin,Finance,Early,79.00,1,,2024-02-29,10,7,2,2.98,6.05
+LOOP,Finance,Early,34.00,1,23,2024-06-16,10,7,2,2.98,6.05
+Hedvig,Finance,Early,67.00,1,12,2022-09-01,10,7,2,2.98,6.05
+Bitwise,Crypto,Early,84.00,1,900,2023-06-14,10,7,2,3.02,6.05
+Sensibill,Finance,Early,50.00,1,17,2020-04-01,10,7,2,2.98,6.05
+Apollo Insurance,Finance,Early,11.00,1,,2022-11-15,10,7,2,2.98,6.05
+Flux Systems,Finance,Unknown,9.00,1,,2022-10-14,7,10,2,2.98,6.05
+RiseUp,Finance,Early,30.00,1,50,2024-04-30,10,7,2,2.98,6.05
+Jodo,Finance,Early,19.00,1,100,2023-11-20,10,7,2,2.98,6.05
+Kontist,Finance,Early,53.00,1,50,2022-05-25,10,7,2,2.98,6.05
+ZenLedger,Crypto,Early,25.00,1,,2022-12-09,10,7,2,3.02,6.05
+Yoco,Finance,Early,23.00,1,,2020-04-29,10,7,2,2.98,6.05
+Dune,Crypto,Early,79.00,1,,2026-05-14,10,7,2,3.02,6.05
+Kuda,Finance,Early,91.00,1,23,2022-09-02,10,7,2,2.98,6.05
+Cushion,Finance,Early,20.00,1,,2025-01-30,10,7,2,2.98,6.05
+Kaleidoscope,Finance,Early,16.00,1,15,2023-03-14,10,7,2,2.98,6.05
+Zendesk,Support,Mature/Exit,85.00,5,901,2026-03-24,4,7,10,1.67,6.05
+Nansen,Crypto,Early,88.00,1,,2023-05-30,10,7,2,3.02,6.05
+OKCredit,Finance,Early,85.00,1,30,2022-02-24,10,7,2,2.98,6.05
+Sorbet,Finance,Early,58.00,1,,2025-09-14,10,7,2,2.98,6.05
+Plerk,Finance,Early,13.00,1,,2022-11-29,10,7,2,2.98,6.05
+Xolo,Finance,Early,11.00,1,24,2023-09-04,10,7,2,2.98,6.05
+CoinJar,Crypto,Unknown,1.00,1,10,2022-11-29,7,10,2,3.02,6.05
+Recur Forever,Crypto,Early,55.00,1,235,2022-12-07,10,7,2,3.02,6.05
+Coterie Insurance,Finance,Early,70.00,1,30,2022-05-25,10,7,2,2.98,6.05
+Teampay,Finance,Early,79.00,1,30,2023-04-26,10,7,2,2.98,6.05
+Actyv.ai,Finance,Early,12.00,1,,2023-08-02,10,7,2,2.98,6.05
+Mainstreet,Finance,Early,64.00,1,45,2022-05-04,10,7,2,2.98,6.05
+Yapily,Finance,Early,69.00,1,,2022-12-01,10,7,2,2.98,6.05
+Briza,Finance,Early,10.00,1,26,2022-12-20,10,7,2,2.98,6.05
+Daylight,Finance,Early,20.00,1,,2023-05-22,10,7,2,2.98,6.05
+Okra,Finance,Early,12.00,1,,2025-07-02,10,7,2,2.98,6.05
+PayJoy,Finance,Early,71.00,1,27,2020-04-28,10,7,2,2.98,6.05
+Entropy,Crypto,Early,27.00,1,,2026-01-25,10,7,2,3.02,6.05
+Capiter,Finance,Early,33.00,1,,2022-09-09,10,7,2,2.98,6.05
+RDX Works,Crypto,Unknown,6.00,1,,2023-03-07,7,10,2,3.02,6.05
+InDebted,Finance,Early,41.00,1,40,2022-07-26,10,7,2,2.98,6.05
+Parker,Finance,Early,57.00,1,,2026-05-09,10,7,2,2.98,6.05
+BitOasis,Crypto,Early,30.00,1,9,2022-06-19,10,7,2,3.02,6.05
+Zeitgold,Finance,Early,60.18,1,75,2020-07-27,10,7,2,2.98,6.05
+Eventus,Finance,Early,45.00,1,,2023-05-05,10,7,2,2.98,6.05
+Ayoconnect,Finance,Early,43.00,1,,2023-08-03,10,7,2,2.98,6.05
+Spaceship,Finance,Early,41.00,1,,2023-01-19,10,7,2,2.98,6.05
+Foresight Insurance,Finance,Early,58.00,1,,2022-10-06,10,7,2,2.98,6.05
+Quidax,Crypto,Unknown,3.00,1,20,2022-11-24,7,10,2,3.02,6.05
+Catch,Finance,Early,18.00,1,,2023-03-07,10,7,2,2.98,6.05
+Velocity,Finance,Early,30.00,1,,2023-09-15,10,7,2,2.98,6.05
+Kueski,Finance,Early,38.00,1,90,2020-04-20,10,7,2,2.98,6.05
+Sproutt,Finance,Early,38.00,1,,2024-05-01,10,7,2,2.98,6.05
+Treasure Financial,Finance,Early,14.00,1,14,2024-01-09,10,7,2,2.98,6.05
+Boost,Finance,Early,37.00,1,15,2023-04-04,10,7,2,2.98,6.05
+Jetty,Finance,Early,40.00,1,35,2020-04-03,10,7,2,2.98,6.05
+Migo,Finance,Early,37.00,1,,2020-04-28,10,7,2,2.98,6.05
+Borrowell,Finance,Early,72.00,1,15,2020-04-06,10,7,2,2.98,6.05
+FintechOS,Finance,Early,91.00,1,,2023-11-15,10,7,2,2.98,6.05
+Instamojo,Finance,Unknown,8.00,1,6,2020-04-02,7,10,2,2.98,6.05
+Buenbit,Crypto,Early,11.00,1,80,2022-05-23,10,7,2,3.02,6.05
+Freshbooks,Finance,Early,75.00,1,38,2020-04-21,10,7,2,2.98,6.05
+BeeTech,Finance,Early,14.00,1,30,2020-04-10,10,7,2,2.98,6.05
+EquityZen,Finance,Early,11.00,1,30,2022-10-31,10,7,2,2.98,6.05
+TradeWindow,Finance,Early,24.00,1,25,2023-03-15,10,7,2,2.98,6.05
+Level,Finance,Early,27.00,1,,2025-01-02,10,7,2,2.98,6.05
+Numbrs,Finance,Early,78.00,1,62,2020-05-07,10,7,2,2.98,6.05
+CyberCube,Finance,Early,35.00,1,,2022-06-07,10,7,2,2.98,6.05
+Moov,Finance,Early,77.00,1,50,2024-09-25,10,7,2,2.98,6.05
+Protego Trust Bank,Crypto,Early,70.00,1,,2023-03-01,10,7,2,3.02,6.05
+Omie,Finance,Early,26.00,1,136,2020-04-09,10,7,2,2.98,6.05
+Tessera,Crypto,Early,43.00,1,,2023-05-12,10,7,2,3.02,6.05
+Lemon,Crypto,Early,17.00,1,100,2022-11-24,10,7,2,3.02,6.05
+Thimble,Finance,Early,28.00,1,20,2022-07-05,10,7,2,2.98,6.05
+Finleap Connect,Finance,Early,22.00,1,14,2022-06-30,10,7,2,2.98,6.05
+Pier,Finance,Early,42.00,1,111,2023-01-12,10,7,2,2.98,6.05
+Elliptic,Crypto,Early,40.00,1,,2020-04-09,10,7,2,3.02,6.05
+Polarr,Consumer,Early,13.00,1,10,2020-03-29,10,7,2,2.97,6.04
+Gather,Consumer,Early,76.00,1,30,2022-06-02,10,7,2,2.97,6.04
+FanClash,Consumer,Early,50.00,1,100,2023-03-30,10,7,2,2.97,6.04
+Booksy,Consumer,Early,48.00,1,200,2020-04-01,10,7,2,2.97,6.04
+Everybuddy,Consumer,Early,15.00,1,,2024-02-13,10,7,2,2.97,6.04
+TicketSwap,Consumer,Unknown,8.00,1,,2020-05-14,7,10,2,2.97,6.04
+Parler,Consumer,Early,36.00,1,60,2023-01-10,10,7,2,2.97,6.04
+Kaodim,Consumer,Early,17.00,1,,2022-06-02,10,7,2,2.97,6.04
+Lora DiCarlo,Consumer,Unknown,9.00,1,,2022-12-02,7,10,2,2.97,6.04
+GAMURS Group,Consumer,Early,17.00,1,,2023-03-21,10,7,2,2.97,6.04
+Silofit,Fitness,Early,19.00,1,,2023-08-02,10,7,2,2.96,6.04
+Sandbox VR,Consumer,Early,82.00,1,80,2020-05-01,10,7,2,2.97,6.04
+Discourse,Consumer,Early,20.00,1,,2025-12-04,10,7,2,2.97,6.04
+GetNinjas,Consumer,Early,16.00,1,11,2020-04-08,10,7,2,2.97,6.04
+Zeen,Consumer,Unknown,9.00,1,,2025-07-21,7,10,2,2.97,6.04
+Poparazzi,Consumer,Early,15.00,1,,2023-04-28,10,7,2,2.97,6.04
+Airtame,Consumer,Unknown,7.00,1,15,2022-06-15,7,10,2,2.97,6.04
+Fittr,Fitness,Early,13.00,1,30,2023-03-02,10,7,2,2.96,6.04
+Ludeo,Consumer,Early,42.00,1,25,2025-10-20,10,7,2,2.97,6.04
+Xentral,Product,Early,94.00,1,20,2022-12-10,10,7,2,2.84,6.03
+Builder,Product,Early,29.00,1,39,2020-06-04,10,7,2,2.84,6.03
+Stedi,Product,Early,75.00,1,23,2022-08-02,10,7,2,2.84,6.03
+Gitpod,Product,Early,41.00,1,21,2023-01-24,10,7,2,2.84,6.03
+Bryter,Product,Early,89.00,1,100,2022-07-13,10,7,2,2.84,6.03
+Stream,Product,Early,58.00,1,20,2022-06-30,10,7,2,2.84,6.03
+Glitch,Product,Early,30.00,1,18,2020-05-21,10,7,2,2.84,6.03
+Kite,Product,Early,21.00,1,,2022-11-16,10,7,2,2.84,6.03
+Grin,Marketing,Early,145.00,3,60,2024-04-25,10,4,6,2.11,6.02
+Substack,Media,Early,82.00,1,13,2022-06-29,10,7,2,2.71,6.01
+Yonder,Media,Early,16.00,1,18,2020-03-20,10,7,2,2.71,6.01
+Wave Sports and Entertainment,Media,Early,65.00,1,56,2022-06-13,10,7,2,2.71,6.01
+Recast,Media,Early,14.00,1,,2023-09-22,10,7,2,2.71,6.01
+The Muse,Recruiting,Early,28.00,1,,2020-04-03,10,7,2,2.70,6.01
+Atlas Obscura,Media,Early,32.00,1,15,2020-06-18,10,7,2,2.71,6.01
+Triplebyte,Recruiting,Early,48.00,1,15,2020-03-23,10,7,2,2.70,6.01
+Religion of Sports,Media,Early,63.00,1,,2023-02-15,10,7,2,2.71,6.01
+Madefire,Media,Early,16.00,1,,2021-04-29,10,7,2,2.71,6.01
+HeyJobs,Recruiting,Early,62.00,1,90,2025-01-15,10,7,2,2.70,6.01
+Overtime,Media,Early,35.00,1,30,2020-03-25,10,7,2,2.71,6.01
+Dover,Recruiting,Early,22.00,1,23,2022-07-26,10,7,2,2.70,6.01
+AngelList,Recruiting,Early,26.00,1,20,2020-03-31,10,7,2,2.70,6.01
+Anyline,Other,Early,37.00,1,,2023-03-29,10,7,2,2.63,5.99
+Element,Other,Early,96.00,1,,2022-12-25,10,7,2,2.63,5.99
+Dispatch,Other,Early,18.00,1,,2020-04-17,10,7,2,2.63,5.99
+Orbit,Other,Early,20.00,1,,2022-08-12,10,7,2,2.63,5.99
+Datree,Other,Early,11.00,1,,2023-07-27,10,7,2,2.63,5.99
+Katana,Other,Early,67.00,1,75,2025-04-24,10,7,2,2.63,5.99
+TealBook,Other,Early,73.00,1,34,2022-11-17,10,7,2,2.63,5.99
+MyGate,Other,Early,79.00,1,200,2023-02-20,10,7,2,2.63,5.99
+Kissflow,Other,Unknown,1.00,1,45,2024-06-10,7,10,2,2.63,5.99
+Karbon,Other,Early,91.00,1,,2022-09-12,10,7,2,2.63,5.99
+Sketch,Other,Early,20.00,1,80,2022-10-11,10,7,2,2.63,5.99
+L1ght,Other,Early,15.00,1,,2023-05-18,10,7,2,2.63,5.99
+Kinde,Other,Early,10.00,1,8,2023-02-20,10,7,2,2.63,5.99
+Torii,Other,Early,65.00,1,28,2023-06-29,10,7,2,2.63,5.99
+Slite,Other,Early,15.00,1,10,2023-03-23,10,7,2,2.63,5.99
+Lokalise,Other,Early,56.00,1,76,2022-11-16,10,7,2,2.63,5.99
+Salto,Other,Early,69.00,1,30,2025-06-10,10,7,2,2.63,5.99
+Qyuki,Other,Early,19.00,1,,2023-06-29,10,7,2,2.63,5.99
+Brodmann17,Other,Early,25.00,1,,2022-12-09,10,7,2,2.63,5.99
+Vowel,Other,Early,18.00,1,,2023-06-29,10,7,2,2.63,5.99
+Almanac,Other,Early,45.00,1,,2022-08-13,10,7,2,2.63,5.99
+Whereby,Other,Early,10.00,1,,2022-08-01,10,7,2,2.63,5.99
+Plus One Robotics,Other,Early,43.00,1,,2023-01-26,10,7,2,2.63,5.99
+Infogrid,Other,Early,15.00,1,,2022-11-16,10,7,2,2.63,5.99
+Rows,Other,Early,25.00,1,18,2022-06-29,10,7,2,2.63,5.99
+Muni Tienda,Other,Early,20.00,1,,2022-11-23,10,7,2,2.63,5.99
+Eurora,Other,Early,42.00,1,111,2023-09-11,10,7,2,2.63,5.99
+Tonkean,Other,Early,83.00,1,23,2022-06-15,10,7,2,2.63,5.99
+DroneUp,Logistics,Unknown,7.00,1,,2023-05-16,7,10,2,2.56,5.98
+Kobo360,Logistics,Early,85.00,1,30,2024-11-30,10,7,2,2.56,5.98
+ZoomInfo,Sales,Mature/Exit,7.00,3,870,2026-05-10,4,10,6,1.85,5.98
+Arrive Logistics,Logistics,Early,35.00,1,75,2020-04-03,10,7,2,2.56,5.98
+Pandion,Logistics,Early,76.00,1,63,2025-01-10,10,7,2,2.56,5.98
+Truck It In,Logistics,Early,17.00,1,,2022-06-01,10,7,2,2.56,5.98
+Swyft,Logistics,Early,20.00,1,10,2022-06-15,10,7,2,2.56,5.98
+Humu,HR,Early,40.00,1,26,2020-04-02,10,7,2,2.43,5.96
+HackerEarth,HR,Early,11.00,1,,2023-02-14,10,7,2,2.43,5.96
+AllyO,HR,Early,64.00,1,,2020-04-03,10,7,2,2.43,5.96
+Pagarbook,HR,Early,17.00,1,80,2021-07-26,10,7,2,2.43,5.96
+Scoro,HR,Early,23.00,1,,2023-01-24,10,7,2,2.43,5.96
+Workmotion,HR,Early,76.00,1,60,2022-12-15,10,7,2,2.43,5.96
+When I Work,HR,Early,24.00,1,55,2020-04-22,10,7,2,2.43,5.96
+Woven,HR,Early,11.00,1,5,2022-08-16,10,7,2,2.43,5.96
+Envoy,HR,Early,59.00,1,58,2020-04-14,10,7,2,2.43,5.96
+Xerpa,HR,Unknown,5.00,1,10,2020-04-14,7,10,2,2.43,5.96
+Compete,HR,Early,17.00,1,11,2022-09-12,10,7,2,2.43,5.96
+Hibob,HR,Early,45.00,1,70,2020-03-30,10,7,2,2.43,5.96
+Blueboard,HR,Early,16.00,1,,2024-03-15,10,7,2,2.43,5.96
+Workstream,HR,Early,58.00,1,45,2022-07-22,10,7,2,2.43,5.96
+The Org,HR,Early,39.00,1,13,2022-08-03,10,7,2,2.43,5.96
+Playtika,Consumer,Mature/Exit,,6,2440,2026-01-14,4,6,10,2.97,5.94
+TikTok,Consumer,Mature/Exit,,9,1910,2026-07-01,4,6,10,2.97,5.94
+Darrow,Legal,Early,63.00,1,60,2026-07-07,10,7,2,2.21,5.93
+Athennian,Legal,Early,47.00,1,30,2023-07-05,10,7,2,2.21,5.93
+Robin AI,Legal,Early,68.00,1,,2025-10-24,10,7,2,2.21,5.93
+#Paid,Marketing,Early,21.00,1,19,2023-01-27,10,7,2,2.11,5.92
+Ripl,Marketing,Unknown,9.00,1,,2023-07-26,7,10,2,2.11,5.92
+Optimove,Marketing,Early,20.00,1,,2026-06-17,10,7,2,2.11,5.92
+CrowdRiff,Marketing,Early,11.00,1,,2020-04-16,10,7,2,2.11,5.92
+Aspire,Marketing,Early,27.00,1,23,2022-07-15,10,7,2,2.11,5.92
+Captiv8,Marketing,Unknown,4.00,1,8,2023-08-24,7,10,2,2.11,5.92
+CoSchedule,Marketing,Unknown,2.00,1,,2023-01-13,7,10,2,2.11,5.92
+Drop,Marketing,Early,56.00,1,24,2022-11-01,10,7,2,2.11,5.92
+Amplero,Marketing,Early,25.00,1,17,2020-03-29,10,7,2,2.11,5.92
+Nativo,Marketing,Early,35.00,1,,2020-03-26,10,7,2,2.11,5.92
+&Open,Marketing,Early,35.00,1,9,2022-11-17,10,7,2,2.11,5.92
+Mutiny,Marketing,Early,69.00,1,,2023-06-21,10,7,2,2.11,5.92
+Crayon,Marketing,Early,16.00,1,20,2020-04-01,10,7,2,2.11,5.92
+Spectrm,Marketing,Early,11.00,1,,2024-12-10,10,7,2,2.11,5.92
+Emotive,Marketing,Early,78.00,1,30,2022-07-07,10,7,2,2.11,5.92
+Metigy,Marketing,Early,18.00,1,75,2022-07-31,10,7,2,2.11,5.92
+Air,Marketing,Early,18.00,1,,2020-09-16,10,7,2,2.11,5.92
+Clyde,Marketing,Early,58.00,1,22,2022-04-25,10,7,2,2.11,5.92
+Basis Technologies,Marketing,Early,52.00,1,40,2023-02-21,10,7,2,2.11,5.92
+DialSource,Marketing,Early,26.00,1,5,2020-03-31,10,7,2,2.11,5.92
+MVPindex,Marketing,Early,27.00,1,12,2024-01-25,10,7,2,2.11,5.92
+BounceX,Marketing,Early,75.00,1,77,2020-04-06,10,7,2,2.11,5.92
+Brilliant,Hardware,Early,64.00,1,,2024-05-08,10,7,2,2.11,5.92
+Uberflip,Marketing,Early,42.00,1,31,2022-08-05,10,7,2,2.11,5.92
+Opal,Marketing,Early,25.00,1,20,2020-03-27,10,7,2,2.11,5.92
+Singular,Marketing,Early,50.00,1,,2020-04-23,10,7,2,2.11,5.92
+Paperless Parts,Manufacturing,Early,30.00,1,,2023-05-22,10,7,2,2.14,5.92
+Log 9 Materials,Manufacturing,Early,32.00,1,,2025-05-02,10,7,2,2.14,5.92
+Rasa,Data,Early,40.00,1,59,2022-03-30,10,7,2,2.04,5.91
+Appcues,Data,Early,52.00,1,,2023-03-08,10,7,2,2.04,5.91
+CodeSee,Data,Early,10.00,1,,2024-02-15,10,7,2,2.04,5.91
+StellarAlgo,Data,Early,16.00,1,21,2023-10-19,10,7,2,2.04,5.91
+Alegion,Data,Early,16.00,1,,2020-04-03,10,7,2,2.04,5.91
+SafeGraph,Data,Early,61.00,1,27,2022-06-27,10,7,2,2.04,5.91
+Element Analytics,Data,Early,22.00,1,10,2020-03-25,10,7,2,2.04,5.91
+Defined.ai,Data,Early,78.00,1,,2022-02-07,10,7,2,2.04,5.91
+Rewind,Data,Early,80.00,1,,2023-03-22,10,7,2,2.04,5.91
+BeyondMinds,Data,Early,16.00,1,65,2022-05-23,10,7,2,2.04,5.91
+Prefect,Data,Early,47.00,1,20,2025-03-25,10,7,2,2.04,5.91
+Revelate,Data,Early,26.00,1,24,2022-12-16,10,7,2,2.04,5.91
+GrayMeta,Data,Unknown,7.00,1,20,2020-03-23,7,10,2,2.04,5.91
+Mixpanel,Data,Early,77.00,1,65,2020-05-12,10,7,2,2.04,5.91
+ABBYY,Data,Unknown,6.00,1,200,2024-10-01,7,10,2,2.04,5.91
+Descartes Labs,Data,Early,58.00,1,12,2020-06-02,10,7,2,2.04,5.91
+Prisma,Data,Early,56.00,1,,2023-01-19,10,7,2,2.04,5.91
+Daloopa,Data,Early,23.00,1,40,2022-05-27,10,7,2,2.04,5.91
+SQream,Data,Early,77.00,1,30,2022-07-06,10,7,2,2.04,5.91
+Snowplow,Data,Early,55.00,1,40,2023-02-02,10,7,2,2.04,5.91
+Oracle,Other,Mature/Exit,,11,22294,2026-06-23,4,6,10,2.63,5.89
+Subtl AI,AI,Early,,1,,2025-07-03,10,6,2,3.87,5.88
+Finite State,Security,Early,49.00,1,16,2022-06-17,10,7,2,1.85,5.88
+Chili Piper,Sales,Early,54.00,1,58,2022-11-17,10,7,2,1.85,5.88
+Proton.ai,Sales,Early,20.00,1,,2022-11-29,10,7,2,1.85,5.88
+Tor,Security,Unknown,1.00,1,13,2020-04-17,7,10,2,1.85,5.88
+Klue,Sales,Early,83.00,1,85,2025-06-25,10,7,2,1.85,5.88
+Toplyne,Sales,Early,17.00,1,,2024-10-11,10,7,2,1.85,5.88
+Identiq,Security,Early,52.00,1,20,2024-04-01,10,7,2,1.85,5.88
+Mercos,Sales,Unknown,2.00,1,51,2020-05-13,7,10,2,1.85,5.88
+PartnerStack,Sales,Early,36.00,1,40,2023-01-24,10,7,2,1.85,5.88
+Anyvision,Security,Early,74.00,1,,2020-03-19,10,7,2,1.85,5.88
+NanoLock,Security,Early,18.00,1,,2025-02-06,10,7,2,1.85,5.88
+Walnut,Sales,Early,56.00,1,15,2024-05-29,10,7,2,1.85,5.88
+Thrive,Food,Early,,1,,2024-12-14,10,6,2,3.90,5.88
+InfoSum,Security,Early,88.00,1,20,2022-10-19,10,7,2,1.85,5.88
+Hoxhunt,Security,Early,43.00,1,,2023-01-29,10,7,2,1.85,5.88
+InsurStaq.ai,AI,Early,,1,,2024-09-09,10,6,2,3.87,5.88
+Brainbase,Sales,Early,12.00,1,,2022-07-28,10,7,2,1.85,5.88
+Ermetic,Security,Early,97.00,1,30,2023-01-23,10,7,2,1.85,5.88
+Stoqo,Food,Early,,1,250,2020-04-25,10,6,2,3.90,5.88
+Rubica,Security,Early,14.00,1,,2020-11-05,10,7,2,1.85,5.88
+Forma.ai,Sales,Early,58.00,1,15,2022-07-20,10,7,2,1.85,5.88
+Sirplus,Food,Early,,1,60,2024-01-17,10,6,2,3.90,5.88
+Motional,Transportation,Unknown,,3,550,2024-05-10,7,6,6,3.06,5.86
+AskNicely,Support,Early,15.00,1,,2020-04-07,10,7,2,1.67,5.85
+Skit.ai,Support,Early,28.00,1,115,2023-01-12,10,7,2,1.67,5.85
+Remesh,Support,Early,38.00,1,,2022-07-01,10,7,2,1.67,5.85
+Clinc,Support,Early,59.00,1,40,2020-04-09,10,7,2,1.67,5.85
+Ada Support,Support,Early,60.00,1,36,2020-04-24,10,7,2,1.67,5.85
+Catalyst,Support,Early,45.00,1,,2022-07-21,10,7,2,1.67,5.85
+Help Scout,Support,Early,28.00,1,,2022-11-01,10,7,2,1.67,5.85
+Swyftx,Crypto,Unknown,,3,201,2026-04-15,7,6,6,3.02,5.85
+Bybit,Crypto,Unknown,,3,600,2022-12-03,7,6,6,3.02,5.85
+Illumina,Healthcare,Mature/Exit,28.00,4,762,2024-02-01,4,7,8,3.48,5.82
+Notable Labs,Healthcare,Early,,1,,2024-09-20,10,6,2,3.48,5.82
+Dell,Hardware,Mature/Exit,,5,23650,2026-03-16,4,6,10,2.11,5.82
+Qualcomm,Hardware,Mature/Exit,,5,1629,2026-04-09,4,6,10,2.11,5.82
+IBM,Hardware,Mature/Exit,,5,4900,2024-09-18,4,6,10,2.11,5.82
+JiviAI,Healthcare,Early,,1,,2026-06-26,10,6,2,3.48,5.82
+Qin1,Education,Early,,1,,2022-10-14,10,6,2,3.39,5.81
+Toucan,Education,Early,,1,,2023-03-09,10,6,2,3.39,5.81
+McMakler,Real Estate,Unknown,214.00,4,310,2023-11-21,7,4,8,3.38,5.81
+CodeClan,Education,Early,,1,57,2023-08-04,10,6,2,3.39,5.81
+SuperLearn,Education,Early,,1,,2022-06-21,10,6,2,3.39,5.81
+ReshaMandi,Food,Unknown,54.00,2,,2024-08-20,7,7,4,3.90,5.78
+Shutterfly,Retail,Mature/Exit,50.00,4,1486,2026-04-16,4,7,8,3.17,5.78
+1K Kirana,Retail,Early,,1,600,2023-04-04,10,6,2,3.17,5.78
+Virgio,Retail,Early,,1,20,2023-10-25,10,6,2,3.17,5.78
+F5,Security,Mature/Exit,,6,1049,2025-08-13,4,6,10,1.85,5.78
+Belora Paris,Retail,Early,,1,,2023-10-18,10,6,2,3.17,5.78
+Grabango,Food,Unknown,94.00,2,34,2024-10-09,7,7,4,3.90,5.78
+Swiggy,Food,Unknown,3600.00,6,3280,2024-01-25,7,2,10,3.90,5.78
+Picnic,Food,Unknown,52.00,2,,2026-05-26,7,7,4,3.90,5.78
+Article,Retail,Early,,1,216,2022-08-04,10,6,2,3.17,5.78
+Ruggable,Retail,Early,,1,100,2023-01-27,10,6,2,3.17,5.78
+Ohm Mobility,Transportation,Early,,1,,2025-07-24,10,6,2,3.06,5.76
+Avocargo,Transportation,Early,,1,16,2023-04-06,10,6,2,3.06,5.76
+Nori,Energy,Unknown,19.00,2,10,2024-09-09,7,7,4,3.72,5.76
+Wing Cloud,Infrastructure,Early,,1,,2025-04-09,10,6,2,3.06,5.76
+Icon,Construction,Early,451.00,2,114,2025-01-09,10,4,4,3.66,5.75
+Polygon,Crypto,Unknown,451.00,4,220,2026-07-16,7,4,8,3.02,5.75
+Zap Africa,Finance,Early,,1,,2026-02-28,10,6,2,2.98,5.75
+Covrzy,Finance,Early,,1,,2026-03-31,10,6,2,2.98,5.75
+FreshBooks,Finance,Unknown,331.00,4,220,2024-10-01,7,4,8,2.98,5.75
+GoFundMe,Finance,Early,,1,94,2022-10-26,10,6,2,2.98,5.75
+Stash,Finance,Unknown,480.00,4,240,2024-12-04,7,4,8,2.98,5.75
+Bcredi,Finance,Early,,1,,2020-03-27,10,6,2,2.98,5.75
+iRobot,Consumer,Mature/Exit,30.00,4,680,2024-11-06,4,7,8,2.97,5.74
+Ten Square Games,Consumer,Early,,1,120,2023-04-17,10,6,2,2.97,5.74
+Quizy,Consumer,Early,,1,,2023-08-09,10,6,2,2.97,5.74
+Productboard,Product,Growth,,4,100,2026-04-15,5,6,8,2.84,5.73
+InVision,Product,Unknown,356.00,4,22,2024-01-04,7,4,8,2.84,5.73
+CodeParrot,Product,Early,,1,,2025-07-17,10,6,2,2.84,5.73
+Elemy,Healthcare,Early,323.00,2,,2022-12-05,10,4,4,3.48,5.72
+Calibrate,Healthcare,Early,127.00,2,156,2023-04-14,10,4,4,3.48,5.72
+Hirect,Recruiting,Early,,1,200,2022-11-28,10,6,2,2.70,5.71
+Teachmint,Education,Early,118.00,2,115,2023-05-05,10,4,4,3.39,5.71
+Loft,Real Estate,Unknown,788.00,6,1289,2023-03-03,7,2,10,3.38,5.71
+Bluepad,Media,Early,,1,,2023-04-13,10,6,2,2.71,5.71
+SAS,Data,Unknown,,3,550,2026-06-26,7,6,6,2.04,5.71
+GoNuts,Media,Early,,1,,2022-10-27,10,6,2,2.71,5.71
+Lev,Real Estate,Early,114.00,2,64,2023-05-01,10,4,4,3.38,5.71
+Better.com,Real Estate,Unknown,905.00,6,3900,2023-09-06,7,2,10,3.38,5.71
+Domio,Travel,Early,116.00,2,,2020-11-18,10,4,4,3.36,5.70
+Frontdesk,Travel,Unknown,26.00,2,235,2024-01-02,7,7,4,3.36,5.70
+Fluke,Other,Early,,1,83,2022-08-17,10,6,2,2.63,5.69
+ChowNow,Food,Growth,64.00,3,200,2024-03-28,5,7,6,3.90,5.68
+HopSkipDrive,Transportation,Unknown,45.00,2,8,2020-08-12,7,7,4,3.06,5.66
+Gokada,Transportation,Unknown,12.00,2,74,2023-01-31,7,7,4,3.06,5.66
+Hologram,Infrastructure,Unknown,82.00,2,80,2024-01-12,7,7,4,3.06,5.66
+VanHack,HR,Early,,1,,2022-10-11,10,6,2,2.43,5.66
+Xing,HR,Early,,1,68,2023-03-21,10,6,2,2.43,5.66
+Spin,Transportation,Mature/Exit,8.00,2,78,2022-09-30,4,10,4,3.06,5.66
+Rad Power Bikes,Transportation,Growth,329.00,5,203,2024-08-01,5,4,10,3.06,5.66
+Our Next Energy,Transportation,Early,390.00,2,168,2024-03-04,10,4,4,3.06,5.66
+Zoomo,Transportation,Early,105.00,2,92,2023-05-02,10,4,4,3.06,5.66
+SumUp,Finance,Unknown,53.00,2,100,2022-05-30,7,7,4,2.98,5.65
+Moss,Finance,Early,150.00,2,100,2023-05-19,10,4,4,2.98,5.65
+Candy Digital,Crypto,Early,138.00,2,63,2023-06-29,10,4,4,3.02,5.65
+Autograph,Crypto,Early,205.00,2,30,2023-05-04,10,4,4,3.02,5.65
+Games 24x7,Consumer,Unknown,75.00,2,580,2025-09-01,7,7,4,2.97,5.64
+Bytedance,Consumer,Unknown,9400.00,7,5700,2024-10-11,7,2,10,2.97,5.64
+Zupee,Consumer,Early,121.00,2,370,2026-01-30,10,4,4,2.97,5.64
+Moore Threads,Hardware,Early,,1,,2023-11-06,10,6,2,2.11,5.62
+Talent.com,Recruiting,Early,150.00,2,86,2023-09-05,10,4,4,2.70,5.61
+Vallai,Data,Early,,1,,2023-05-02,10,6,2,2.04,5.61
+Highsnobiety,Media,Mature/Exit,8.50,2,75,2023-07-03,4,10,4,2.71,5.61
+Crunchyroll,Media,Unknown,26.00,2,85,2025-08-12,7,7,4,2.71,5.61
+Chingari,Media,Unknown,88.00,2,48,2023-08-24,7,7,4,2.71,5.61
+Outside,Media,Early,174.00,2,87,2022-11-15,10,4,4,2.71,5.61
+WhyHive,Data,Early,,1,,2025-04-02,10,6,2,2.04,5.61
+Elementor,Media,Unknown,65.00,2,160,2026-06-29,7,7,4,2.71,5.61
+Zencity,Other,Unknown,51.00,2,45,2026-06-07,7,7,4,2.63,5.59
+Pitch,Other,Early,138.00,2,139,2024-01-08,10,4,4,2.63,5.59
+Calendly,Other,Early,351.00,2,130,2024-12-11,10,4,4,2.63,5.59
+Vendr,Other,Early,216.00,2,100,2024-01-12,10,4,4,2.63,5.59
+Airlift,Logistics,Early,109.00,2,,2022-07-12,10,4,4,2.56,5.58
+Akerna,Logistics,Unknown,46.00,2,,2022-05-27,7,7,4,2.56,5.58
+Astra,Sales,Unknown,300.00,4,146,2025-07-28,7,4,8,1.85,5.58
+Sana Benefits,HR,Early,106.00,2,73,2023-11-01,10,4,4,2.43,5.56
+ShareChat,Marketing,Unknown,1700.00,6,958,2025-01-15,7,2,10,2.11,5.52
+Tomorrow,Hardware,Unknown,29.00,2,30,2025-04-28,7,7,4,2.11,5.52
+Bustle Digital Group,Media,Growth,80.00,3,43,2023-02-01,5,7,6,2.71,5.51
+TheSkimm,Media,Growth,28.00,3,65,2023-05-03,5,7,6,2.71,5.51
+Aqua Security,Security,Growth,325.00,5,159,2025-12-01,5,4,10,1.85,5.48
+Lusha,Sales,Early,245.00,2,54,2025-12-10,10,4,4,1.85,5.48
+Blue Origin,Aerospace,Unknown,167.00,3,1040,2025-02-13,7,4,6,4.54,5.48
+Detectify,Security,Unknown,42.00,2,30,2023-08-18,7,7,4,1.85,5.48
+Cogito,Support,Unknown,92.00,2,201,2023-04-29,7,7,4,1.67,5.45
+Skai,Marketing,Growth,60.00,3,210,2026-06-03,5,7,6,2.11,5.42
+Redfin,Real Estate,Mature/Exit,320.00,7,2347,2025-02-12,4,4,10,3.38,5.41
+Chegg,Education,Mature/Exit,227.00,5,1476,2025-10-27,4,4,10,3.39,5.41
+2U,Education,Mature/Exit,426.00,5,,2025-03-31,4,4,10,3.39,5.41
+Stoa,Real Estate,Unknown,,2,80,2024-11-12,7,6,4,3.38,5.41
+Clear Capital,Real Estate,Unknown,,2,628,2023-01-25,7,6,4,3.38,5.41
+MaxMilhas,Travel,Unknown,,2,249,2023-09-05,7,6,4,3.36,5.40
+Airy Rooms,Travel,Unknown,,2,,2020-05-07,7,6,4,3.36,5.40
+Daraz,Retail,Unknown,,2,,2024-02-26,7,6,4,3.17,5.38
+Shopify,Retail,Mature/Exit,122.30,8,3480,2026-05-04,4,4,10,3.17,5.38
+WayCool,Food,Unknown,363.00,3,570,2024-07-26,7,4,6,3.90,5.38
+AirMap,Aerospace,Unknown,75.00,1,,2020-04-30,7,7,2,4.54,5.38
+True Anomaly,Aerospace,Early,158.00,1,30,2024-04-25,10,4,2,4.54,5.38
+New Relic,Infrastructure,Mature/Exit,214.50,6,545,2024-11-12,4,4,10,3.06,5.36
+PayPal,Finance,Mature/Exit,216.00,5,9428,2026-05-05,4,4,10,2.98,5.35
+Lazerpay,Crypto,Unknown,,2,,2023-04-13,7,6,4,3.02,5.35
+Finastra,Finance,Unknown,,2,,2023-08-03,7,6,4,2.98,5.35
+Sonos,Consumer,Mature/Exit,455.20,7,604,2026-06-25,4,4,10,2.97,5.34
+Welltech,Fitness,Unknown,,2,305,2026-04-03,7,6,4,2.96,5.34
+Vimeo,Consumer,Mature/Exit,450.00,5,,2026-04-03,4,4,10,2.97,5.34
+GamesKraft,Consumer,Unknown,,2,400,2025-11-10,7,6,4,2.97,5.34
+Headspace,Healthcare,Unknown,216.00,3,231,2024-11-20,7,4,6,3.48,5.32
+Nomad Health,Healthcare,Unknown,218.00,3,119,2024-02-05,7,4,6,3.48,5.32
+Redesign Health,Healthcare,Unknown,315.00,3,221,2024-02-23,7,4,6,3.48,5.32
+The Messenger,Media,Unknown,,2,24,2024-01-31,7,6,4,2.71,5.31
+LinkedIn,Recruiting,Mature/Exit,154.00,6,3413,2026-05-13,4,4,10,2.70,5.31
+Thinkific,Education,Mature/Exit,22.00,3,176,2023-01-10,4,7,6,3.39,5.31
+Bonterra,Other,Unknown,,2,140,2023-09-11,7,6,4,2.63,5.29
+JOKR,Food,Early,430.00,1,50,2022-06-16,10,4,2,3.90,5.28
+OfferUp,Retail,Unknown,381.00,3,,2025-10-15,7,4,6,3.17,5.28
+Skip the Dishes,Food,Mature/Exit,8.00,1,800,2024-08-20,4,10,2,3.90,5.28
+Karakuki,Food,Unknown,13.00,1,,2023-06-20,7,7,2,3.90,5.28
+Leafly,Retail,Mature/Exit,71.00,3,187,2023-03-16,4,7,6,3.17,5.28
+Small Robot Company,Food,Unknown,10.00,1,,2024-02-02,7,7,2,3.90,5.28
+Epicery,Food,Mature/Exit,7.00,1,,2024-12-31,4,10,2,3.90,5.28
+Cana,Food,Unknown,30.00,1,,2023-05-13,7,7,2,3.90,5.28
+SkipTheDishes,Food,Mature/Exit,6.00,1,350,2022-09-09,4,10,2,3.90,5.28
+Believer Meats,Food,Early,389.00,1,,2025-12-11,10,4,2,3.90,5.28
+Character.ai,AI,Early,150.00,1,6,2024-08-29,10,4,2,3.87,5.28
+Salsify,Retail,Unknown,453.00,3,260,2023-10-25,7,4,6,3.17,5.28
+Square Roots,Food,Unknown,91.00,1,,2023-07-18,7,7,2,3.90,5.28
+Oda,Food,Unknown,691.00,4,360,2024-06-05,7,2,8,3.90,5.28
+Aqgromalin,Food,Unknown,12.00,1,80,2022-06-20,7,7,2,3.90,5.28
+Pared,Food,Unknown,13.00,1,,2020-07-29,7,7,2,3.90,5.28
+Qomplx,AI,Early,107.00,1,60,2023-08-04,10,4,2,3.87,5.28
+Jasper,AI,Early,131.00,1,,2023-07-11,10,4,2,3.87,5.28
+Mr Yum,Food,Early,101.00,1,40,2023-03-21,10,4,2,3.90,5.28
+Kraken,Crypto,Unknown,134.00,3,1650,2026-05-15,7,4,6,3.02,5.25
+Intuit,Finance,Mature/Exit,18.00,3,5515,2026-05-20,4,7,6,2.98,5.25
+Amdocs,Support,Mature/Exit,,4,2700,2026-05-28,4,6,8,1.67,5.25
+Tul,Construction,Early,218.00,1,100,2023-01-17,10,4,2,3.66,5.25
+Cameo,Consumer,Unknown,165.00,3,247,2023-07-18,7,4,6,2.97,5.24
+League,Healthcare,Unknown,76.00,1,,2020-05-05,7,7,2,3.48,5.22
+Truepill,Healthcare,Growth,255.00,4,325,2022-09-30,5,4,8,3.48,5.22
+Vial,Healthcare,Early,101.00,1,40,2023-01-13,10,4,2,3.48,5.22
+Antidote Health,Healthcare,Unknown,36.00,1,23,2022-10-23,7,7,2,3.48,5.22
+Ada Health,Healthcare,Early,189.00,1,50,2022-10-17,10,4,2,3.48,5.22
+Repertoire Immune Medicines,Healthcare,Early,257.00,1,65,2022-11-08,10,4,2,3.48,5.22
+Talis Biomedical,Healthcare,Mature/Exit,8.00,1,,2022-03-15,4,10,2,3.48,5.22
+Sanar,Healthcare,Unknown,11.00,1,60,2022-06-10,7,7,2,3.48,5.22
+Tome Biosciences,Healthcare,Early,213.00,1,131,2024-08-26,10,4,2,3.48,5.22
+CoverMyMeds,Healthcare,Mature/Exit,5.00,1,800,2023-03-29,4,10,2,3.48,5.22
+Clue,Healthcare,Unknown,47.00,1,31,2023-01-18,7,7,2,3.48,5.22
+Sami,Healthcare,Unknown,36.00,1,75,2022-06-14,7,7,2,3.48,5.22
+Envato,Marketing,Unknown,,2,300,2026-03-04,7,6,4,2.11,5.22
+Huawei,Hardware,Unknown,,2,50,2026-02-15,7,6,4,2.11,5.22
+Tia,Healthcare,Early,133.00,1,,2025-10-17,10,4,2,3.48,5.22
+Examedi,Healthcare,Unknown,19.00,1,45,2023-04-11,7,7,2,3.48,5.22
+SchoolMint,Education,Mature/Exit,8.00,1,29,2023-10-05,4,10,2,3.39,5.21
+Lyric,Real Estate,Early,179.10,1,100,2020-03-25,10,4,2,3.38,5.21
+Candor Technology,Real Estate,Unknown,23.00,1,,2023-03-17,7,7,2,3.38,5.21
+Properly,Real Estate,Early,154.00,1,71,2022-11-15,10,4,2,3.38,5.21
+Homebot,Real Estate,Mature/Exit,4.00,1,18,2022-12-19,4,10,2,3.38,5.21
+Rezi,Real Estate,Early,230.00,1,,2024-04-01,10,4,2,3.38,5.21
+Esme Learning,Education,Unknown,37.00,1,,2022-06-02,7,7,2,3.39,5.21
+Lendi,Real Estate,Unknown,59.00,1,100,2023-03-03,7,7,2,3.38,5.21
+Practically,Education,Unknown,14.00,1,,2022-11-06,7,7,2,3.39,5.21
+Homeday,Real Estate,Unknown,71.00,1,40,2023-09-12,7,7,2,3.38,5.21
+Physics Wallah,Education,Early,100.00,1,120,2023-11-19,10,4,2,3.39,5.21
+Zeus Living,Real Estate,Growth,151.00,4,217,2023-11-07,5,4,8,3.38,5.21
+Flyhomes,Real Estate,Growth,310.00,4,500,2023-12-14,5,4,8,3.38,5.21
+Orchard,Real Estate,Growth,472.00,4,180,2023-11-02,5,4,8,3.38,5.21
+FutureLearn,Education,Unknown,50.00,1,,2022-11-28,7,7,2,3.39,5.21
+Interview Kickstart,Education,Unknown,10.00,1,50,2026-05-29,7,7,2,3.39,5.21
+Paper,Education,Growth,389.00,4,355,2024-08-16,5,4,8,3.39,5.21
+Vedantu,Education,Growth,292.00,4,1109,2022-12-07,5,4,8,3.39,5.21
+Reali,Real Estate,Early,117.00,1,140,2022-08-24,10,4,2,3.38,5.21
+FlightStats,Travel,Mature/Exit,3.00,1,73,2024-05-30,4,10,2,3.36,5.20
+Sherpa,Travel,Unknown,11.00,1,22,2022-07-29,7,7,2,3.36,5.20
+iPrice Group,Retail,Unknown,26.00,1,50,2022-06-08,7,7,2,3.17,5.18
+Boosted Commerce,Retail,Early,137.00,1,,2022-07-22,10,4,2,3.17,5.18
+Flowhub,Retail,Unknown,45.00,1,,2022-09-09,7,7,2,3.17,5.18
+ANS Commerce,Retail,Mature/Exit,2.00,1,,2025-03-02,4,10,2,3.17,5.18
+ON,Retail,Unknown,81.00,1,60,2024-07-16,7,7,2,3.17,5.18
+Enjoei,Retail,Unknown,14.00,1,31,2023-01-20,7,7,2,3.17,5.18
+Involves,Retail,Unknown,23.00,1,70,2022-07-13,7,7,2,3.17,5.18
+Merama,Retail,Early,445.00,1,,2023-06-29,10,4,2,3.17,5.18
+ShopX,Retail,Unknown,56.00,1,,2022-08-22,7,7,2,3.17,5.18
+Feather,Retail,Unknown,76.00,1,,2022-06-24,7,7,2,3.17,5.18
+Glossier,Retail,Growth,266.00,4,299,2026-02-11,5,4,8,3.17,5.18
+Trend Micro,Security,Unknown,,2,45,2026-05-12,7,6,4,1.85,5.18
+Getir,Food,Growth,1800.00,5,5900,2024-04-29,5,2,10,3.90,5.18
+KiwiCo,Retail,Unknown,11.00,1,40,2022-06-07,7,7,2,3.17,5.18
+Benitago Group,Retail,Early,380.00,1,,2022-11-04,10,4,2,3.17,5.18
+Firework,Retail,Early,269.00,1,,2022-11-29,10,4,2,3.17,5.18
+Goop,Retail,Unknown,75.00,1,39,2024-09-06,7,7,2,3.17,5.18
+Flink,Food,Early,1000.00,2,8100,2023-05-24,10,2,4,3.90,5.18
+Ula,Retail,Early,140.00,1,134,2022-11-30,10,4,2,3.17,5.18
+Arive,Retail,Unknown,37.00,1,,2023-07-24,7,7,2,3.17,5.18
+The Grommet,Retail,Mature/Exit,5.00,1,40,2022-06-09,4,10,2,3.17,5.18
+Spring,Retail,Unknown,61.00,1,,2022-07-12,7,7,2,3.17,5.18
+Latch,Security,Mature/Exit,342.00,5,335,2023-07-10,4,4,10,1.85,5.18
+Eroad,Transportation,Unknown,46.00,1,200,2023-07-28,7,7,2,3.06,5.16
+CarGurus,Transportation,Mature/Exit,1.00,1,130,2020-04-16,4,10,2,3.06,5.16
+Starship,Transportation,Early,197.00,1,,2022-06-09,10,4,2,3.06,5.16
+Bounce,Transportation,Growth,214.20,4,490,2023-01-06,5,4,8,3.06,5.16
+Oye Rickshaw,Transportation,Unknown,13.00,1,40,2022-06-29,7,7,2,3.06,5.16
+First Mode,Transportation,Mature/Exit,9.00,1,48,2024-01-16,4,10,2,3.06,5.16
+Wisense,Transportation,Unknown,37.00,1,,2024-02-13,7,7,2,3.06,5.16
+HumanForest,Transportation,Mature/Exit,1.54,1,,2020-09-25,4,10,2,3.06,5.16
+Aptiv,Transportation,Mature/Exit,8.00,1,250,2024-02-20,4,10,2,3.06,5.16
+Argo AI,Transportation,Unknown,3600.00,4,682,2022-11-01,7,2,8,3.06,5.16
+Stackpath,Infrastructure,Early,396.00,1,,2024-06-17,10,4,2,3.06,5.16
+Nyriad,Infrastructure,Unknown,58.00,1,,2022-10-10,7,7,2,3.06,5.16
+Cake Bikes,Transportation,Unknown,74.00,1,,2024-02-02,7,7,2,3.06,5.16
+Dance,Transportation,Unknown,63.00,1,,2022-11-16,7,7,2,3.06,5.16
+Baraja,Transportation,Unknown,63.00,1,,2023-02-08,7,7,2,3.06,5.16
+Moladin,Transportation,Early,138.00,1,360,2023-02-12,10,4,2,3.06,5.16
+Phantom Auto,Transportation,Unknown,86.00,1,100,2024-03-12,7,7,2,3.06,5.16
+Cowbell,Finance,Early,123.00,1,28,2023-09-29,10,4,2,2.98,5.15
+Sprinklr,Support,Mature/Exit,429.00,5,766,2025-02-06,4,4,10,1.67,5.15
+Endowus,Finance,Unknown,44.00,1,,2023-03-30,7,7,2,2.98,5.15
+Klub,Finance,Unknown,35.00,1,60,2024-11-29,7,7,2,2.98,5.15
+Paytm,Finance,Unknown,2200.00,4,5400,2026-06-09,7,2,8,2.98,5.15
+Sunday,Finance,Early,124.00,1,90,2022-06-24,10,4,2,2.98,5.15
+CoinTracker,Crypto,Early,101.00,1,19,2023-01-28,10,4,2,3.02,5.15
+Change Invest,Finance,Unknown,22.00,1,,2022-11-27,7,7,2,2.98,5.15
+Lentra,Finance,Early,104.00,1,,2024-04-02,10,4,2,2.98,5.15
+OPay,Finance,Early,170.00,1,,2020-05-06,10,4,2,2.98,5.15
+Protocol Labs,Crypto,Unknown,10.00,1,89,2023-02-03,7,7,2,3.02,5.15
+Elinvar,Finance,Unknown,30.00,1,43,2022-10-21,7,7,2,2.98,5.15
+Monese,Finance,Unknown,80.00,1,35,2020-05-01,7,7,2,2.98,5.15
+Bizpay,Finance,Unknown,45.00,1,,2022-05-04,7,7,2,2.98,5.15
+Tonik,Finance,Early,175.00,1,,2024-03-01,10,4,2,2.98,5.15
+AtoB,Finance,Early,177.00,1,32,2022-10-19,10,4,2,2.98,5.15
+Tomo,Finance,Early,110.00,1,44,2022-05-31,10,4,2,2.98,5.15
+AgentSync,Finance,Early,111.00,1,67,2023-07-19,10,4,2,2.98,5.15
+Oriente,Finance,Early,175.00,1,400,2020-05-04,10,4,2,2.98,5.15
+Twig,Finance,Unknown,41.00,1,,2024-02-02,7,7,2,2.98,5.15
+Fast,Finance,Early,124.00,1,,2022-04-05,10,4,2,2.98,5.15
+Amber Group,Crypto,Early,328.00,1,,2022-09-09,10,4,2,3.02,5.15
+Karat Financial,Finance,Early,116.00,1,,2023-10-27,10,4,2,2.98,5.15
+Ethereum Foundation,Crypto,Unknown,18.00,1,54,2026-06-23,7,7,2,3.02,5.15
+R3,Crypto,Early,112.00,1,,2023-09-14,10,4,2,3.02,5.15
+BillGO,Finance,Early,119.00,1,80,2024-02-05,10,4,2,2.98,5.15
+DataRails,Finance,Early,103.00,1,30,2022-12-05,10,4,2,2.98,5.15
+Ledn,Crypto,Early,103.00,1,,2022-11-28,10,4,2,3.02,5.15
+Everledger,Crypto,Unknown,27.00,1,,2023-05-08,7,7,2,3.02,5.15
+ConsenSys,Crypto,Unknown,726.00,4,401,2025-07-22,7,2,8,3.02,5.15
+Exodus,Crypto,Unknown,60.00,1,59,2022-11-04,7,7,2,3.02,5.15
+Veem,Finance,Unknown,69.00,1,30,2020-05-14,7,7,2,2.98,5.15
+Advisor Credit Exchange,Finance,Unknown,31.00,1,,2025-01-14,7,7,2,2.98,5.15
+KnownOrigin,Crypto,Mature/Exit,3.00,1,,2024-02-20,4,10,2,3.02,5.15
+Dash,Finance,Unknown,86.00,1,,2023-10-06,7,7,2,2.98,5.15
+Wave,Finance,Early,292.00,1,300,2022-07-13,10,4,2,2.98,5.15
+Hijra,Finance,Unknown,67.00,1,,2023-09-07,7,7,2,2.98,5.15
+Wyre,Crypto,Unknown,29.00,1,,2023-01-04,7,7,2,3.02,5.15
+Rain,Finance,Early,202.00,1,,2022-06-02,10,4,2,2.98,5.15
+CipherTrace,Crypto,Unknown,18.00,1,,2020-04-09,7,7,2,3.02,5.15
+Nomad,Finance,Early,290.00,1,,2022-08-04,10,4,2,2.98,5.15
+CoinFLEX,Crypto,Unknown,11.00,1,,2022-07-29,7,7,2,3.02,5.15
+GoBear,Finance,Unknown,97.00,1,22,2020-09-01,7,7,2,2.98,5.15
+Recharge,Finance,Early,277.00,1,84,2022-10-27,10,4,2,2.98,5.15
+Prime Trust,Crypto,Early,176.00,1,,2023-01-30,10,4,2,3.02,5.15
+Chipper Cash,Finance,Growth,302.00,4,185,2024-03-15,5,4,8,2.98,5.15
+Clearbanc,Finance,Early,119.00,1,17,2020-04-13,10,4,2,2.98,5.15
+Coinsquare,Crypto,Unknown,98.00,1,30,2022-07-27,7,7,2,3.02,5.15
+Yield Guild Games,Crypto,Unknown,36.00,1,35,2026-07-06,7,7,2,3.02,5.15
+Magic Eden,Crypto,Early,170.00,1,22,2023-02-13,10,4,2,3.02,5.15
+Freshworks,Support,Mature/Exit,484.00,5,1364,2026-05-05,4,4,10,1.67,5.15
+Kickstarter,Finance,Unknown,10.00,1,25,2020-05-13,7,7,2,2.98,5.15
+MyBambu,Finance,Unknown,15.00,1,141,2025-11-05,7,7,2,2.98,5.15
+TRM Labs,Crypto,Early,149.00,1,16,2023-04-18,10,4,2,3.02,5.15
+Tilia,Finance,Unknown,32.00,1,28,2023-07-19,7,7,2,2.98,5.15
+RateGenius,Finance,Mature/Exit,2.00,1,,2023-01-17,4,10,2,2.98,5.15
+GoKwik,Finance,Unknown,68.00,1,100,2026-07-11,7,7,2,2.98,5.15
+Fishbrain,Consumer,Unknown,59.00,1,,2023-01-17,7,7,2,2.97,5.14
+HOOQ,Consumer,Unknown,95.00,1,250,2020-03-27,7,7,2,2.97,5.14
+Urban Sports Club,Fitness,Unknown,95.00,1,55,2022-09-01,7,7,2,2.96,5.14
+Memmo,Consumer,Unknown,24.00,1,,2022-06-08,7,7,2,2.97,5.14
+Lightricks,Consumer,Growth,335.00,4,310,2026-06-01,5,4,8,2.97,5.14
+Mozilla Foundation,Consumer,Mature/Exit,2.30,1,,2024-11-05,4,10,2,2.97,5.14
+Ludia,Consumer,Mature/Exit,1.00,1,55,2023-06-28,4,10,2,2.97,5.14
+Jiobit,Consumer,Unknown,12.00,1,6,2020-04-24,7,7,2,2.97,5.14
+Bobble AI,Consumer,Unknown,59.00,1,50,2025-09-04,7,7,2,2.97,5.14
+Popin,Fitness,Unknown,13.00,1,,2020-03-19,7,7,2,2.96,5.14
+Embrace,Product,Unknown,77.00,1,,2023-08-18,7,7,2,2.84,5.13
+FullStory,Marketing,Unknown,197.00,3,50,2024-01-09,7,4,6,2.11,5.12
+TripleLift,Marketing,Mature/Exit,16.00,3,123,2025-07-11,4,7,6,2.11,5.12
+Micron,Hardware,Mature/Exit,50.00,3,7500,2025-08-12,4,7,6,2.11,5.12
+Wix,Marketing,Mature/Exit,58.00,3,1470,2026-05-25,4,7,6,2.11,5.12
+Artlist,Media,Unknown,48.00,1,200,2026-06-16,7,7,2,2.71,5.11
+Pocket Aces,Media,Unknown,19.00,1,50,2023-02-06,7,7,2,2.71,5.11
+Humble Games,Media,Mature/Exit,4.00,1,36,2024-07-23,4,10,2,2.71,5.11
+Kenoby,Recruiting,Unknown,23.00,1,18,2020-04-08,7,7,2,2.70,5.11
+Spaces,Media,Mature/Exit,9.50,1,,2020-08-24,4,10,2,2.71,5.11
+Humble,Media,Mature/Exit,4.00,1,10,2022-04-15,4,10,2,2.71,5.11
+Plex,Media,Unknown,81.00,1,37,2023-06-28,7,7,2,2.71,5.11
+Legible,Media,Mature/Exit,3.00,1,23,2022-04-04,4,10,2,2.71,5.11
+Culture Trip,Media,Early,102.00,1,95,2020-05-01,10,4,2,2.71,5.11
+ConnectWise,Other,Mature/Exit,1.00,1,,2024-04-17,4,10,2,2.63,5.09
+Benevity,Other,Unknown,69.00,1,137,2023-01-18,7,7,2,2.63,5.09
+Atera,Other,Early,102.00,1,20,2024-11-03,10,4,2,2.63,5.09
+Planetly,Other,Mature/Exit,5.00,1,200,2022-11-04,4,10,2,2.63,5.09
+GoTo,Other,Mature/Exit,2.00,1,29,2024-01-23,4,10,2,2.63,5.09
+Jimdo,Other,Unknown,28.00,1,50,2022-11-15,7,7,2,2.63,5.09
+Agility Robotics,Other,Early,179.00,1,,2024-04-04,10,4,2,2.63,5.09
+AirSlate,Other,Early,181.00,1,170,2025-10-23,10,4,2,2.63,5.09
+Element AI,Other,Early,257.00,1,62,2020-05-04,10,4,2,2.63,5.09
+Pipedrive,Sales,Mature/Exit,90.00,3,174,2023-11-30,4,7,6,1.85,5.08
+Airtasker,Retail,Growth,26.00,2,45,2023-04-27,5,7,4,3.17,5.08
+Veho,Logistics,Early,299.00,1,65,2024-01-25,10,4,2,2.56,5.08
+Tulip Retail,Retail,Growth,79.00,2,39,2023-11-21,5,7,4,3.17,5.08
+CloudTrucks,Logistics,Early,141.00,1,,2023-06-01,10,4,2,2.56,5.08
+Metro Africa Xpress,Logistics,Unknown,64.00,1,150,2025-02-13,7,7,2,2.56,5.08
+Modsy,Retail,Growth,72.00,2,,2022-06-29,5,7,4,3.17,5.08
+Code42,Security,Unknown,137.50,3,25,2023-07-17,7,4,6,1.85,5.08
+Omnipresent,HR,Early,137.00,1,,2023-02-01,10,4,2,2.43,5.06
+Indeed + Glassdoor,HR,Mature/Exit,5.00,1,1300,2025-07-10,4,10,2,2.43,5.06
+Deputy,HR,Early,106.00,1,60,2020-05-04,10,4,2,2.43,5.06
+Zoox,Transportation,Early,955.00,2,220,2020-04-13,10,2,4,3.06,5.06
+Gupy,HR,Early,105.00,1,58,2023-08-02,10,4,2,2.43,5.06
+Perkbox,HR,Unknown,29.70,1,,2020-07-27,7,7,2,2.43,5.06
+Scoop,Transportation,Growth,95.00,2,92,2020-11-17,5,7,4,3.06,5.06
+Retrain.ai,HR,Unknown,34.00,1,20,2025-07-02,7,7,2,2.43,5.06
+Atlas,HR,Early,220.00,1,150,2023-08-23,10,4,2,2.43,5.06
+Peerfit,HR,Unknown,47.00,1,,2020-03-24,7,7,2,2.43,5.06
+RingCentral,Support,Mature/Exit,44.00,3,80,2023-01-17,4,7,6,1.67,5.05
+StyleSeat,Consumer,Growth,40.00,2,,2023-08-09,5,7,4,2.97,5.04
+Reynen Court,Legal,Unknown,23.00,1,,2022-11-22,7,7,2,2.21,5.03
+Siteimprove,Marketing,Unknown,55.00,1,40,2020-03-31,7,7,2,2.11,5.02
+Inuitive,Manufacturing,Unknown,23.00,1,16,2024-08-15,7,7,2,2.14,5.02
+Mojo Vision,Hardware,Early,204.00,1,,2023-01-06,10,4,2,2.11,5.02
+Amperity,Marketing,Growth,187.00,4,33,2026-06-25,5,4,8,2.11,5.02
+LoopMe,Marketing,Unknown,32.00,1,8,2020-04-09,7,7,2,2.11,5.02
+OpenX,Marketing,Unknown,70.00,1,35,2020-04-28,7,7,2,2.11,5.02
+Talkwalker,Marketing,Mature/Exit,9.00,1,,2022-08-03,4,10,2,2.11,5.02
+Ready Robotics,Manufacturing,Unknown,41.00,1,,2024-08-09,7,7,2,2.14,5.02
+Pocketmath,Marketing,Unknown,20.00,1,21,2021-01-20,7,7,2,2.11,5.02
+Circles.Life,Marketing,Unknown,50.00,1,,2023-07-06,7,7,2,2.11,5.02
+IAM Robotics,Hardware,Unknown,21.00,1,,2023-01-19,7,7,2,2.11,5.02
+Hootsuite,Marketing,Growth,300.00,4,520,2025-10-27,5,4,8,2.11,5.02
+Sightful,Hardware,Unknown,61.00,1,20,2024-07-01,7,7,2,2.11,5.02
+Adobe,Marketing,Mature/Exit,2.00,1,100,2022-12-06,4,10,2,2.11,5.02
+Adwerx,Marketing,Unknown,20.00,1,40,2022-07-07,7,7,2,2.11,5.02
+Cambricon,Hardware,Early,200.00,1,,2023-07-31,10,4,2,2.11,5.02
+Community,Marketing,Unknown,40.00,1,40,2022-06-21,7,7,2,2.11,5.02
+Wistia,Marketing,Unknown,18.00,1,40,2022-11-10,7,7,2,2.11,5.02
+Twine Solutions,Hardware,Unknown,50.00,1,30,2023-01-05,7,7,2,2.11,5.02
+Influitive,Marketing,Unknown,59.00,1,,2020-04-17,7,7,2,2.11,5.02
+Voyage SMS,Marketing,Unknown,10.00,1,8,2022-06-23,7,7,2,2.11,5.02
+Liftoff,Marketing,Mature/Exit,6.00,1,130,2022-11-09,4,10,2,2.11,5.02
+NS8,Data,Early,157.90,1,240,2020-09-11,10,4,2,2.04,5.01
+NuoDB,Data,Unknown,85.00,1,20,2020-04-10,7,7,2,2.04,5.01
+Tempus Ex,Data,Unknown,36.00,1,,2022-05-30,7,7,2,2.04,5.01
+Rebellion Defense,Data,Early,150.00,1,90,2023-04-27,10,4,2,2.04,5.01
+Built In,Recruiting,Growth,29.00,2,78,2022-10-05,5,7,4,2.70,5.01
+Airbyte,Data,Early,181.00,1,,2023-03-31,10,4,2,2.04,5.01
+StreetBees,Data,Unknown,63.00,1,,2022-12-20,7,7,2,2.04,5.01
+Booking.com,Travel,Mature/Exit,,3,4601,2024-11-08,4,6,6,3.36,5.00
+Pix,Food,Unknown,,1,,2022-08-24,7,6,2,3.90,4.98
+Signicat,Security,Mature/Exit,8.00,1,,2022-11-02,4,10,2,1.85,4.98
+EverC,Security,Unknown,61.00,1,16,2024-07-17,7,7,2,1.85,4.98
+Trellix,Security,Unknown,35.00,1,,2023-07-07,7,7,2,1.85,4.98
+CoRover,AI,Unknown,,1,,2024-04-03,7,6,2,3.87,4.98
+Vesta,Sales,Unknown,20.00,1,56,2020-08-05,7,7,2,1.85,4.98
+Dealtale,Sales,Mature/Exit,2.00,1,70,2023-08-09,4,10,2,1.85,4.98
+ActiveFence,Security,Early,100.00,1,22,2025-03-13,10,4,2,1.85,4.98
+Bishop Fox,Security,Early,146.00,1,50,2023-05-02,10,4,2,1.85,4.98
+Dooly,Sales,Early,102.00,1,12,2022-08-09,10,4,2,1.85,4.98
+Providoor,Food,Unknown,,1,,2023-04-28,7,6,2,3.90,4.98
+Convoy,Logistics,Growth,1100.00,6,620,2023-10-19,5,2,10,2.56,4.98
+AU10TIX,Security,Unknown,80.00,1,19,2023-01-31,7,7,2,1.85,4.98
+Sales Boomerang,Sales,Mature/Exit,5.00,1,20,2022-10-20,4,10,2,1.85,4.98
+Pastel,Food,Unknown,,1,,2022-09-30,7,6,2,3.90,4.98
+Pipl,Security,Unknown,19.00,1,22,2022-06-23,7,7,2,1.85,4.98
+Beyond Meat,Food,Mature/Exit,122.00,4,505,2023-11-02,4,4,8,3.90,4.98
+Vanta,Security,Early,203.00,1,,2022-12-08,10,4,2,1.85,4.98
+Stytch,Security,Early,126.00,1,19,2023-02-27,10,4,2,1.85,4.98
+Longi,Energy,Unknown,,1,,2024-03-18,7,6,2,3.72,4.96
+SolarEdge,Energy,Mature/Exit,155.00,4,2200,2025-01-06,4,4,8,3.72,4.96
+Easee,Energy,Unknown,,1,200,2023-08-14,7,6,2,3.72,4.96
+Dare,Energy,Unknown,,1,,2023-10-03,7,6,2,3.72,4.96
+Buildertrend,Construction,Unknown,,1,,2023-11-17,7,6,2,3.66,4.95
+Integrate.ai,Support,Unknown,39.60,1,26,2020-06-09,7,7,2,1.67,4.95
+Match Group,Consumer,Mature/Exit,,3,325,2025-05-08,4,6,6,2.97,4.94
+Pear Therapeutics,Healthcare,Mature/Exit,409.00,4,313,2023-04-07,4,4,8,3.48,4.92
+Uleet,Healthcare,Unknown,,1,,2023-11-15,7,6,2,3.48,4.92
+FemTech Health,Healthcare,Unknown,,1,,2023-05-22,7,6,2,3.48,4.92
+Advata,Healthcare,Unknown,,1,32,2022-10-28,7,6,2,3.48,4.92
+Quantcast,Marketing,Growth,65.00,2,70,2022-07-29,5,7,4,2.11,4.92
+Uno Health,Healthcare,Unknown,,1,,2023-10-13,7,6,2,3.48,4.92
+Curalie,Healthcare,Unknown,,1,,2023-12-14,7,6,2,3.48,4.92
+Vibrent Health,Healthcare,Unknown,,1,,2023-02-23,7,6,2,3.48,4.92
+Bunnii,Healthcare,Unknown,,1,,2023-06-06,7,6,2,3.48,4.92
+Namogoo,Marketing,Growth,69.00,2,45,2023-01-23,5,7,4,2.11,4.92
+Tidepool,Healthcare,Unknown,,1,18,2020-11-17,7,6,2,3.48,4.92
+Bamboo Health,Healthcare,Unknown,,1,52,2022-07-01,7,6,2,3.48,4.92
+Project Ronin,Healthcare,Unknown,,1,150,2024-03-01,7,6,2,3.48,4.92
+Medsaf,Healthcare,Unknown,,1,30,2023-07-07,7,6,2,3.48,4.92
+Willow,Real Estate,Unknown,,1,99,2022-12-23,7,6,2,3.38,4.91
+Atlanta Tech Village,Real Estate,Unknown,,1,,2020-04-02,7,6,2,3.38,4.91
+Lighthouse Labs,Education,Unknown,,1,14,2020-04-09,7,6,2,3.39,4.91
+Anodot,Data,Growth,64.00,2,50,2022-07-06,5,7,4,2.04,4.91
+Truss Works,Real Estate,Unknown,,1,,2023-09-20,7,6,2,3.38,4.91
+BloomTech,Education,Unknown,,1,88,2022-12-01,7,6,2,3.39,4.91
+Pluralsight,Education,Mature/Exit,192.00,4,400,2025-06-24,4,4,8,3.39,4.91
+Make School,Education,Unknown,,1,,2020-03-27,7,6,2,3.39,4.91
+DUX Education,Education,Unknown,,1,,2023-02-28,7,6,2,3.39,4.91
+Tract,Real Estate,Unknown,,1,,2025-04-03,7,6,2,3.38,4.91
+Mode Analytics,Data,Growth,81.00,2,42,2022-09-12,5,7,4,2.04,4.91
+Extramarks,Education,Unknown,,1,300,2023-04-26,7,6,2,3.39,4.91
+Fareportal,Travel,Unknown,,1,200,2020-03-26,7,6,2,3.36,4.90
+123Milhas,Travel,Unknown,,1,,2023-08-29,7,6,2,3.36,4.90
+Flymya,Travel,Unknown,,1,200,2020-04-01,7,6,2,3.36,4.90
+Tripbam,Travel,Unknown,,1,10,2020-04-03,7,6,2,3.36,4.90
+Traveloka,Travel,Unknown,,1,100,2020-04-03,7,6,2,3.36,4.90
+Autodesk,Other,Mature/Exit,,3,2600,2026-01-22,4,6,6,2.63,4.89
+Eyeo,Unknown,Unknown,,1,,2025-07-28,7,6,2,3.25,4.89
+Krutrim,AI,Unknown,304.00,2,150,2025-09-01,7,4,4,3.87,4.88
+Blip,Retail,Unknown,,1,,2025-07-12,7,6,2,3.17,4.88
+Cornershop,Food,Mature/Exit,32.00,2,450,2024-04-10,4,7,4,3.90,4.88
+Flowr,Retail,Unknown,,1,,2020-03-24,7,6,2,3.17,4.88
+The Modist,Retail,Unknown,,1,,2020-04-02,7,6,2,3.17,4.88
+Aware,Security,Growth,88.00,2,,2023-08-03,5,7,4,1.85,4.88
+Zulily,Retail,Mature/Exit,194.00,4,839,2023-12-08,4,4,8,3.17,4.88
+Spreetail,Retail,Unknown,,1,,2022-10-27,7,6,2,3.17,4.88
+Lunya,Retail,Unknown,,1,,2023-06-30,7,6,2,3.17,4.88
+Eat Just,Food,Unknown,465.00,2,80,2023-09-22,7,4,4,3.90,4.88
+Auctane,Retail,Unknown,,1,,2024-02-20,7,6,2,3.17,4.88
+Delivery Hero,Food,Mature/Exit,9900.00,5,756,2024-07-31,4,2,10,3.90,4.88
+Aleph Farms,Food,Unknown,119.00,2,40,2026-06-02,7,4,4,3.90,4.88
+Zume,Food,Unknown,423.00,2,200,2023-06-02,7,4,4,3.90,4.88
+Zapp,Food,Unknown,300.00,2,,2024-10-08,7,4,4,3.90,4.88
+Quandoo,Food,Mature/Exit,39.00,2,87,2026-03-26,4,7,4,3.90,4.88
+Noon,Retail,Unknown,,1,340,2023-04-18,7,6,2,3.17,4.88
+Motif Foodworks,Food,Unknown,344.00,2,,2024-09-06,7,4,4,3.90,4.88
+The Iconic,Retail,Unknown,,1,69,2023-02-23,7,6,2,3.17,4.88
+Artnight,Retail,Unknown,,1,26,2022-08-31,7,6,2,3.17,4.88
+CommentSold,Retail,Unknown,,1,,2022-06-29,7,6,2,3.17,4.88
+ExtraHop,Security,Growth,61.00,2,,2022-10-13,5,7,4,1.85,4.88
+Slickdeals,Retail,Unknown,,1,79,2023-05-12,7,6,2,3.17,4.88
+Daniel Wellington,Retail,Unknown,,1,200,2022-06-09,7,6,2,3.17,4.88
+Heycar,Transportation,Unknown,,1,73,2023-01-27,7,6,2,3.06,4.86
+Supernal,Transportation,Unknown,,1,296,2026-03-04,7,6,2,3.06,4.86
+ICANN,Infrastructure,Unknown,,1,33,2024-05-30,7,6,2,3.06,4.86
+Moovel,Transportation,Unknown,,1,28,2020-04-01,7,6,2,3.06,4.86
+ScaleFocus,Infrastructure,Unknown,,1,120,2020-06-11,7,6,2,3.06,4.86
+Strake,Infrastructure,Unknown,,1,,2023-12-28,7,6,2,3.06,4.86
+ALI Technologies,Transportation,Unknown,,1,,2024-01-16,7,6,2,3.06,4.86
+DoubleCloud,Infrastructure,Unknown,,1,,2024-09-30,7,6,2,3.06,4.86
+Moxion Power,Energy,Unknown,124.00,2,349,2024-07-29,7,4,4,3.72,4.86
+Bitfront,Crypto,Unknown,,1,,2022-11-29,7,6,2,3.02,4.85
+Yolo Group,Finance,Unknown,,1,280,2025-09-23,7,6,2,2.98,4.85
+Cova,Finance,Unknown,,1,,2024-01-25,7,6,2,2.98,4.85
+Pepper Pay,Finance,Unknown,,1,,2026-04-09,7,6,2,2.98,4.85
+Nearmap,Construction,Mature/Exit,15.00,2,,2023-02-08,4,7,4,3.66,4.85
+Received,Finance,Unknown,,1,,2024-08-23,7,6,2,2.98,4.85
+Parity Technologies,Crypto,Unknown,,1,100,2023-10-23,7,6,2,3.02,4.85
+Digital Surge,Crypto,Unknown,,1,,2022-12-09,7,6,2,3.02,4.85
+WeTrade,Crypto,Unknown,,1,,2023-02-09,7,6,2,3.02,4.85
+OP Labs,Crypto,Unknown,,1,20,2026-03-12,7,6,2,3.02,4.85
+Binance,Crypto,Unknown,,1,1000,2023-07-14,7,6,2,3.02,4.85
+Cake Group,Crypto,Unknown,,1,50,2023-11-14,7,6,2,3.02,4.85
+Currency,Finance,Unknown,,1,,2020-04-01,7,6,2,2.98,4.85
+Comparis,Finance,Unknown,,1,,2023-03-02,7,6,2,2.98,4.85
+Iress,Finance,Unknown,,1,,2023-04-20,7,6,2,2.98,4.85
+Snap Finance,Finance,Unknown,,1,,2020-03-31,7,6,2,2.98,4.85
+GloriFi,Finance,Unknown,,1,,2022-11-21,7,6,2,2.98,4.85
+Nirvana Money,Finance,Unknown,,1,,2022-11-15,7,6,2,2.98,4.85
+Algorand Foundation,Crypto,Unknown,,1,,2026-03-18,7,6,2,3.02,4.85
+Zazuu,Finance,Unknown,,1,,2023-11-17,7,6,2,2.98,4.85
+GSR,Crypto,Unknown,,1,,2022-10-11,7,6,2,3.02,4.85
+Zondacrypto,Crypto,Unknown,,1,,2026-04-21,7,6,2,3.02,4.85
+Newfront Insurance,Finance,Unknown,,1,94,2020-04-07,7,6,2,2.98,4.85
+Renmoney,Finance,Unknown,,1,391,2020-04-28,7,6,2,2.98,4.85
+Metaplex,Crypto,Unknown,,1,,2022-11-18,7,6,2,3.02,4.85
+Unbabel,Support,Growth,91.00,2,146,2025-01-20,5,7,4,1.67,4.85
+Eyowo,Finance,Unknown,,1,,2023-06-27,7,6,2,2.98,4.85
+CapWay,Finance,Unknown,,1,,2024-10-17,7,6,2,2.98,4.85
+Digital Currency Gruop,Crypto,Unknown,,1,10,2022-11-02,7,6,2,3.02,4.85
+Bittrex,Crypto,Unknown,,1,80,2023-02-02,7,6,2,3.02,4.85
+Braid,Finance,Unknown,,1,,2023-10-09,7,6,2,2.98,4.85
+0G,Crypto,Unknown,,1,,2026-05-05,7,6,2,3.02,4.85
+Koinly,Crypto,Unknown,,1,16,2022-12-06,7,6,2,3.02,4.85
+Vipps,Finance,Unknown,,1,,2024-01-30,7,6,2,2.98,4.85
+Block,Finance,Mature/Exit,150.00,4,5931,2026-02-26,4,4,8,2.98,4.85
+Hodlnaut,Crypto,Unknown,,1,40,2022-08-19,7,6,2,3.02,4.85
+Me Poupe,Finance,Unknown,,1,60,2023-01-28,7,6,2,2.98,4.85
+Reserve,Crypto,Unknown,,1,,2023-02-17,7,6,2,3.02,4.85
+Arkane Studios,Consumer,Unknown,,1,96,2024-05-08,7,6,2,2.97,4.84
+GoPro,Consumer,Mature/Exit,288.00,4,484,2026-04-07,4,4,8,2.97,4.84
+Tiki,Consumer,Unknown,,1,,2023-06-11,7,6,2,2.97,4.84
+Centr,Fitness,Unknown,,1,22,2023-07-13,7,6,2,2.96,4.84
+Afterverse,Consumer,Unknown,,1,60,2022-06-03,7,6,2,2.97,4.84
+Tapps Games,Consumer,Unknown,,1,10,2022-11-01,7,6,2,2.97,4.84
+Takl,Consumer,Unknown,,1,130,2020-03-24,7,6,2,2.97,4.84
+Spartan Poker,Consumer,Unknown,,1,125,2023-08-19,7,6,2,2.97,4.84
+Dazn,Consumer,Unknown,,1,50,2022-05-26,7,6,2,2.97,4.84
+Wahoo Fitness,Fitness,Unknown,,1,50,2022-04-27,7,6,2,2.96,4.84
+Cookpad,Consumer,Unknown,,1,80,2023-03-10,7,6,2,2.97,4.84
+Rangle,Product,Unknown,,1,78,2020-03-25,7,6,2,2.84,4.83
+Tailwind Labs,Product,Unknown,,1,3,2026-01-08,7,6,2,2.84,4.83
+Dotscience,Product,Unknown,,1,10,2020-05-19,7,6,2,2.84,4.83
+Connected,Product,Unknown,,1,17,2020-04-08,7,6,2,2.84,4.83
+Cue Health,Healthcare,Mature/Exit,899.00,5,1075,2024-05-22,4,2,10,3.48,4.82
+Samsung,Hardware,Mature/Exit,,3,869,2026-07-19,4,6,6,2.11,4.82
+Synamedia,Media,Unknown,,1,200,2023-02-22,7,6,2,2.71,4.81
+Ejento,Recruiting,Unknown,,1,84,2020-03-19,7,6,2,2.70,4.81
+Quillt,Media,Unknown,,1,,2023-02-09,7,6,2,2.71,4.81
+NetApp,Data,Mature/Exit,,3,1737,2026-05-27,4,6,6,2.04,4.81
+Limelight,Recruiting,Unknown,,1,13,2021-02-04,7,6,2,2.70,4.81
+Avantage Entertainment,Media,Unknown,,1,5,2020-04-03,7,6,2,2.71,4.81
+O'Reilly Media,Media,Unknown,,1,75,2020-03-25,7,6,2,2.71,4.81
+Side,Real Estate,Unknown,313.00,2,,2022-10-19,7,4,4,3.38,4.81
+OnlyFans,Media,Unknown,,1,,2022-08-01,7,6,2,2.71,4.81
+Skillshare,Education,Unknown,136.00,2,31,2022-08-23,7,4,4,3.39,4.81
+Convene,Real Estate,Unknown,281.00,2,150,2022-12-10,7,4,4,3.38,4.81
+Insider,Media,Unknown,,1,,2023-04-20,7,6,2,2.71,4.81
+Her Campus Media,Media,Unknown,,1,10,2020-06-10,7,6,2,2.71,4.81
+Politico / Protocol,Media,Unknown,,1,13,2020-04-21,7,6,2,2.71,4.81
+Informatica,Data,Mature/Exit,,3,1030,2026-01-15,4,6,6,2.04,4.81
+WhiteHat Jr,Education,Mature/Exit,11.00,2,2100,2022-06-28,4,7,4,3.39,4.81
+Toptal,Recruiting,Unknown,,1,,2024-10-10,7,6,2,2.70,4.81
+JOIN,Recruiting,Unknown,,1,,2023-08-23,7,6,2,2.70,4.81
+Artifact,Media,Unknown,,1,,2024-01-12,7,6,2,2.71,4.81
+Opendoor,Real Estate,Mature/Exit,1900.00,5,2260,2026-06-10,4,2,10,3.38,4.81
+Degreed,Education,Unknown,463.00,2,,2023-07-27,7,4,4,3.39,4.81
+WeWork,Real Estate,Mature/Exit,22200.00,6,1150,2023-01-19,4,2,10,3.38,4.81
+AppFolio,Real Estate,Mature/Exit,30.00,2,211,2023-08-17,4,7,4,3.38,4.81
+Mindgeek,Media,Unknown,,1,,2022-06-22,7,6,2,2.71,4.81
+G/O Media Group,Media,Unknown,,1,14,2020-04-03,7,6,2,2.71,4.81
+Viaplay,Media,Unknown,,1,450,2023-07-20,7,6,2,2.71,4.81
+Cuemath,Education,Unknown,121.00,2,200,2023-08-26,7,4,4,3.39,4.81
+Geekwire,Media,Unknown,,1,5,2020-04-10,7,6,2,2.71,4.81
+Sonder,Travel,Mature/Exit,839.00,6,856,2025-11-10,4,2,10,3.36,4.80
+Expedia,Travel,Mature/Exit,3300.00,10,1700,2026-02-01,4,2,10,3.36,4.80
+Kiwi.com,Travel,Unknown,107.00,2,466,2026-01-29,7,4,4,3.36,4.80
+Teamwork,Other,Unknown,,1,21,2020-05-22,7,6,2,2.63,4.79
+Cloud Software Group,Other,Unknown,,1,,2025-01-07,7,6,2,2.63,4.79
+Better Collective,Other,Unknown,,1,300,2024-11-14,7,6,2,2.63,4.79
+Fractal Software,Other,Unknown,,1,,2023-06-01,7,6,2,2.63,4.79
+Atlassian,Other,Mature/Exit,210.00,4,2450,2026-03-11,4,4,8,2.63,4.79
+Beam,Other,Unknown,,1,200,2025-05-01,7,6,2,2.63,4.79
+Noa Technologies,Other,Unknown,,1,69,2026-04-22,7,6,2,2.63,4.79
+Soundwide,Other,Unknown,,1,,2023-01-27,7,6,2,2.63,4.79
+Prosus,Other,Unknown,,1,,2023-01-25,7,6,2,2.63,4.79
+Viamo,Other,Unknown,,1,,2022-08-31,7,6,2,2.63,4.79
+Etermax,Other,Unknown,,1,40,2022-11-30,7,6,2,2.63,4.79
+Fission,Other,Unknown,,1,,2024-04-07,7,6,2,2.63,4.79
+eBay,Retail,Mature/Exit,1200.00,7,2540,2026-02-26,4,2,10,3.17,4.78
+Boozt,Retail,Mature/Exit,56.00,2,70,2025-01-13,4,7,4,3.17,4.78
+Unity,Retail,Mature/Exit,1300.00,8,3499,2025-02-11,4,2,10,3.17,4.78
+Everlane,Retail,Unknown,176.00,2,257,2023-01-05,7,4,4,3.17,4.78
+Instacart,Food,Unknown,2900.00,3,2127,2024-02-13,7,2,6,3.90,4.78
+Carousell,Retail,Unknown,375.00,2,186,2024-12-06,7,4,4,3.17,4.78
+Blume Global,Logistics,Unknown,,1,30,2020-03-30,7,6,2,2.56,4.78
+Redbubble,Retail,Mature/Exit,55.00,2,70,2023-05-10,4,7,4,3.17,4.78
+Wayfair,Retail,Mature/Exit,1700.00,5,5340,2025-03-07,4,2,10,3.17,4.78
+Sierra Space,Aerospace,Early,1700.00,1,115,2023-11-16,10,2,2,4.54,4.78
+Zappos,Retail,Mature/Exit,62.00,2,,2023-01-20,4,7,4,3.17,4.78
+Amazon,Retail,Mature/Exit,8100.00,22,59291,2026-07-22,4,2,10,3.17,4.78
+Cart.com,Retail,Unknown,383.00,2,25,2023-01-10,7,4,4,3.17,4.78
+Dextrous Robotics,Logistics,Unknown,,1,,2024-01-11,7,6,2,2.56,4.78
+Bossa Nova,Retail,Unknown,101.60,2,61,2020-11-02,7,4,4,3.17,4.78
+Ibotta,Retail,Mature/Exit,93.00,2,157,2025-02-22,4,7,4,3.17,4.78
+Ritual,Food,Growth,134.00,3,257,2023-06-21,5,4,6,3.90,4.78
+Payfactors,HR,Unknown,,1,46,2020-04-07,7,6,2,2.43,4.76
+Waze,Transportation,Mature/Exit,67.00,2,30,2023-06-27,4,7,4,3.06,4.76
+Stint,HR,Unknown,,1,28,2022-07-19,7,6,2,2.43,4.76
+Lyft,Transportation,Mature/Exit,4900.00,5,2844,2024-09-04,4,2,10,3.06,4.76
+Citrix,Infrastructure,Mature/Exit,20.00,2,1000,2024-01-10,4,7,4,3.06,4.76
+Vroom,Transportation,Mature/Exit,1300.00,5,1802,2024-01-23,4,2,10,3.06,4.76
+Apple,Transportation,Mature/Exit,6200.00,5,714,2024-11-24,4,2,10,3.06,4.76
+PacketFabric,Infrastructure,Unknown,110.00,2,,2024-08-15,7,4,4,3.06,4.76
+Uber,Transportation,Mature/Exit,25200.00,8,7785,2026-07-22,4,2,10,3.06,4.76
+Wavely,HR,Unknown,,1,,2022-11-10,7,6,2,2.43,4.76
+Rivian,Transportation,Mature/Exit,10700.00,12,2110,2026-06-16,4,2,10,3.06,4.76
+Megaport,Infrastructure,Mature/Exit,98.00,2,50,2023-04-27,4,7,4,3.06,4.76
+Arrival,Transportation,Mature/Exit,629.00,5,800,2025-03-10,4,2,10,3.06,4.76
+Clutch,Transportation,Unknown,253.00,2,226,2023-01-17,7,4,4,3.06,4.76
+Relevel,HR,Unknown,,1,40,2023-01-10,7,6,2,2.43,4.76
+TaxBit,Crypto,Unknown,253.00,2,80,2023-06-11,7,4,4,3.02,4.75
+Ebanx,Finance,Unknown,460.00,2,402,2022-06-21,7,4,4,2.98,4.75
+Acko,Finance,Unknown,143.00,2,105,2026-04-20,7,4,4,2.98,4.75
+BitGo,Crypto,Unknown,171.00,2,90,2026-06-25,7,4,4,3.02,4.75
+Smava,Finance,Unknown,188.00,2,200,2022-11-02,7,4,4,2.98,4.75
+Katerra,Construction,Unknown,1600.00,3,3074,2021-06-01,7,2,6,3.66,4.75
+2TM,Crypto,Unknown,250.00,2,190,2022-09-01,7,4,4,3.02,4.75
+Solarisbank,Finance,Unknown,385.00,2,20,2023-12-14,7,4,4,2.98,4.75
+Amount,Finance,Unknown,283.00,2,130,2023-02-27,7,4,4,2.98,4.75
+InvestCloud,Finance,Mature/Exit,54.00,2,230,2026-03-10,4,7,4,2.98,4.75
+FNZ,Finance,Mature/Exit,3500.00,6,2240,2026-06-16,4,2,10,2.98,4.75
+Robinhood,Finance,Mature/Exit,6200.00,5,1493,2026-06-16,4,2,10,2.98,4.75
+Matter Labs,Crypto,Unknown,380.00,2,,2026-06-16,7,4,4,3.02,4.75
+Blend,Finance,Mature/Exit,665.00,5,1010,2023-08-09,4,2,10,2.98,4.75
+Rupeek,Finance,Unknown,172.00,2,230,2022-09-07,7,4,4,2.98,4.75
+eToro,Finance,Unknown,322.00,2,205,2026-01-13,7,4,4,2.98,4.75
+Riot Games,Consumer,Mature/Exit,21.00,2,576,2024-01-22,4,7,4,2.97,4.74
+StubHub,Consumer,Mature/Exit,59.00,2,200,2022-08-04,4,7,4,2.97,4.74
+Peloton,Fitness,Mature/Exit,1900.00,7,4495,2026-01-30,4,2,10,2.96,4.74
+DJI,Consumer,Unknown,105.00,2,,2021-02-24,7,4,4,2.97,4.74
+Twitch,Consumer,Mature/Exit,35.00,2,500,2024-01-09,4,7,4,2.97,4.74
+Yelp,Consumer,Mature/Exit,56.00,2,1063,2020-07-13,4,7,4,2.97,4.74
+Meta,Consumer,Mature/Exit,26000.00,12,35700,2026-05-20,4,2,10,2.97,4.74
+Hike,Consumer,Unknown,261.00,2,55,2025-09-13,7,4,4,2.97,4.74
+Linktree,Consumer,Unknown,165.00,2,110,2023-06-06,7,4,4,2.97,4.74
+Snap,Consumer,Mature/Exit,4900.00,5,2970,2026-04-15,4,2,10,2.97,4.74
+Moon Active,Consumer,Unknown,425.00,2,110,2026-01-27,7,4,4,2.97,4.74
+Incredibuild,Product,Mature/Exit,35.00,2,58,2024-11-04,4,7,4,2.84,4.73
+BionicHIVE,Hardware,Unknown,,1,,2024-12-22,7,6,2,2.11,4.72
+Venngage,Marketing,Unknown,,1,11,2023-01-24,7,6,2,2.11,4.72
+Black Shark,Hardware,Unknown,,1,900,2023-01-13,7,6,2,2.11,4.72
+LumenAd,Marketing,Unknown,,1,,2020-04-16,7,6,2,2.11,4.72
+Tiendanube,Marketing,Unknown,,1,50,2022-10-17,7,6,2,2.11,4.72
+Retention.com,Marketing,Unknown,,1,15,2024-08-16,7,6,2,2.11,4.72
+CreateMe,Manufacturing,Unknown,,1,,2023-01-06,7,6,2,2.14,4.72
+Innovaccer,Healthcare,Growth,379.00,3,675,2026-05-14,5,4,6,3.48,4.72
+Cerebral,Healthcare,Growth,462.00,3,685,2023-02-27,5,4,6,3.48,4.72
+Rivos,Hardware,Unknown,,1,24,2023-08-23,7,6,2,2.11,4.72
+Solidigm,Hardware,Unknown,,1,98,2023-07-06,7,6,2,2.11,4.72
+BVAccel,Marketing,Unknown,,1,25,2020-04-08,7,6,2,2.11,4.72
+Toshiba,Manufacturing,Unknown,,1,4000,2024-05-16,7,6,2,2.14,4.72
+BenchSci,Healthcare,Growth,164.00,3,221,2026-05-28,5,4,6,3.48,4.72
+Medly,Healthcare,Growth,100.00,3,,2023-02-08,5,4,6,3.48,4.72
+EMX Digital,Marketing,Unknown,,1,100,2023-02-13,7,6,2,2.11,4.72
+Airthings,Hardware,Unknown,,1,,2024-10-24,7,6,2,2.11,4.72
+Catena Media,Marketing,Unknown,,1,29,2024-10-23,7,6,2,2.11,4.72
+Gatherly,Marketing,Unknown,,1,,2022-07-31,7,6,2,2.11,4.72
+Flex,Manufacturing,Unknown,,1,31,2023-12-13,7,6,2,2.14,4.72
+Scribe Media,Marketing,Unknown,,1,90,2023-05-04,7,6,2,2.11,4.72
+Forward,Healthcare,Growth,325.00,3,210,2024-11-12,5,4,6,3.48,4.72
+AnswerLab,Marketing,Unknown,,1,,2023-03-30,7,6,2,2.11,4.72
+PharmEasy,Healthcare,Unknown,1600.00,3,40,2023-05-01,7,2,6,3.48,4.72
+Medium,Media,Unknown,163.00,2,,2022-09-06,7,4,4,2.71,4.71
+Callisto Media,Media,Growth,,2,140,2022-10-25,5,6,4,2.71,4.71
+LSports,Data,Unknown,,1,40,2026-05-06,7,6,2,2.04,4.71
+Patreon,Media,Late,413.00,5,244,2026-07-23,2,4,10,2.71,4.71
+Top Hat,Education,Growth,234.00,3,93,2024-02-02,5,4,6,3.39,4.71
+Multiverse,Education,Growth,414.00,3,55,2026-01-05,5,4,6,3.39,4.71
+Meow Wolf,Media,Unknown,185.00,2,209,2023-12-04,7,4,4,2.71,4.71
+Vox Media,Media,Late,307.60,5,169,2024-12-05,2,4,10,2.71,4.71
+The Wing,Real Estate,Growth,117.00,3,56,2022-08-31,5,4,6,3.38,4.71
+Landing,Real Estate,Growth,347.00,3,110,2023-11-15,5,4,6,3.38,4.71
+PeerStreet,Real Estate,Growth,121.00,3,126,2023-02-21,5,4,6,3.38,4.71
+SeekOut,Recruiting,Growth,,2,16,2024-05-16,5,6,4,2.70,4.71
+Spotify,Media,Mature/Exit,2100.00,8,2370,2026-03-23,4,2,10,2.71,4.71
+Business Insider,Media,Mature/Exit,56.00,2,,2025-05-29,4,7,4,2.71,4.71
+Pollen,Travel,Growth,238.00,3,269,2022-08-10,5,4,6,3.36,4.70
+Hopper,Travel,Unknown,730.00,3,250,2024-11-22,7,2,6,3.36,4.70
+AvantStay,Travel,Unknown,811.00,3,261,2023-06-20,7,2,6,3.36,4.70
+WeTransfer,Other,Mature/Exit,64.00,2,295,2024-09-08,4,7,4,2.63,4.69
+Zymergen,Other,Mature/Exit,974.00,5,307,2023-05-03,4,2,10,2.63,4.69
+Spotter,Other,Unknown,238.00,2,,2025-04-28,7,4,4,2.63,4.69
+Submittable,Other,Unknown,115.00,2,70,2024-08-08,7,4,4,2.63,4.69
+AudioCodes,Other,Mature/Exit,91.00,2,160,2023-07-13,4,7,4,2.63,4.69
+Monarch Tractor,Other,Unknown,214.00,2,137,2025-11-19,7,4,4,2.63,4.69
+Pico Interactive,Other,Mature/Exit,62.00,2,400,2023-11-06,4,7,4,2.63,4.69
+Bevi,Food,Growth,60.00,1,30,2020-03-27,5,7,2,3.90,4.68
+One Identity,Security,Unknown,,1,41,2026-05-11,7,6,2,1.85,4.68
+FourKites,Logistics,Unknown,241.00,2,60,2023-12-13,7,4,4,2.56,4.68
+Loopio,Sales,Mature/Exit,263.00,4,47,2026-03-13,4,4,8,1.85,4.68
+Branch,Retail,Growth,229.00,3,274,2024-01-09,5,4,6,3.17,4.68
+Springlane,Food,Growth,11.00,1,,2022-10-28,5,7,2,3.90,4.68
+Aleph Alpha,AI,Early,534.00,1,50,2026-01-14,10,2,2,3.87,4.68
+Marketsource,Sales,Unknown,,1,57,2026-03-05,7,6,2,1.85,4.68
+Chope,Food,Growth,50.00,1,65,2022-12-20,5,7,2,3.90,4.68
+Arete,Security,Unknown,,1,,2022-07-22,7,6,2,1.85,4.68
+Quadream,Security,Unknown,,1,,2023-04-16,7,6,2,1.85,4.68
+Avast,Security,Unknown,,1,,2022-11-10,7,6,2,1.85,4.68
+Away,Retail,Growth,181.00,3,82,2024-02-14,5,4,6,3.17,4.68
+Udaan,Retail,Unknown,1500.00,3,630,2023-12-18,7,2,6,3.17,4.68
+Chrono24,Retail,Growth,205.00,3,255,2025-01-16,5,4,6,3.17,4.68
+Cyberbit,Security,Unknown,,1,,2026-06-24,7,6,2,1.85,4.68
+Breadfast,Food,Growth,89.00,1,58,2026-05-12,5,7,2,3.90,4.68
+Cognyte,Security,Unknown,,1,100,2022-12-02,7,6,2,1.85,4.68
+Dayforce,HR,Mature/Exit,40.00,2,,2026-02-11,4,7,4,2.43,4.66
+Nexar,Transportation,Growth,149.00,3,54,2023-09-04,5,4,6,3.06,4.66
+Karat,HR,Unknown,169.00,2,94,2023-06-28,7,4,4,2.43,4.66
+The Predictive Index,HR,Mature/Exit,71.00,2,99,2022-08-02,4,7,4,2.43,4.66
+Rapyd,Finance,Unknown,770.00,3,30,2026-05-28,7,2,6,2.98,4.65
+Pleo,Finance,Growth,428.00,3,300,2026-06-12,5,4,6,2.98,4.65
+Dapper Labs,Crypto,Unknown,607.00,3,185,2023-07-12,7,2,6,3.02,4.65
+Levelset,Construction,Growth,46.00,1,,2020-04-01,5,7,2,3.66,4.65
+Saarthi.ai,Support,Unknown,,1,,2023-07-20,7,6,2,1.67,4.65
+Ethos Life,Finance,Growth,406.00,3,108,2023-02-21,5,4,6,2.98,4.65
+Mural,Product,Growth,192.00,3,260,2023-06-01,5,4,6,2.84,4.63
+Yotpo,Marketing,Unknown,436.00,2,270,2025-08-05,7,4,4,2.11,4.62
+NextRoll,Marketing,Unknown,108.00,2,,2022-09-15,7,4,4,2.11,4.62
+Marin Software,Marketing,Mature/Exit,99.00,2,27,2025-04-10,4,7,4,2.11,4.62
+Criteo,Marketing,Mature/Exit,61.00,2,140,2024-04-12,4,7,4,2.11,4.62
+Toothsi,Healthcare,Growth,87.00,1,20,2023-05-12,5,7,2,3.48,4.62
+Unbounce,Marketing,Mature/Exit,39.00,2,47,2024-07-16,4,7,4,2.11,4.62
+Redox,Healthcare,Growth,50.00,1,44,2020-06-16,5,7,2,3.48,4.62
+Sojern,Marketing,Unknown,172.00,2,300,2023-12-13,7,4,4,2.11,4.62
+mPharma,Healthcare,Growth,90.00,1,150,2023-09-04,5,7,2,3.48,4.62
+Sana,Healthcare,Early,700.00,1,,2022-11-30,10,2,2,3.48,4.62
+AppLovin,Marketing,Mature/Exit,1600.00,7,790,2025-04-16,4,2,10,2.11,4.62
+Inmobi,Marketing,Unknown,320.00,2,175,2024-01-11,7,4,4,2.11,4.62
+Vezeeta,Healthcare,Growth,71.00,1,50,2022-06-28,5,7,2,3.48,4.62
+Terminus,Marketing,Unknown,192.00,2,,2022-05-27,7,4,4,2.11,4.62
+Perion,Marketing,Mature/Exit,76.00,2,55,2024-06-25,4,7,4,2.11,4.62
+Curology,Healthcare,Growth,19.00,1,150,2022-03-16,5,7,2,3.48,4.62
+MFine,Healthcare,Growth,97.00,1,600,2022-05-21,5,7,2,3.48,4.62
+Eucalyptus,Healthcare,Growth,69.00,1,50,2022-07-22,5,7,2,3.48,4.62
+LiveRamp,Marketing,Mature/Exit,16.00,2,65,2025-03-05,4,7,4,2.11,4.62
+Carbon Health,Healthcare,Growth,522.00,4,620,2024-02-23,5,2,8,3.48,4.62
+Fuzzy,Healthcare,Growth,80.00,1,,2023-06-18,5,7,2,3.48,4.62
+Niche,Education,Growth,44.00,1,24,2024-03-08,5,7,2,3.39,4.61
+Cint,Data,Mature/Exit,17.00,2,,2024-12-12,4,7,4,2.04,4.61
+Rackspace,Data,Mature/Exit,17.00,2,275,2026-06-16,4,7,4,2.04,4.61
+CrowdStreet,Real Estate,Growth,24.00,1,24,2020-06-01,5,7,2,3.38,4.61
+Quizlet,Education,Growth,62.00,1,79,2026-06-05,5,7,2,3.39,4.61
+ContaAzul,Education,Growth,37.00,1,140,2020-04-17,5,7,2,3.39,4.61
+Zoopla,Real Estate,Growth,25.00,1,50,2022-12-23,5,7,2,3.38,4.61
+Articulate,Education,Early,1500.00,1,38,2023-02-02,10,2,2,3.39,4.61
+Lido Learning,Education,Growth,20.00,1,,2022-09-09,5,7,2,3.39,4.61
+Pocket FM,Media,Growth,212.00,3,375,2026-05-06,5,4,6,2.71,4.61
+OpenText,Data,Mature/Exit,1100.00,5,3200,2026-07-08,4,2,10,2.04,4.61
+Mapbox,Data,Unknown,334.00,2,64,2023-01-12,7,4,4,2.04,4.61
+Adara,Travel,Growth,67.00,1,,2020-03-31,5,7,2,3.36,4.60
+Lola,Travel,Growth,81.00,1,34,2020-03-19,5,7,2,3.36,4.60
+TravelTriangle,Travel,Growth,47.00,1,250,2020-03-28,5,7,2,3.36,4.60
+Symend,Other,Growth,148.00,3,50,2024-05-10,5,4,6,2.63,4.59
+Eight Sleep,Retail,Growth,70.00,1,,2020-03-23,5,7,2,3.17,4.58
+Project44,Logistics,Unknown,817.00,3,309,2023-09-14,7,2,6,2.56,4.58
+Deep Instinct,Security,Unknown,322.00,2,20,2025-05-04,7,4,4,1.85,4.58
+At-Bay,Security,Unknown,296.00,2,52,2026-03-04,7,4,4,1.85,4.58
+Tamara Mellon,Retail,Growth,90.00,1,20,2020-03-12,5,7,2,3.17,4.58
+B8ta,Retail,Growth,88.00,1,250,2020-03-26,5,7,2,3.17,4.58
+Shop101,Retail,Growth,19.00,1,200,2020-04-15,5,7,2,3.17,4.58
+Cuyana,Retail,Growth,31.00,1,,2020-03-30,5,7,2,3.17,4.58
+PlaxidityX,Security,Mature/Exit,25.00,2,145,2026-06-30,4,7,4,1.85,4.58
+Checkmarx,Security,Mature/Exit,92.00,2,100,2022-11-02,4,7,4,1.85,4.58
+SecureWorks,Security,Mature/Exit,83.00,2,512,2023-08-14,4,7,4,1.85,4.58
+Akamai,Security,Mature/Exit,35.00,2,540,2024-11-07,4,7,4,1.85,4.58
+Syte,Retail,Growth,71.00,1,13,2022-07-05,5,7,2,3.17,4.58
+Deliv,Retail,Growth,80.00,1,669,2020-05-13,5,7,2,3.17,4.58
+Outreach,Sales,Late,489.00,5,197,2024-11-06,2,4,10,1.85,4.58
+Le Tote,Retail,Growth,62.00,1,,2020-04-01,5,7,2,3.17,4.58
+Bullhorn,Sales,Mature/Exit,32.00,2,240,2023-10-19,4,7,4,1.85,4.58
+Datera,Infrastructure,Growth,63.00,1,,2020-05-18,5,7,2,3.06,4.56
+GoMechanic,Transportation,Growth,54.00,1,,2023-01-17,5,7,2,3.06,4.56
+Oyster,HR,Growth,224.00,3,,2023-09-11,5,4,6,2.43,4.56
+Bitrise,Infrastructure,Growth,83.00,1,,2022-09-14,5,7,2,3.06,4.56
+Outdoorsy,Transportation,Growth,75.00,1,,2020-06-04,5,7,2,3.06,4.56
+Zum,Transportation,Growth,71.00,1,28,2020-04-20,5,7,2,3.06,4.56
+Aurora Labs,Transportation,Growth,97.00,1,45,2025-01-27,5,7,2,3.06,4.56
+Euler Motors,Transportation,Growth,92.00,1,,2023-04-11,5,7,2,3.06,4.56
+Voi,Transportation,Growth,515.00,4,385,2024-02-16,5,2,8,3.06,4.56
+Replicated,Infrastructure,Growth,85.00,1,50,2022-05-31,5,7,2,3.06,4.56
+Hash,Finance,Growth,58.00,1,58,2022-08-01,5,7,2,2.98,4.55
+Volt Bank,Finance,Growth,90.00,1,,2022-06-29,5,7,2,2.98,4.55
+Treasury Prime,Finance,Growth,71.00,1,40,2024-02-28,5,7,2,2.98,4.55
+Sorare,Crypto,Early,739.00,1,22,2024-03-06,10,2,2,3.02,4.55
+Chia Network,Crypto,Growth,70.00,1,26,2023-10-02,5,7,2,3.02,4.55
+Till Payments,Finance,Growth,95.00,1,120,2023-01-10,5,7,2,2.98,4.55
+dYdX,Crypto,Growth,87.00,1,,2024-10-29,5,7,2,3.02,4.55
+Ignition,Finance,Growth,74.00,1,,2023-01-16,5,7,2,2.98,4.55
+Drip Capital,Finance,Growth,85.00,1,75,2023-04-14,5,7,2,2.98,4.55
+Autobooks,Finance,Growth,97.00,1,,2022-12-10,5,7,2,2.98,4.55
+Cellulant,Finance,Growth,54.00,1,,2023-08-23,5,7,2,2.98,4.55
+LiveVox,Support,Mature/Exit,12.00,2,,2024-01-07,4,7,4,1.67,4.55
+Sharesies,Finance,Growth,60.00,1,,2023-02-02,5,7,2,2.98,4.55
+Celsius,Crypto,Early,864.00,1,150,2022-07-03,10,2,2,3.02,4.55
+Xendit,Finance,Growth,534.00,4,200,2024-01-22,5,2,8,2.98,4.55
+Nav,Finance,Growth,99.00,1,30,2020-04-07,5,7,2,2.98,4.55
+LivePerson,Support,Mature/Exit,42.00,2,223,2022-09-15,4,7,4,1.67,4.55
+Smallcase,Finance,Growth,62.00,1,15,2023-03-21,5,7,2,2.98,4.55
+Movidesk,Support,Mature/Exit,11.00,2,151,2022-11-22,4,7,4,1.67,4.55
+Ladder Life,Finance,Growth,94.00,1,13,2020-03-23,5,7,2,2.98,4.55
+CircleUp,Finance,Growth,53.00,1,,2022-07-13,5,7,2,2.98,4.55
+Stashaway,Finance,Growth,61.00,1,31,2022-06-09,5,7,2,2.98,4.55
+Havenly,Consumer,Growth,57.80,1,5,2020-07-01,5,7,2,2.97,4.54
+Huuuge Games,Consumer,Growth,57.00,1,,2023-03-20,5,7,2,2.97,4.54
+VRChat,Consumer,Growth,95.00,1,,2024-06-12,5,7,2,2.97,4.54
+Zwift,Fitness,Growth,619.00,4,230,2024-02-05,5,2,8,2.96,4.54
+Zenoti,Fitness,Growth,91.00,1,17,2020-03-31,5,7,2,2.96,4.54
+Augury,Manufacturing,Growth,274.00,3,150,2025-07-10,5,4,6,2.14,4.52
+Merative,Healthcare,Mature/Exit,,2,300,2023-09-21,4,6,4,3.48,4.52
+Philips,Healthcare,Mature/Exit,,2,10000,2023-01-30,4,6,4,3.48,4.52
+Cerner,Healthcare,Mature/Exit,,2,3000,2023-06-15,4,6,4,3.48,4.52
+ChargePoint,Manufacturing,Unknown,1400.00,3,250,2024-09-04,7,2,6,2.14,4.52
+Kongregate,Media,Growth,19.00,1,12,2020-07-01,5,7,2,2.71,4.51
+Kuku FM,Media,Growth,71.00,1,80,2024-11-14,5,7,2,2.71,4.51
+Wonolo,Recruiting,Growth,52.00,1,46,2020-04-01,5,7,2,2.70,4.51
+Turnitin,Education,Mature/Exit,,2,66,2024-03-07,4,6,4,3.39,4.51
+Workable,Recruiting,Growth,84.00,1,25,2020-05-05,5,7,2,2.70,4.51
+FiscalNote,Media,Growth,50.00,1,30,2020-04-02,5,7,2,2.71,4.51
+CompanyCam,Recruiting,Growth,38.00,1,,2026-06-26,5,7,2,2.70,4.51
+Expert360,Recruiting,Growth,26.00,1,7,2022-08-11,5,7,2,2.70,4.51
+Hireology,Recruiting,Growth,52.00,1,36,2020-05-12,5,7,2,2.70,4.51
+Kumu,Media,Growth,94.00,1,,2023-04-17,5,7,2,2.71,4.51
+Ozy Media,Media,Growth,70.00,1,,2021-10-01,5,7,2,2.71,4.51
+SuperOps,Other,Growth,54.00,1,60,2026-04-24,5,7,2,2.63,4.49
+ResearchGate,Other,Growth,87.00,1,25,2022-11-28,5,7,2,2.63,4.49
+Automation Anywhere,Other,Early,840.00,1,260,2020-04-27,10,2,2,2.63,4.49
+Zylo,Other,Growth,72.00,1,,2023-08-18,5,7,2,2.63,4.49
+Hopin,Other,Growth,1000.00,4,380,2024-05-07,5,2,8,2.63,4.49
+Q4,Other,Growth,91.00,1,50,2022-08-23,5,7,2,2.63,4.49
+Change.org,Other,Growth,72.00,1,,2022-07-28,5,7,2,2.63,4.49
+Niantic,Other,Growth,770.00,4,483,2025-03-25,5,2,8,2.63,4.49
+MessageBird,Other,Growth,1100.00,4,210,2026-05-11,5,2,8,2.63,4.49
+BlueStacks,Other,Growth,48.00,1,60,2022-07-20,5,7,2,2.63,4.49
+Just Eat,Food,Mature/Exit,129.00,3,2450,2025-09-25,4,4,6,3.90,4.48
+Kleos Space,Aerospace,Mature/Exit,17.00,1,,2023-07-26,4,7,2,4.54,4.48
+ABL,Aerospace,Unknown,479.00,1,,2024-09-03,7,4,2,4.54,4.48
+Flexport,Logistics,Growth,2400.00,4,640,2024-10-02,5,2,8,2.56,4.48
+Bringg,Logistics,Growth,84.00,1,10,2020-04-21,5,7,2,2.56,4.48
+Kaseya,Security,Unknown,547.00,3,450,2026-01-08,7,2,6,1.85,4.48
+Sendle,Logistics,Growth,69.00,1,27,2022-07-04,5,7,2,2.56,4.48
+uShip,Logistics,Growth,69.00,1,65,2020-03-31,5,7,2,2.56,4.48
+Veriff,Security,Growth,192.00,3,230,2023-08-23,5,4,6,1.85,4.48
+Food52,Food,Mature/Exit,176.00,3,41,2022-06-03,4,4,6,3.90,4.48
+WorkRamp,HR,Growth,67.00,1,35,2022-09-15,5,7,2,2.43,4.46
+Limeade,HR,Growth,33.00,1,,2023-01-11,5,7,2,2.43,4.46
+Glints,HR,Growth,82.00,1,198,2022-12-08,5,7,2,2.43,4.46
+Parsable,HR,Growth,72.00,1,40,2020-04-15,5,7,2,2.43,4.46
+Binance.US,Crypto,Mature/Exit,,2,100,2023-09-12,4,6,4,3.02,4.45
+Intercom,Support,Growth,240.00,3,212,2022-11-14,5,4,6,1.67,4.45
+Payoneer,Finance,Mature/Exit,,2,260,2025-12-08,4,6,4,2.98,4.45
+Talkdesk,Support,Growth,497.00,3,,2023-09-26,5,4,6,1.67,4.45
+LendingTree,Finance,Mature/Exit,,2,350,2023-03-30,4,6,4,2.98,4.45
+Tidal,Consumer,Mature/Exit,,2,40,2024-10-31,4,6,4,2.97,4.44
+IAC,Consumer,Mature/Exit,,2,407,2026-04-08,4,6,4,2.97,4.44
+Runtastic,Fitness,Mature/Exit,,2,240,2024-09-16,4,6,4,2.96,4.44
+PokerStars,Consumer,Mature/Exit,,2,,2026-07-07,4,6,4,2.97,4.44
+Lawgeex,Legal,Growth,41.00,1,30,2022-09-06,5,7,2,2.21,4.43
+Lytics,Marketing,Growth,58.00,1,,2020-04-08,5,7,2,2.11,4.42
+Usermind,Marketing,Growth,46.00,1,15,2020-04-01,5,7,2,2.11,4.42
+Button,Marketing,Growth,64.00,1,48,2020-04-08,5,7,2,2.11,4.42
+CleverTap,Marketing,Growth,76.00,1,60,2020-04-16,5,7,2,2.11,4.42
+Simon Data,Marketing,Growth,68.00,1,6,2020-04-23,5,7,2,2.11,4.42
+Pebblepost,Marketing,Growth,81.00,1,,2020-04-01,5,7,2,2.11,4.42
+OutboundEngine,Marketing,Growth,48.00,1,52,2020-03-25,5,7,2,2.11,4.42
+AdRoll,Marketing,Growth,89.00,1,210,2020-03-31,5,7,2,2.11,4.42
+SundaySky,Marketing,Growth,74.00,1,24,2022-07-11,5,7,2,2.11,4.42
+Sharethrough,Marketing,Growth,38.00,1,18,2020-07-01,5,7,2,2.11,4.42
+GumGum,Marketing,Growth,58.00,1,90,2020-04-20,5,7,2,2.11,4.42
+Igenous,Data,Growth,67.00,1,,2020-11-17,5,7,2,2.04,4.41
+Rev.com,Data,Growth,30.00,1,85,2022-10-07,5,7,2,2.04,4.41
+Morning Brew,Media,Mature/Exit,,2,40,2023-03-09,4,6,4,2.71,4.41
+StreamSets,Data,Growth,76.20,1,,2020-08-20,5,7,2,2.04,4.41
+TechCrunch,Media,Mature/Exit,,2,7,2025-01-14,4,6,4,2.71,4.41
+Citrine Informatics,Data,Growth,64.00,1,22,2023-01-20,5,7,2,2.04,4.41
+Verbit,Data,Growth,569.00,4,162,2025-09-10,5,2,8,2.04,4.41
+Glassbox,Data,Growth,70.00,1,,2023-05-04,5,7,2,2.04,4.41
+Coursera,Education,Mature/Exit,458.00,3,150,2026-07-06,4,4,6,3.39,4.41
+Inspirato,Travel,Mature/Exit,179.00,3,289,2023-07-19,4,4,6,3.36,4.40
+Synopsys,Other,Mature/Exit,,2,2100,2025-11-12,4,6,4,2.63,4.39
+Weedmaps,Other,Mature/Exit,,2,175,2022-12-06,4,6,4,2.63,4.39
+Goodfood,Food,Mature/Exit,16.00,1,70,2022-04-07,4,7,2,3.90,4.38
+Foodpanda,Food,Mature/Exit,749.00,4,140,2023-09-22,4,2,8,3.90,4.38
+BigCommerce,Retail,Mature/Exit,224.00,3,180,2024-11-08,4,4,6,3.17,4.38
+Lastline,Security,Growth,52.00,1,50,2020-06-04,5,7,2,1.85,4.38
+Transmit Security,Security,Early,583.00,1,27,2022-07-05,10,2,2,1.85,4.38
+80 Acres Farms,Food,Unknown,275.00,1,,2023-01-18,7,4,2,3.90,4.38
+Simple Feast,Food,Unknown,173.00,1,150,2022-09-07,7,4,2,3.90,4.38
+DeepL,AI,Unknown,400.00,1,250,2026-05-07,7,4,2,3.87,4.38
+Yummly,Food,Mature/Exit,24.00,1,,2024-04-03,4,7,2,3.90,4.38
+Ninjacart,Food,Unknown,194.00,1,200,2021-02-23,7,4,2,3.90,4.38
+Glovo,Food,Mature/Exit,1200.00,4,437,2024-05-25,4,2,8,3.90,4.38
+Stability AI,AI,Unknown,174.00,1,20,2024-04-18,7,4,2,3.87,4.38
+Milkbasket,Food,Mature/Exit,39.00,1,400,2023-07-27,4,7,2,3.90,4.38
+Pegasystems,HR,Mature/Exit,,2,485,2023-08-31,4,6,4,2.43,4.36
+Edgio,Infrastructure,Mature/Exit,462.00,3,309,2024-03-04,4,4,6,3.06,4.36
+TomTom,Transportation,Mature/Exit,430.00,3,845,2025-06-30,4,4,6,3.06,4.36
+Turntide,Energy,Unknown,491.00,1,,2022-07-28,7,4,2,3.72,4.36
+General Fusion,Energy,Unknown,370.00,1,,2025-05-05,7,4,2,3.72,4.36
+TrueCar,Transportation,Mature/Exit,340.00,3,421,2026-02-24,4,4,6,3.06,4.36
+Built Technologies copy,Construction,Unknown,313.00,1,,2023-02-03,7,4,2,3.66,4.35
+Lending Club,Finance,Mature/Exit,392.00,3,857,2023-10-12,4,4,6,2.98,4.35
+Exotel,Support,Growth,87.00,1,142,2023-01-17,5,7,2,1.67,4.35
+Bench,Finance,Mature/Exit,109.00,3,497,2025-05-01,4,4,6,2.98,4.35
+Built Technologies,Construction,Unknown,313.00,1,,2023-07-11,7,4,2,3.66,4.35
+Bill.com,Finance,Mature/Exit,280.00,3,709,2026-05-07,4,4,6,2.98,4.35
+iFit,Fitness,Mature/Exit,200.00,3,300,2022-11-14,4,4,6,2.96,4.34
+Skillz,Consumer,Mature/Exit,287.00,3,91,2022-08-29,4,4,6,2.97,4.34
+Bungie,Consumer,Mature/Exit,100.00,3,612,2026-06-25,4,4,6,2.97,4.34
+OLX Group,Marketing,Mature/Exit,,2,2300,2023-06-20,4,6,4,2.11,4.32
+Seagate,Hardware,Mature/Exit,,2,3480,2023-03-29,4,6,4,2.11,4.32
+Coherent,Manufacturing,Mature/Exit,,2,304,2023-06-06,4,6,4,2.14,4.32
+iSpecimen,Healthcare,Mature/Exit,31.00,1,,2023-09-06,4,7,2,3.48,4.32
+Verily,Healthcare,Mature/Exit,3500.00,4,308,2026-06-09,4,2,8,3.48,4.32
+Equip Health,Healthcare,Unknown,164.00,1,,2026-06-29,7,4,2,3.48,4.32
+ConnectRN,Healthcare,Unknown,160.00,1,,2023-07-06,7,4,2,3.48,4.32
+Acxiom,Marketing,Mature/Exit,,2,130,2025-03-19,4,6,4,2.11,4.32
+Kyruus,Healthcare,Unknown,183.00,1,70,2023-02-05,7,4,2,3.48,4.32
+Care/of,Healthcare,Mature/Exit,83.00,1,143,2024-06-15,4,7,2,3.48,4.32
+GoHealth,Healthcare,Mature/Exit,75.00,1,800,2022-08-09,4,7,2,3.48,4.32
+DeepVerge,Healthcare,Mature/Exit,20.00,1,50,2023-07-12,4,7,2,3.48,4.32
+Doximity,Healthcare,Mature/Exit,82.00,1,100,2023-08-08,4,7,2,3.48,4.32
+Frequency Therapeutics,Healthcare,Mature/Exit,76.00,1,,2023-02-01,4,7,2,3.48,4.32
+iCAD,Healthcare,Mature/Exit,59.00,1,23,2023-03-29,4,7,2,3.48,4.32
+Sword Health,Healthcare,Unknown,450.00,1,13,2024-11-11,7,4,2,3.48,4.32
+Foundation Medicine,Healthcare,Mature/Exit,96.00,1,135,2023-04-04,4,7,2,3.48,4.32
+Vivian Health,Healthcare,Mature/Exit,60.00,1,13,2024-04-03,4,7,2,3.48,4.32
+Huma,Healthcare,Unknown,217.00,1,45,2023-08-30,7,4,2,3.48,4.32
+Momentis Surgical,Healthcare,Growth,,1,70,2023-05-08,5,6,2,3.48,4.32
+Udacity,Education,Unknown,235.00,1,55,2022-10-11,7,4,2,3.39,4.31
+Codecademy,Education,Mature/Exit,87.00,1,,2026-02-19,4,7,2,3.39,4.31
+Magicbricks,Real Estate,Unknown,300.00,1,250,2020-05-17,7,4,2,3.38,4.31
+Rhino,Real Estate,Unknown,133.00,1,57,2022-02-03,7,4,2,3.38,4.31
+Hometap,Real Estate,Unknown,172.00,1,,2023-03-15,7,4,2,3.38,4.31
+LearnUpon,Education,Mature/Exit,56.00,1,27,2023-02-07,4,7,2,3.39,4.31
+Simplilearn,Education,Mature/Exit,76.00,1,200,2023-12-07,4,7,2,3.39,4.31
+Storytel,Media,Mature/Exit,312.00,3,260,2024-02-15,4,4,6,2.71,4.31
+Lamudi Indonesia,Real Estate,Mature/Exit,56.00,1,,2023-07-17,4,7,2,3.38,4.31
+Instructure,Education,Mature/Exit,89.00,1,150,2020-05-27,4,7,2,3.39,4.31
+Ruangguru,Education,Unknown,205.00,1,,2022-11-18,7,4,2,3.39,4.31
+PowerSchool,Education,Mature/Exit,31.00,1,,2025-12-12,4,7,2,3.39,4.31
+Homebound,Real Estate,Unknown,128.00,1,,2022-12-02,7,4,2,3.38,4.31
+Edmodo,Education,Mature/Exit,77.00,1,,2022-08-16,4,7,2,3.39,4.31
+Roku,Media,Mature/Exit,208.00,3,760,2023-09-06,4,4,6,2.71,4.31
+MRI Software,Real Estate,Mature/Exit,16.00,1,200,2026-05-11,4,7,2,3.38,4.31
+Stack Overflow,Recruiting,Mature/Exit,153.00,3,98,2023-10-16,4,4,6,2.70,4.31
+Compass,Real Estate,Mature/Exit,1600.00,4,1096,2023-01-05,4,2,8,3.38,4.31
+Kaltura,Media,Mature/Exit,166.00,3,145,2025-08-07,4,4,6,2.71,4.31
+Flatiron School,Education,Mature/Exit,15.00,1,100,2020-05-06,4,7,2,3.39,4.31
+Byju's,Education,Mature/Exit,5500.00,4,5500,2024-04-02,4,2,8,3.39,4.31
+Priceline,Travel,Mature/Exit,77.00,1,103,2024-06-28,4,7,2,3.36,4.30
+PaulCamper,Travel,Mature/Exit,12.00,1,,2023-07-07,4,7,2,3.36,4.30
+Vacasa,Travel,Mature/Exit,834.00,4,2420,2024-05-09,4,2,8,3.36,4.30
+Trivago,Travel,Mature/Exit,55.00,1,,2020-05-04,4,7,2,3.36,4.30
+Upwork,Other,Mature/Exit,168.00,3,288,2026-05-07,4,4,6,2.63,4.29
+Tempo Automation,Other,Mature/Exit,154.00,3,116,2023-08-22,4,4,6,2.63,4.29
+Smartsheet,Other,Mature/Exit,152.00,3,205,2026-02-04,4,4,6,2.63,4.29
+Mensa Brands,Retail,Unknown,254.00,1,30,2023-05-30,7,4,2,3.17,4.28
+Groupon,Retail,Mature/Exit,1400.00,4,4200,2026-05-26,4,2,8,3.17,4.28
+Reverb,Retail,Mature/Exit,47.00,1,40,2024-09-20,4,7,2,3.17,4.28
+NCC Group,Security,Mature/Exit,,2,125,2023-08-10,4,6,4,1.85,4.28
+Bowery Farming,Food,Unknown,626.00,2,,2024-11-01,7,2,4,3.90,4.28
+ezCater,Food,Growth,319.00,2,440,2025-11-21,5,4,4,3.90,4.28
+Flipkart,Retail,Mature/Exit,12900.00,4,1640,2026-03-06,4,2,8,3.17,4.28
+Sayurbox,Food,Growth,139.00,2,,2023-04-14,5,4,4,3.90,4.28
+Digital River,Retail,Mature/Exit,50.00,1,122,2025-01-28,4,7,2,3.17,4.28
+Omuni,Retail,Mature/Exit,10.00,1,60,2023-08-30,4,7,2,3.17,4.28
+Fashinza,Retail,Unknown,153.00,1,,2024-01-18,7,4,2,3.17,4.28
+TakeOff,Retail,Unknown,146.00,1,50,2023-03-23,7,4,2,3.17,4.28
+Gopuff,Food,Late,3400.00,6,2400,2024-05-16,2,2,10,3.90,4.28
+Daily Harvest,Food,Growth,120.00,2,60,2022-08-08,5,4,4,3.90,4.28
+Thinx,Retail,Mature/Exit,26.00,1,95,2024-01-31,4,7,2,3.17,4.28
+Catch.com.au,Retail,Mature/Exit,80.00,1,100,2023-02-06,4,7,2,3.17,4.28
+The Good Glamm Group,Retail,Unknown,180.00,1,150,2024-04-18,7,4,2,3.17,4.28
+Imperfect Foods,Food,Growth,229.00,2,50,2022-07-29,5,4,4,3.90,4.28
+Buy.com / Rakuten,Retail,Mature/Exit,42.40,1,87,2020-07-30,4,7,2,3.17,4.28
+Blue Nile,Retail,Mature/Exit,62.00,1,119,2023-03-28,4,7,2,3.17,4.28
+Twiga,Food,Growth,157.00,2,494,2023-08-20,5,4,4,3.90,4.28
+Heroes,Retail,Unknown,265.00,1,24,2022-07-15,7,4,2,3.17,4.28
+Pomelo Fashion,Retail,Unknown,120.00,1,55,2022-09-08,7,4,2,3.17,4.28
+Kaspien,Retail,Mature/Exit,52.00,1,,2023-12-19,4,7,2,3.17,4.28
+Thread,Retail,Mature/Exit,40.00,1,30,2022-11-30,4,7,2,3.17,4.28
+Route,Retail,Unknown,481.00,1,,2022-12-05,7,4,2,3.17,4.28
+Lyst,Retail,Unknown,144.00,1,50,2022-11-29,7,4,2,3.17,4.28
+Mamaearth,Retail,Unknown,111.00,1,80,2023-06-14,7,4,2,3.17,4.28
+Etsy,Retail,Mature/Exit,97.00,1,225,2023-12-13,4,7,2,3.17,4.28
+AliExpress Russia,Retail,Mature/Exit,60.00,1,400,2022-05-14,4,7,2,3.17,4.28
+Shipt,Retail,Mature/Exit,65.00,1,,2023-10-24,4,7,2,3.17,4.28
+Nextbite,Food,Growth,150.00,2,,2023-05-18,5,4,4,3.90,4.28
+Packable,Retail,Unknown,472.00,1,138,2022-08-23,7,4,2,3.17,4.28
+Restaurant365,Food,Growth,127.00,2,275,2025-08-14,5,4,4,3.90,4.28
+PowerReviews,Retail,Mature/Exit,78.00,1,,2020-04-23,4,7,2,3.17,4.28
+DeHaat,Food,Growth,254.00,2,,2023-01-15,5,4,4,3.90,4.28
+Karhoo,Transportation,Mature/Exit,39.00,1,,2024-05-16,4,7,2,3.06,4.26
+Getaround,Transportation,Mature/Exit,948.00,4,100,2025-02-12,4,2,8,3.06,4.26
+FlexCar,Transportation,Unknown,297.00,1,20,2023-08-16,7,4,2,3.06,4.26
+Telenav,Transportation,Mature/Exit,30.00,1,172,2023-05-12,4,7,2,3.06,4.26
+Sandvine,Infrastructure,Mature/Exit,63.00,1,,2024-08-23,4,7,2,3.06,4.26
+Jump,Transportation,Mature/Exit,11.00,1,500,2020-05-07,4,7,2,3.06,4.26
+Northvolt,Energy,Unknown,13800.00,2,4400,2025-03-31,7,2,4,3.72,4.26
+Carwow,Transportation,Unknown,157.00,1,70,2022-11-25,7,4,2,3.06,4.26
+inDrive,Transportation,Unknown,387.00,1,,2023-08-01,7,4,2,3.06,4.26
+Fisker,Transportation,Mature/Exit,1700.00,4,,2024-06-18,4,2,8,3.06,4.26
+Automatic,Transportation,Mature/Exit,24.00,1,,2020-05-01,4,7,2,3.06,4.26
+Hyperloop One,Transportation,Unknown,368.00,1,,2023-12-21,7,4,2,3.06,4.26
+Shift,Transportation,Mature/Exit,504.00,4,,2023-10-06,4,2,8,3.06,4.26
+Sauce Labs,Infrastructure,Unknown,151.00,1,30,2020-04-02,7,4,2,3.06,4.26
+Lucid Motors,Transportation,Mature/Exit,8300.00,4,3200,2026-06-22,4,2,8,3.06,4.26
+Revel,Transportation,Unknown,214.00,1,1000,2024-06-06,7,4,2,3.06,4.26
+Quicko,Transportation,Mature/Exit,28.00,1,60,2022-09-12,4,7,2,3.06,4.26
+Virgin Hyperloop,Transportation,Unknown,368.00,1,111,2022-02-21,7,4,2,3.06,4.26
+Superloop,Infrastructure,Mature/Exit,36.00,1,30,2020-08-24,4,7,2,3.06,4.26
+Workday,HR,Mature/Exit,230.00,3,2675,2026-02-04,4,4,6,2.43,4.26
+Brighte,Energy,Growth,145.00,2,88,2022-09-09,5,4,4,3.72,4.26
+Circ,Transportation,Mature/Exit,55.00,1,100,2020-06-02,4,7,2,3.06,4.26
+Pax8,Infrastructure,Unknown,400.00,1,,2024-04-18,7,4,2,3.06,4.26
+Freetrade,Finance,Unknown,133.00,1,45,2022-06-10,7,4,2,2.98,4.25
+Trustly,Finance,Mature/Exit,28.00,1,120,2022-02-17,4,7,2,2.98,4.25
+ClearPay,Finance,Mature/Exit,85.00,1,,2023-06-27,4,7,2,2.98,4.25
+Sapiens,Finance,Mature/Exit,88.00,1,700,2025-12-28,4,7,2,2.98,4.25
+Zilch,Finance,Unknown,389.00,1,,2022-11-26,7,4,2,2.98,4.25
+Earnix,Finance,Unknown,100.00,1,30,2023-05-04,7,4,2,2.98,4.25
+Aspiration,Finance,Unknown,250.00,1,170,2023-03-24,7,4,2,2.98,4.25
+Rewire,Finance,Mature/Exit,57.00,1,110,2026-02-04,4,7,2,2.98,4.25
+Acorns,Finance,Unknown,207.00,1,50,2020-05-26,7,4,2,2.98,4.25
+KoinWorks,Finance,Unknown,180.00,1,70,2022-11-04,7,4,2,2.98,4.25
+Eigen Labs,Crypto,Unknown,234.00,1,29,2025-07-08,7,4,2,3.02,4.25
+Lendingkart,Finance,Unknown,200.00,1,500,2020-05-15,7,4,2,2.98,4.25
+Bullish,Crypto,Unknown,300.00,1,30,2022-07-05,7,4,2,3.02,4.25
+Guidewire,Finance,Mature/Exit,24.00,1,,2022-08-11,4,7,2,2.98,4.25
+Bitfarms,Crypto,Mature/Exit,25.00,1,,2020-04-06,4,7,2,3.02,4.25
+Verse,Finance,Mature/Exit,38.00,1,,2023-08-07,4,7,2,2.98,4.25
+Happay,Finance,Mature/Exit,21.00,1,160,2023-05-12,4,7,2,2.98,4.25
+Luno,Crypto,Mature/Exit,13.00,1,330,2023-01-25,4,7,2,3.02,4.25
+PaySense,Finance,Mature/Exit,25.60,1,40,2020-07-09,4,7,2,2.98,4.25
+Stash Financial,Finance,Unknown,480.00,1,40,2022-06-30,7,4,2,2.98,4.25
+Juni,Finance,Unknown,281.00,1,72,2022-11-17,7,4,2,2.98,4.25
+Paystack,Finance,Mature/Exit,10.00,1,33,2023-11-16,4,7,2,2.98,4.25
+Yuga Labs,Crypto,Unknown,450.00,1,,2023-10-06,7,4,2,3.02,4.25
+Ajaib,Finance,Unknown,245.00,1,67,2022-11-28,7,4,2,2.98,4.25
+Spendesk,Finance,Growth,,1,151,2024-09-18,5,6,2,2.98,4.25
+Feedzai,Finance,Unknown,273.00,1,,2023-01-27,7,4,2,2.98,4.25
+Simple,Finance,Mature/Exit,15.00,1,,2021-01-07,4,7,2,2.98,4.25
+Seedr,Finance,Mature/Exit,28.00,1,15,2024-01-23,4,7,2,2.98,4.25
+Coinbase,Crypto,Mature/Exit,549.00,4,2810,2026-05-05,4,2,8,3.02,4.25
+Uncapped,Finance,Unknown,118.00,1,29,2022-05-27,7,4,2,2.98,4.25
+SadaPay,Finance,Mature/Exit,20.00,1,,2024-07-12,4,7,2,2.98,4.25
+Everquote,Finance,Mature/Exit,53.00,1,100,2023-07-11,4,7,2,2.98,4.25
+Banxa,Crypto,Mature/Exit,13.00,1,70,2022-06-27,4,7,2,3.02,4.25
+Pilot,Finance,Unknown,116.00,1,45,2023-06-16,7,4,2,2.98,4.25
+Wave Financial,Finance,Mature/Exit,79.00,1,50,2023-03-09,4,7,2,2.98,4.25
+Procore,Construction,Unknown,654.00,2,180,2024-01-30,7,2,4,3.66,4.25
+Zest AI,Finance,Unknown,217.00,1,,2020-04-09,7,4,2,2.98,4.25
+BookMyShow,Consumer,Unknown,224.00,1,270,2020-05-28,7,4,2,2.97,4.24
+Grammarly,Consumer,Unknown,400.00,1,230,2024-02-07,7,4,2,2.97,4.24
+Wildlife Studios,Consumer,Unknown,260.00,1,300,2022-11-28,7,4,2,2.97,4.24
+Lululemon Studio,Fitness,Mature/Exit,75.00,1,120,2023-09-28,4,7,2,2.96,4.24
+Mojo,Consumer,Unknown,100.00,1,,2023-11-30,7,4,2,2.97,4.24
+Instagram,Consumer,Mature/Exit,57.00,1,60,2024-01-10,4,7,2,2.97,4.24
+Twitter,Consumer,Mature/Exit,12900.00,4,3940,2023-02-25,4,2,8,2.97,4.24
+King.com,Consumer,Mature/Exit,84.00,1,200,2025-07-14,4,7,2,2.97,4.24
+MyHeritage,Consumer,Mature/Exit,49.00,1,500,2026-07-08,4,7,2,2.97,4.24
+Ancestry,Consumer,Mature/Exit,33.00,1,81,2024-03-14,4,7,2,2.97,4.24
+Genius,Consumer,Mature/Exit,78.00,1,,2021-09-15,4,7,2,2.97,4.24
+Eventbrite,Consumer,Mature/Exit,557.00,4,680,2026-04-13,4,2,8,2.97,4.24
+MPL,Consumer,Unknown,375.00,1,350,2023-08-08,7,4,2,2.97,4.24
+Loco,Consumer,Mature/Exit,52.00,1,40,2023-11-30,4,7,2,2.97,4.24
+Meetup,Consumer,Mature/Exit,18.00,1,,2024-02-05,4,7,2,2.97,4.24
+Head Digital Works,Consumer,Mature/Exit,74.00,1,500,2025-09-04,4,7,2,2.97,4.24
+Tilting Point,Consumer,Unknown,235.00,1,60,2023-01-31,7,4,2,2.97,4.24
+Iflix,Consumer,Unknown,348.00,1,50,2020-04-04,7,4,2,2.97,4.24
+Playdots,Consumer,Mature/Exit,10.00,1,65,2022-10-13,4,7,2,2.97,4.24
+MakerBot,Consumer,Mature/Exit,10.00,1,12,2020-06-02,4,7,2,2.97,4.24
+Digg,Consumer,Mature/Exit,49.00,1,,2026-03-13,4,7,2,2.97,4.24
+Wizeline,Product,Mature/Exit,62.00,1,,2022-07-22,4,7,2,2.84,4.23
+Jama,Product,Unknown,233.00,1,12,2020-03-25,7,4,2,2.84,4.23
+Replit,Product,Unknown,222.00,1,30,2024-05-16,7,4,2,2.84,4.23
+TytoCare,Healthcare,Growth,206.00,2,55,2025-07-17,5,4,4,3.48,4.22
+SonderMind,Healthcare,Growth,183.00,2,49,2024-01-16,5,4,4,3.48,4.22
+Pristyn Care,Healthcare,Growth,177.00,2,420,2024-03-01,5,4,4,3.48,4.22
+Brightline,Healthcare,Growth,212.00,2,,2023-05-03,5,4,4,3.48,4.22
+Wheel,Healthcare,Growth,215.00,2,91,2023-02-01,5,4,4,3.48,4.22
+Arch Oncology,Healthcare,Growth,155.00,2,,2023-02-22,5,4,4,3.48,4.22
+Alice,Healthcare,Growth,174.00,2,176,2022-12-09,5,4,4,3.48,4.22
+Outbrain,Marketing,Mature/Exit,394.00,3,328,2025-02-05,4,4,6,2.11,4.22
+HealthifyMe,Healthcare,Growth,130.00,2,300,2024-04-27,5,4,4,3.48,4.22
+Betterfly,Healthcare,Growth,204.00,2,30,2023-01-18,5,4,4,3.48,4.22
+Beam Benefits,Healthcare,Growth,168.00,2,105,2024-01-10,5,4,4,3.48,4.22
+Healthy.io,Healthcare,Growth,185.00,2,110,2024-09-22,5,4,4,3.48,4.22
+Lambda School,Education,Growth,122.00,2,84,2021-04-29,5,4,4,3.39,4.21
+Audible,Media,Mature/Exit,14.00,1,100,2024-01-11,4,7,2,2.71,4.21
+Group Nine Media,Media,Unknown,190.00,1,50,2020-04-07,7,4,2,2.71,4.21
+Outschool,Education,Growth,240.00,2,74,2022-12-10,5,4,4,3.39,4.21
+Maven,Media,Mature/Exit,77.00,1,31,2020-03-30,4,7,2,2.71,4.21
+Domestika,Education,Growth,130.00,2,239,2023-03-31,5,4,4,3.39,4.21
+Course Hero,Education,Growth,477.00,2,42,2023-12-05,5,4,4,3.39,4.21
+Homeward,Real Estate,Unknown,501.00,2,,2022-11-16,7,2,4,3.38,4.21
+Cheddar,Media,Mature/Exit,54.00,1,,2020-04-24,4,7,2,2.71,4.21
+Big Fish Games,Media,Mature/Exit,95.20,1,250,2020-09-01,4,7,2,2.71,4.21
+CNET,Media,Mature/Exit,20.00,1,12,2023-03-02,4,7,2,2.71,4.21
+YouTube,Media,Mature/Exit,11.00,1,100,2024-01-17,4,7,2,2.71,4.21
+Bleacher Report,Media,Mature/Exit,40.50,1,20,2020-09-11,4,7,2,2.71,4.21
+HuffPo,Media,Mature/Exit,37.00,1,47,2021-03-09,4,7,2,2.71,4.21
+Ribbon,Real Estate,Growth,405.00,2,306,2022-11-14,5,4,4,3.38,4.21
+MasterClass,Education,Growth,461.00,2,199,2023-03-02,5,4,4,3.39,4.21
+StoryBlocks,Media,Mature/Exit,18.00,1,,2022-11-18,4,7,2,2.71,4.21
+Netflix,Media,Mature/Exit,121900.00,4,505,2022-09-14,4,2,8,2.71,4.21
+iCIMS,Recruiting,Mature/Exit,93.00,1,69,2024-08-09,4,7,2,2.70,4.21
+LEAD,Education,Growth,190.00,2,140,2023-01-10,5,4,4,3.39,4.21
+Flipboard,Media,Unknown,235.00,1,24,2022-10-16,7,4,2,2.71,4.21
+Tapas Media,Media,Mature/Exit,17.00,1,,2022-07-28,4,7,2,2.71,4.21
+CloudKitchens,Real Estate,Unknown,1300.00,2,,2023-11-08,7,2,4,3.38,4.21
+Redbox,Media,Mature/Exit,51.00,1,1000,2024-07-10,4,7,2,2.71,4.21
+Wondery,Media,Mature/Exit,15.00,1,100,2025-08-04,4,7,2,2.71,4.21
+Snapdocs,Real Estate,Growth,253.00,2,,2022-11-03,5,4,4,3.38,4.21
+Cloudinary,Media,Unknown,100.00,1,40,2022-11-14,7,4,2,2.71,4.21
+Axios Media,Media,Mature/Exit,57.00,1,50,2024-08-06,4,7,2,2.71,4.21
+Brainly,Education,Growth,148.00,2,25,2023-05-24,5,4,4,3.39,4.21
+ApplyBoard,Education,Growth,483.00,2,90,2024-09-19,5,4,4,3.39,4.21
+Roofstock,Real Estate,Growth,365.00,2,,2023-03-22,5,4,4,3.38,4.21
+Unacademy,Education,Late,838.00,5,1750,2024-07-02,2,2,10,3.39,4.21
+Navan,Travel,Unknown,2200.00,2,290,2023-12-06,7,2,4,3.36,4.20
+OYO,Travel,Late,4000.00,5,1850,2022-12-03,2,2,10,3.36,4.20
+RedDoorz,Travel,Growth,134.00,2,,2020-04-14,5,4,4,3.36,4.20
+Certinia,Other,Unknown,194.00,1,,2024-01-11,7,4,2,2.63,4.19
+SkyKick,Other,Unknown,198.00,1,140,2023-08-30,7,4,2,2.63,4.19
+Phunware,Other,Mature/Exit,87.00,1,,2023-07-20,4,7,2,2.63,4.19
+Kinaxis,Other,Mature/Exit,79.00,1,,2024-05-08,4,7,2,2.63,4.19
+LiveTiles,Other,Mature/Exit,46.00,1,50,2020-05-03,4,7,2,2.63,4.19
+American Robotics,Other,Mature/Exit,92.00,1,50,2023-01-17,4,7,2,2.63,4.19
+Zapata Computing,Other,Mature/Exit,82.00,1,,2024-10-07,4,7,2,2.63,4.19
+Whispir,Other,Mature/Exit,68.00,1,,2022-11-15,4,7,2,2.63,4.19
+EyeEm,Other,Mature/Exit,24.00,1,,2025-12-11,4,7,2,2.63,4.19
+iQiyi Smart,Other,Growth,,1,,2023-08-14,5,6,2,2.63,4.19
+GoCanvas,Other,Mature/Exit,21.00,1,,2023-01-13,4,7,2,2.63,4.19
+Desktop Metal,Other,Mature/Exit,811.00,4,,2024-01-24,4,2,8,2.63,4.19
+Updater,Other,Unknown,467.00,1,,2022-08-16,7,4,2,2.63,4.19
+GrabCAD,Other,Mature/Exit,28.00,1,13,2024-01-12,4,7,2,2.63,4.19
+Clari,Sales,Mature/Exit,496.00,3,141,2026-02-12,4,4,6,1.85,4.18
+FreightWaves,Logistics,Mature/Exit,92.00,1,16,2024-09-24,4,7,2,2.56,4.18
+Khoros,Sales,Mature/Exit,138.00,3,236,2025-06-20,4,4,6,1.85,4.18
+Copia,Retail,Growth,103.00,2,1410,2024-06-06,5,4,4,3.17,4.18
+Bizongo,Retail,Growth,315.00,2,190,2023-10-05,5,4,4,3.17,4.18
+DealShare,Retail,Growth,390.00,2,230,2023-09-21,5,4,4,3.17,4.18
+Trove Recommerce,Retail,Growth,152.00,2,143,2024-01-31,5,4,4,3.17,4.18
+Seegrid,Logistics,Unknown,107.00,1,90,2022-08-02,7,4,2,2.56,4.18
+Zonar Systems,Logistics,Mature/Exit,50.00,1,,2025-03-09,4,7,2,2.56,4.18
+Nowports,Logistics,Growth,,1,,2023-03-30,5,6,2,2.56,4.18
+IronNet,Security,Mature/Exit,428.00,3,145,2023-10-02,4,4,6,1.85,4.18
+Zilingo,Retail,Growth,307.00,2,144,2020-07-09,5,4,4,3.17,4.18
+Olist,Retail,Growth,322.00,2,,2023-01-30,5,4,4,3.17,4.18
+CityMall,Retail,Growth,112.00,2,281,2023-10-16,5,4,4,3.17,4.18
+100 Thieves,Retail,Growth,120.00,2,12,2023-01-10,5,4,4,3.17,4.18
+Culture Amp,HR,Late,257.00,4,256,2026-06-26,2,4,8,2.43,4.16
+Snagajob,HR,Unknown,221.00,1,,2022-08-31,7,4,2,2.43,4.16
+Superpedestrian,Transportation,Growth,262.00,2,35,2023-12-15,5,4,4,3.06,4.16
+CareerArc,HR,Mature/Exit,30.00,1,,2023-01-06,4,7,2,2.43,4.16
+PayScale,HR,Mature/Exit,33.00,1,14,2023-07-14,4,7,2,2.43,4.16
+PerkSpot,HR,Mature/Exit,50.00,1,10,2020-04-06,4,7,2,2.43,4.16
+Justworks,HR,Unknown,160.00,1,200,2025-02-10,7,4,2,2.43,4.16
+Velodyne Lidar,Transportation,Unknown,575.00,2,360,2023-02-24,7,2,4,3.06,4.16
+Workhuman,HR,Unknown,131.00,1,130,2023-03-21,7,4,2,2.43,4.16
+Automox,Infrastructure,Growth,152.00,2,,2022-06-13,5,4,4,3.06,4.16
+CarDekho,Transportation,Growth,497.00,2,200,2022-08-03,5,4,4,3.06,4.16
+Mux,Infrastructure,Growth,173.00,2,80,2023-05-31,5,4,4,3.06,4.16
+Bolt,Transportation,Late,1300.00,5,307,2026-04-05,2,2,10,3.06,4.16
+D2iQ,Infrastructure,Growth,247.00,2,34,2023-12-08,5,4,4,3.06,4.16
+Poppulo,HR,Mature/Exit,30.00,1,85,2023-04-27,4,7,2,2.43,4.16
+Ola,Transportation,Late,5000.00,5,2980,2024-04-29,2,2,10,3.06,4.16
+Turo,Transportation,Growth,467.00,2,258,2025-04-16,5,4,4,3.06,4.16
+Kyte,Transportation,Unknown,548.00,2,,2025-08-15,7,2,4,3.06,4.16
+SpotHero,Transportation,Growth,117.00,2,40,2020-06-03,5,4,4,3.06,4.16
+Flywire,Finance,Growth,263.00,2,185,2025-02-26,5,4,4,2.98,4.15
+Capitolis,Finance,Growth,281.00,2,37,2022-11-18,5,4,4,2.98,4.15
+ZestMoney,Finance,Growth,120.00,2,250,2023-12-05,5,4,4,2.98,4.15
+Rapid,Finance,Growth,272.00,2,185,2023-04-25,5,4,4,2.98,4.15
+CoinDCX,Crypto,Growth,247.00,2,80,2023-08-22,5,4,4,3.02,4.15
+Bitso,Crypto,Growth,378.00,2,180,2022-11-29,5,4,4,3.02,4.15
+Trade Republic,Finance,Unknown,1300.00,2,,2024-06-23,7,2,4,2.98,4.15
+Altruist,Finance,Growth,449.00,2,87,2025-10-23,5,4,4,2.98,4.15
+C6 Bank,Finance,Unknown,2300.00,2,60,2023-02-06,7,2,4,2.98,4.15
+Tally,Finance,Growth,172.00,2,28,2024-08-12,5,4,4,2.98,4.15
+CommonBond,Finance,Growth,130.00,2,22,2022-09-09,5,4,4,2.98,4.15
+Aura Financial,Finance,Unknown,584.00,2,,2021-01-11,7,2,4,2.98,4.15
+Clearcover,Finance,Growth,304.00,2,81,2023-09-01,5,4,4,2.98,4.15
+OpenSea,Crypto,Growth,427.00,2,,2023-11-03,5,4,4,3.02,4.15
+Immutable,Crypto,Growth,279.00,2,20,2023-02-22,5,4,4,3.02,4.15
+Blockchain.com,Crypto,Growth,490.00,2,260,2023-01-12,5,4,4,3.02,4.15
+TrueLayer,Finance,Growth,321.00,2,111,2024-11-15,5,4,4,2.98,4.15
+Clear,Finance,Growth,140.00,2,335,2025-08-01,5,4,4,2.98,4.15
+Koho,Finance,Growth,278.00,2,15,2023-02-08,5,4,4,2.98,4.15
+Bluevine,Finance,Unknown,769.00,2,100,2024-12-10,7,2,4,2.98,4.15
+Fi.Money,Finance,Growth,137.00,2,30,2026-02-10,5,4,4,2.98,4.15
+The Zebra,Finance,Growth,256.00,2,90,2022-11-15,5,4,4,2.98,4.15
+Klarna,Finance,Unknown,3700.00,2,800,2022-09-22,7,2,4,2.98,4.15
+Clubhouse,Consumer,Growth,110.00,2,,2023-04-27,5,4,4,2.97,4.14
+Eaze,Consumer,Growth,202.00,2,525,2024-10-07,5,4,4,2.97,4.14
+Hydrow,Fitness,Growth,269.00,2,30,2023-01-19,5,4,4,2.96,4.14
+IRL,Consumer,Growth,197.00,2,25,2023-06-23,5,4,4,2.97,4.14
+Mobile Premier League,Consumer,Growth,375.00,2,400,2025-09-01,5,4,4,2.97,4.14
+SoundCloud,Consumer,Unknown,542.00,2,,2023-05-23,7,2,4,2.97,4.14
+Quora,Consumer,Growth,226.00,2,,2026-04-16,5,4,4,2.97,4.14
+Epic Games,Consumer,Unknown,6400.00,2,1870,2026-03-24,7,2,4,2.97,4.14
+Jam City,Consumer,Unknown,652.00,2,285,2024-08-05,7,2,4,2.97,4.14
+Curefit,Fitness,Growth,404.60,2,920,2020-07-17,5,4,4,2.96,4.14
+Juul,Consumer,Unknown,1500.00,2,1300,2022-11-10,7,2,4,2.97,4.14
+Loom,Product,Growth,203.00,2,57,2022-10-20,5,4,4,2.84,4.13
+Netlify,Product,Growth,212.00,2,48,2023-07-13,5,4,4,2.84,4.13
+SRTX,Manufacturing,Unknown,151.00,1,140,2025-02-05,7,4,2,2.14,4.12
+Rubicon Project,Marketing,Mature/Exit,60.00,1,50,2020-05-06,4,7,2,2.11,4.12
+Remarkable,Hardware,Unknown,104.00,1,200,2026-04-22,7,4,2,2.11,4.12
+PubMatic,Marketing,Mature/Exit,63.00,1,12,2024-10-07,4,7,2,2.11,4.12
+Teads,Marketing,Unknown,123.00,1,180,2025-12-04,7,4,2,2.11,4.12
+Amobee,Marketing,Mature/Exit,72.00,1,,2022-11-09,4,7,2,2.11,4.12
+Tractive,Hardware,Mature/Exit,38.00,1,,2026-06-22,4,7,2,2.11,4.12
+VideoAmp,Marketing,Late,456.00,4,61,2024-01-04,2,4,8,2.11,4.12
+OLX India,Marketing,Mature/Exit,28.00,1,250,2020-10-10,4,7,2,2.11,4.12
+Integrate,Marketing,Mature/Exit,80.00,1,,2023-01-07,4,7,2,2.11,4.12
+Wordstream,Marketing,Mature/Exit,28.00,1,26,2020-04-06,4,7,2,2.11,4.12
+Juniper Networks,Hardware,Mature/Exit,39.00,1,440,2023-10-06,4,7,2,2.11,4.12
+FormFactor,Manufacturing,Mature/Exit,15.00,1,220,2026-01-09,4,7,2,2.14,4.12
+Sensor Tower,Marketing,Mature/Exit,46.00,1,,2023-09-08,4,7,2,2.11,4.12
+RainFocus,Marketing,Mature/Exit,41.00,1,,2020-04-07,4,7,2,2.11,4.12
+AppsFlyer,Data,Unknown,293.00,1,100,2025-02-04,7,4,2,2.04,4.11
+Bright Machines,Data,Unknown,250.00,1,30,2022-06-28,7,4,2,2.04,4.11
+BitTitan,Data,Mature/Exit,46.00,1,70,2021-11-18,4,7,2,2.04,4.11
+App Annie,Data,Unknown,156.00,1,80,2020-04-28,7,4,2,2.04,4.11
+CloudFactory,Data,Mature/Exit,78.00,1,,2022-11-09,4,7,2,2.04,4.11
+Gem,Recruiting,Growth,148.00,2,170,2023-08-02,5,4,4,2.70,4.11
+GoStudent,Education,Growth,686.00,3,400,2024-01-23,5,2,6,3.39,4.11
+Fandom,Media,Growth,145.00,2,,2023-01-19,5,4,4,2.71,4.11
+Gigamon,Data,Mature/Exit,23.00,1,69,2024-10-15,4,7,2,2.04,4.11
+Fivetran,Data,Growth,,1,,2022-10-04,5,6,2,2.04,4.11
+Placer.ai,Data,Unknown,267.00,1,150,2025-01-29,7,4,2,2.04,4.11
+Sportradar,Data,Mature/Exit,84.00,1,,2023-11-02,4,7,2,2.04,4.11
+Electric,Other,Growth,212.00,2,222,2023-02-13,5,4,4,2.63,4.09
+Wonder,Other,Unknown,850.00,2,130,2022-11-30,7,2,4,2.63,4.09
+Unico,Other,Growth,336.00,2,160,2023-01-17,5,4,4,2.63,4.09
+Staffbase,Other,Growth,307.00,2,266,2026-05-08,5,4,4,2.63,4.09
+Kandji,Other,Growth,188.00,2,,2024-02-09,5,4,4,2.63,4.09
+Atmosphere,Other,Growth,214.00,2,100,2024-05-15,5,4,4,2.63,4.09
+Miro,Other,Growth,476.00,2,394,2024-10-30,5,4,4,2.63,4.09
+Flexe,Logistics,Growth,263.00,2,230,2024-01-08,5,4,4,2.56,4.08
+Menulog,Food,Mature/Exit,,1,,2022-11-24,4,6,2,3.90,4.08
+Okta,Security,Mature/Exit,1200.00,4,904,2025-02-04,4,2,8,1.85,4.08
+Fabric,Logistics,Growth,336.00,2,150,2024-04-11,5,4,4,2.56,4.08
+Springbig,Sales,Mature/Exit,32.00,1,37,2022-12-01,4,7,2,1.85,4.08
+Venminder,Security,Mature/Exit,49.00,1,100,2024-10-21,4,7,2,1.85,4.08
+Tripwire,Security,Mature/Exit,29.00,1,,2022-05-12,4,7,2,1.85,4.08
+Alarum,Security,Mature/Exit,34.00,1,,2026-07-12,4,7,2,1.85,4.08
+ID.me,Security,Unknown,275.00,1,130,2022-06-07,7,4,2,1.85,4.08
+Fortinet,Security,Mature/Exit,89.00,1,,2023-08-25,4,7,2,1.85,4.08
+Satellogic,Aerospace,Mature/Exit,424.00,2,104,2024-06-14,4,4,4,4.54,4.08
+CyberGRX,Security,Mature/Exit,99.00,1,,2023-07-12,4,7,2,1.85,4.08
+Deep Instict,Security,Unknown,322.00,1,46,2023-07-25,7,4,2,1.85,4.08
+FarEye,Logistics,Growth,150.00,2,340,2023-02-03,5,4,4,2.56,4.08
+Varonis,Security,Mature/Exit,30.00,1,110,2022-11-06,4,7,2,1.85,4.08
+Mediafly,Sales,Mature/Exit,59.00,1,,2023-04-13,4,7,2,1.85,4.08
+Trax,Retail,Growth,1000.00,3,300,2022-11-22,5,2,6,3.17,4.08
+Tufin,Security,Mature/Exit,21.00,1,55,2022-08-21,4,7,2,1.85,4.08
+Lunchtime,Food,Mature/Exit,,1,,2023-09-01,4,6,2,3.90,4.08
+BitSight,Security,Unknown,401.00,1,40,2023-02-26,7,4,2,1.85,4.08
+Reliance JioMart,Food,Mature/Exit,,1,1000,2023-05-23,4,6,2,3.90,4.08
+StockX,Retail,Growth,690.00,3,300,2022-06-28,5,2,6,3.17,4.08
+Flock Freight,Logistics,Growth,399.00,2,99,2024-03-16,5,4,4,2.56,4.08
+Sarcos,Aerospace,Mature/Exit,316.00,2,225,2023-11-14,4,4,4,4.54,4.08
+Ambev Tech,Food,Mature/Exit,,1,50,2023-03-02,4,6,2,3.90,4.08
+Rapid7,Security,Mature/Exit,89.00,1,470,2023-08-08,4,7,2,1.85,4.08
+EVBox,Energy,Mature/Exit,,1,,2024-01-09,4,6,2,3.72,4.06
+Beamery,HR,Growth,223.00,2,,2023-11-16,5,4,4,2.43,4.06
+Nuro,Transportation,Growth,2100.00,3,647,2023-05-12,5,2,6,3.06,4.06
+CoachHub,HR,Growth,332.00,2,,2023-06-01,5,4,4,2.43,4.06
+Tier Mobility,Transportation,Growth,646.00,3,260,2023-11-28,5,2,6,3.06,4.06
+Clearco,Finance,Growth,681.00,3,185,2022-07-29,5,2,6,2.98,4.05
+Soluto,Support,Mature/Exit,18.00,1,120,2022-07-24,4,7,2,1.67,4.05
+Brex,Finance,Growth,1500.00,3,480,2024-01-23,5,2,6,2.98,4.05
+Zepz,Finance,Growth,700.00,3,650,2025-02-12,5,2,6,2.98,4.05
+ServiceNow,Support,Mature/Exit,84.00,1,54,2026-06-11,4,7,2,1.67,4.05
+Checkout.com,Finance,Growth,1800.00,3,180,2023-12-18,5,2,6,2.98,4.05
+Petal,Finance,Growth,704.00,3,,2023-06-30,5,2,6,2.98,4.05
+N26,Finance,Growth,1700.00,3,94,2023-09-29,5,2,6,2.98,4.05
+Neon,Finance,Growth,727.00,3,460,2023-10-10,5,2,6,2.98,4.05
+Notarize,Legal,Growth,213.00,2,170,2022-10-31,5,4,4,2.21,4.03
+Webflow,Marketing,Growth,335.00,2,,2026-05-27,5,4,4,2.11,4.02
+Bizzabo,Marketing,Growth,194.00,2,220,2022-12-01,5,4,4,2.11,4.02
+Copper,Marketing,Growth,281.00,2,35,2023-03-22,5,4,4,2.11,4.02
+Klaviyo,Marketing,Unknown,778.00,2,140,2025-08-25,7,2,4,2.11,4.02
+Definitive Healthcare,Healthcare,Mature/Exit,,1,55,2023-01-12,4,6,2,3.48,4.02
+Sendoso,Marketing,Growth,152.00,2,,2023-10-03,5,4,4,2.11,4.02
+Lucid Diagnostics,Healthcare,Mature/Exit,,1,,2023-01-18,4,6,2,3.48,4.02
+NextGen Healthcare,Healthcare,Mature/Exit,,1,84,2023-11-17,4,6,2,3.48,4.02
+divvyDOSE,Healthcare,Mature/Exit,,1,62,2022-05-06,4,6,2,3.48,4.02
+Nuance Communications,Healthcare,Mature/Exit,,1,,2023-05-20,4,6,2,3.48,4.02
+Grail,Healthcare,Mature/Exit,,1,350,2024-08-13,4,6,2,3.48,4.02
+OneFootball,Marketing,Growth,442.00,2,212,2023-02-23,5,4,4,2.11,4.02
+Hailo,Manufacturing,Growth,344.00,2,140,2026-06-08,5,4,4,2.14,4.02
+Glowforge,Manufacturing,Growth,133.00,2,30,2024-02-06,5,4,4,2.14,4.02
+Vendasta,Marketing,Growth,178.00,2,,2023-09-29,5,4,4,2.11,4.02
+Graphcore,Hardware,Unknown,692.00,2,,2023-01-01,7,2,4,2.11,4.02
+Permutive,Marketing,Growth,105.00,2,110,2023-04-11,5,4,4,2.11,4.02
+Showpad,Marketing,Growth,159.00,2,102,2024-04-18,5,4,4,2.11,4.02
+Hotmart,Marketing,Growth,127.00,2,227,2026-07-06,5,4,4,2.11,4.02
+Aakash,Education,Mature/Exit,,1,80,2024-09-18,4,6,2,3.39,4.01
+Graphy,Education,Mature/Exit,,1,50,2023-10-26,4,6,2,3.39,4.01
+Quizac,Education,Mature/Exit,,1,,2024-08-13,4,6,2,3.39,4.01
+SkySlope,Real Estate,Mature/Exit,,1,50,2020-03-31,4,6,2,3.38,4.01
+Astronomer,Data,Growth,282.00,2,176,2023-04-13,5,4,4,2.04,4.01
+Homepoint,Real Estate,Mature/Exit,,1,113,2022-11-17,4,6,2,3.38,4.01
+Harappa,Education,Mature/Exit,,1,60,2023-01-03,4,6,2,3.39,4.01
+Firebolt,Data,Growth,264.00,2,,2026-02-15,5,4,4,2.04,4.01
+Realtor.com,Real Estate,Mature/Exit,,1,,2022-09-08,4,6,2,3.38,4.01
+PrepLadder,Education,Mature/Exit,,1,145,2024-05-08,4,6,2,3.39,4.01
+MoxiWorks,Real Estate,Mature/Exit,,1,,2024-07-11,4,6,2,3.38,4.01
+VTrips,Travel,Mature/Exit,,1,75,2023-10-07,4,6,2,3.36,4.00
+Agoda,Travel,Mature/Exit,,1,1500,2020-05-18,4,6,2,3.36,4.00
+Lastminute,Travel,Mature/Exit,,1,400,2026-06-17,4,6,2,3.36,4.00
+ClickUp,Other,Growth,537.00,3,150,2026-05-21,5,2,6,2.63,3.99
+Collage.com,Retail,Mature/Exit,,1,,2022-10-09,4,6,2,3.17,3.98
+Tuft & Needle,Retail,Mature/Exit,,1,,2020-03-19,4,6,2,3.17,3.98
+Heureka Group,Retail,Mature/Exit,,1,100,2024-04-23,4,6,2,3.17,3.98
+Mercari U.S.,Retail,Mature/Exit,,1,,2024-07-19,4,6,2,3.17,3.98
+Deepwatch,Security,Growth,256.00,2,110,2025-11-12,5,4,4,1.85,3.98
+Emma Sleep,Retail,Mature/Exit,,1,200,2024-06-19,4,6,2,3.17,3.98
+Trendsales,Retail,Mature/Exit,,1,79,2024-04-08,4,6,2,3.17,3.98
+Ladenzeile,Retail,Mature/Exit,,1,,2024-06-11,4,6,2,3.17,3.98
+HelloFresh,Food,Mature/Exit,367.00,2,884,2025-03-17,4,4,4,3.90,3.98
+Kogan,Retail,Mature/Exit,,1,,2022-08-23,4,6,2,3.17,3.98
+Fit Analytics,Retail,Mature/Exit,,1,,2023-09-28,4,6,2,3.17,3.98
+CommerceHub,Retail,Mature/Exit,,1,371,2023-02-14,4,6,2,3.17,3.98
+People.ai,Sales,Growth,200.00,2,30,2022-07-22,5,4,4,1.85,3.98
+Cin7,Retail,Mature/Exit,,1,,2023-04-04,4,6,2,3.17,3.98
+Olo,Food,Mature/Exit,184.00,2,81,2024-09-23,4,4,4,3.90,3.98
+Loja Integrada,Retail,Mature/Exit,,1,25,2022-08-25,4,6,2,3.17,3.98
+FreshDirect,Food,Mature/Exit,280.00,2,140,2024-01-10,4,4,4,3.90,3.98
+Blue Apron,Food,Mature/Exit,422.00,2,,2023-07-19,4,4,4,3.90,3.98
+Sweetgreen,Food,Mature/Exit,478.00,2,35,2022-08-09,4,4,4,3.90,3.98
+Freshly,Food,Mature/Exit,107.00,2,329,2022-12-12,4,4,4,3.90,3.98
+Grubhub,Food,Mature/Exit,284.00,2,900,2025-02-28,4,4,4,3.90,3.98
+CarTrawler,Transportation,Mature/Exit,,1,40,2024-09-19,4,6,2,3.06,3.96
+Cars.com,Transportation,Mature/Exit,,1,,2026-04-09,4,6,2,3.06,3.96
+Enphase Energy,Energy,Mature/Exit,116.00,2,850,2024-11-11,4,4,4,3.72,3.96
+Share Now,Transportation,Mature/Exit,,1,150,2022-12-09,4,6,2,3.06,3.96
+TADA,Transportation,Mature/Exit,,1,45,2023-06-15,4,6,2,3.06,3.96
+Personio,HR,Growth,724.00,3,380,2025-10-29,5,2,6,2.43,3.96
+Kyndryl,Infrastructure,Mature/Exit,,1,,2023-03-30,4,6,2,3.06,3.96
+BitTorrent,Infrastructure,Mature/Exit,,1,92,2023-01-20,4,6,2,3.06,3.96
+E Inc.,Transportation,Mature/Exit,,1,,2022-12-16,4,6,2,3.06,3.96
+VinFast US,Transportation,Mature/Exit,,1,80,2023-02-06,4,6,2,3.06,3.96
+Haven Technologies,Finance,Mature/Exit,,1,280,2023-06-01,4,6,2,2.98,3.95
+PagSeguro,Finance,Mature/Exit,,1,,2023-01-25,4,6,2,2.98,3.95
+WazirX,Crypto,Mature/Exit,,1,60,2022-10-02,4,6,2,3.02,3.95
+Yellow.ai,Support,Growth,102.00,2,300,2025-12-23,5,4,4,1.67,3.95
+Mode Global,Finance,Mature/Exit,,1,,2023-01-26,4,6,2,2.98,3.95
+Capital One,Finance,Mature/Exit,,1,1100,2023-01-19,4,6,2,2.98,3.95
+CoinDesk,Crypto,Mature/Exit,,1,,2023-08-14,4,6,2,3.02,3.95
+Assurance,Finance,Mature/Exit,,1,112,2024-05-01,4,6,2,2.98,3.95
+Zywave,Finance,Mature/Exit,,1,,2022-12-07,4,6,2,2.98,3.95
+Ada,Support,Growth,190.00,2,78,2023-02-01,5,4,4,1.67,3.95
+Esh Group,Finance,Mature/Exit,,1,,2026-04-12,4,6,2,2.98,3.95
+Podium,Support,Growth,419.00,2,,2023-08-09,5,4,4,1.67,3.95
+Foundry,Crypto,Mature/Exit,,1,74,2024-12-11,4,6,2,3.02,3.95
+XP,Finance,Mature/Exit,,1,,2023-01-17,4,6,2,2.98,3.95
+PagBank,Finance,Mature/Exit,,1,500,2023-01-16,4,6,2,2.98,3.95
+PayU,Finance,Mature/Exit,,1,150,2022-12-26,4,6,2,2.98,3.95
+BM Technologies,Finance,Mature/Exit,,1,,2023-01-30,4,6,2,2.98,3.95
+Chessable,Consumer,Mature/Exit,,1,29,2022-07-04,4,6,2,2.97,3.94
+NetEase,Consumer,Mature/Exit,,1,,2025-02-22,4,6,2,2.97,3.94
+Viber,Consumer,Mature/Exit,,1,45,2022-11-15,4,6,2,2.97,3.94
+Sony Interactive,Consumer,Mature/Exit,,1,900,2024-02-27,4,6,2,2.97,3.94
+The Meet Group,Consumer,Mature/Exit,,1,,2023-03-24,4,6,2,2.97,3.94
+Ticketmaster,Consumer,Mature/Exit,,1,350,2026-05-07,4,6,2,2.97,3.94
+BeReal,Consumer,Mature/Exit,,1,,2024-06-25,4,6,2,2.97,3.94
+Kandela,Consumer,Mature/Exit,,1,,2023-03-02,4,6,2,2.97,3.94
+Popcore,Consumer,Mature/Exit,,1,,2024-02-13,4,6,2,2.97,3.94
+888,Consumer,Mature/Exit,,1,,2024-01-11,4,6,2,2.97,3.94
+Product Hunt,Consumer,Mature/Exit,,1,,2023-10-09,4,6,2,2.97,3.94
+New Work SE,Consumer,Mature/Exit,,1,400,2024-01-11,4,6,2,2.97,3.94
+Roblox China,Consumer,Mature/Exit,,1,15,2023-10-23,4,6,2,2.97,3.94
+Intersect,Product,Mature/Exit,,1,19,2020-05-13,4,6,2,2.84,3.93
+98point6,Healthcare,Mature/Exit,299.00,2,,2024-04-23,4,4,4,3.48,3.92
+Rubius,Healthcare,Mature/Exit,445.00,2,160,2022-11-03,4,4,4,3.48,3.92
+Thirty Madison,Healthcare,Mature/Exit,209.00,2,24,2022-08-18,4,4,4,3.48,3.92
+Absci,Healthcare,Mature/Exit,238.00,2,70,2023-09-05,4,4,4,3.48,3.92
+Science 37,Healthcare,Mature/Exit,347.00,2,230,2023-04-12,4,4,4,3.48,3.92
+Singular Genomics,Healthcare,Mature/Exit,176.00,2,,2024-03-19,4,4,4,3.48,3.92
+Akili Labs,Healthcare,Mature/Exit,301.00,2,46,2023-09-13,4,4,4,3.48,3.92
+TCR2,Healthcare,Mature/Exit,173.00,2,30,2023-01-05,4,4,4,3.48,3.92
+Insider Intelligence,Media,Mature/Exit,,1,20,2023-06-29,4,6,2,2.71,3.91
+CareerBuilder + Monster,Recruiting,Mature/Exit,,1,200,2024-10-10,4,6,2,2.70,3.91
+DHI Group,Recruiting,Mature/Exit,,1,53,2023-05-26,4,6,2,2.70,3.91
+Quartz,Media,Mature/Exit,,1,80,2020-05-14,4,6,2,2.71,3.91
+Udemy,Education,Mature/Exit,311.00,2,280,2024-09-11,4,4,4,3.39,3.91
+kununu,Recruiting,Mature/Exit,,1,,2020-08-26,4,6,2,2.70,3.91
+StepStone,Recruiting,Mature/Exit,,1,215,2023-10-30,4,6,2,2.70,3.91
+Protocol,Media,Mature/Exit,,1,60,2022-11-15,4,6,2,2.71,3.91
+GoodWorker,Recruiting,Mature/Exit,,1,,2023-03-30,4,6,2,2.70,3.91
+VerticalScope,Media,Mature/Exit,,1,60,2023-02-01,4,6,2,2.71,3.91
+Deadspin,Media,Mature/Exit,,1,11,2024-03-11,4,6,2,2.71,3.91
+Times Internet,Media,Mature/Exit,,1,100,2023-08-18,4,6,2,2.71,3.91
+Kayak / OpenTable,Travel,Mature/Exit,229.00,2,240,2023-10-16,4,4,4,3.36,3.90
+Red Hat,Other,Mature/Exit,,1,760,2023-04-24,4,6,2,2.63,3.89
+Smarsh,Other,Mature/Exit,,1,,2022-07-21,4,6,2,2.63,3.89
+SADA,Other,Mature/Exit,,1,,2022-11-08,4,6,2,2.63,3.89
+Intrinsic,Other,Mature/Exit,,1,40,2023-01-11,4,6,2,2.63,3.89
+Veson Nautical,Other,Mature/Exit,,1,,2025-11-18,4,6,2,2.63,3.89
+Bandcamp,Other,Mature/Exit,,1,58,2023-10-16,4,6,2,2.63,3.89
+ShareFile,Other,Mature/Exit,,1,199,2024-11-07,4,6,2,2.63,3.89
+Hyland Software,Other,Mature/Exit,,1,1000,2023-04-03,4,6,2,2.63,3.89
+Xiaomi India,Other,Mature/Exit,,1,30,2023-06-29,4,6,2,2.63,3.89
+Filmic,Other,Mature/Exit,,1,,2023-12-01,4,6,2,2.63,3.89
+Blackbaud,Other,Mature/Exit,,1,500,2023-02-14,4,6,2,2.63,3.89
+The RealReal,Retail,Mature/Exit,358.00,2,465,2023-02-16,4,4,4,3.17,3.88
+Riskified,Retail,Mature/Exit,229.00,2,40,2025-02-19,4,4,4,3.17,3.88
+Truckstop.com,Logistics,Mature/Exit,,1,,2023-03-02,4,6,2,2.56,3.88
+Drizly,Retail,Mature/Exit,119.00,2,268,2024-02-05,4,4,4,3.17,3.88
+Deliveroo,Food,Mature/Exit,1700.00,3,904,2026-02-25,4,2,6,3.90,3.88
+OneWeb,Aerospace,Unknown,3000.00,1,451,2020-03-27,7,2,2,4.54,3.88
+Manhattan Associates,Logistics,Mature/Exit,,1,,2026-06-02,4,6,2,2.56,3.88
+ThredUp,Retail,Mature/Exit,305.00,2,243,2022-08-15,4,4,4,3.17,3.88
+Ursa Major,Aerospace,Growth,233.00,1,,2023-06-07,5,4,2,4.54,3.88
+Bark,Retail,Mature/Exit,282.00,2,126,2023-07-13,4,4,4,3.17,3.88
+Zalando,Retail,Mature/Exit,468.00,2,,2023-06-13,4,4,4,3.17,3.88
+Casper,Retail,Mature/Exit,339.00,2,78,2021-09-14,4,4,4,3.17,3.88
+Otonomo,Transportation,Mature/Exit,231.00,2,80,2022-12-08,4,4,4,3.06,3.86
+Sono Motors,Transportation,Mature/Exit,127.00,2,300,2023-10-02,4,4,4,3.06,3.86
+Paycom,HR,Mature/Exit,,1,500,2025-10-01,4,6,2,2.43,3.86
+Puppet,Infrastructure,Mature/Exit,189.00,2,50,2022-08-03,4,4,4,3.06,3.86
+Ouster,Transportation,Mature/Exit,282.00,2,,2022-09-20,4,4,4,3.06,3.86
+Zipcar,Transportation,Mature/Exit,107.00,2,226,2026-02-02,4,4,4,3.06,3.86
+SWVL,Transportation,Mature/Exit,264.00,2,400,2022-11-23,4,4,4,3.06,3.86
+No Fluff Jobs,HR,Mature/Exit,,1,13,2023-03-04,4,6,2,2.43,3.86
+Canoo,Transportation,Mature/Exit,300.00,2,78,2024-12-11,4,4,4,3.06,3.86
+REE Automotive,Transportation,Mature/Exit,317.00,2,131,2023-02-09,4,4,4,3.06,3.86
+ADP,HR,Mature/Exit,,1,76,2026-06-26,4,6,2,2.43,3.86
+Upstart,Finance,Mature/Exit,144.00,2,505,2023-01-31,4,4,4,2.98,3.85
+Nayax,Finance,Mature/Exit,245.00,2,102,2026-04-15,4,4,4,2.98,3.85
+BlackLine,Finance,Mature/Exit,220.00,2,190,2023-08-23,4,4,4,2.98,3.85
+Lemonade,Finance,Mature/Exit,481.00,2,97,2023-05-16,4,4,4,2.98,3.85
+MeridianLink,Finance,Mature/Exit,485.00,2,,2024-01-08,4,4,4,2.98,3.85
+Laybuy,Finance,Mature/Exit,130.00,2,45,2023-03-21,4,4,4,2.98,3.85
+Evernote,Consumer,Mature/Exit,290.00,2,129,2023-07-07,4,4,4,2.97,3.84
+Bumble,Consumer,Mature/Exit,313.00,2,590,2025-06-25,4,4,4,2.97,3.84
+Kabam,Consumer,Mature/Exit,244.00,2,35,2023-05-25,4,4,4,2.97,3.84
+MindBody,Fitness,Mature/Exit,114.00,2,1100,2022-10-26,4,4,4,2.96,3.84
+Life360,Consumer,Mature/Exit,158.00,2,,2026-04-10,4,4,4,2.97,3.84
+Intapp,Legal,Mature/Exit,,1,45,2020-05-18,4,6,2,2.21,3.83
+GitLab,Product,Mature/Exit,413.00,2,480,2026-06-02,4,4,4,2.84,3.83
+Viant,Marketing,Mature/Exit,,1,46,2022-12-13,4,6,2,2.11,3.82
+Analog Devices,Manufacturing,Mature/Exit,,1,111,2023-12-13,4,6,2,2.14,3.82
+Arm Holdings,Hardware,Mature/Exit,,1,70,2023-12-18,4,6,2,2.11,3.82
+Drip,Marketing,Mature/Exit,,1,20,2020-03-23,4,6,2,2.11,3.82
+Syft Technologies,Manufacturing,Mature/Exit,,1,30,2023-02-10,4,6,2,2.14,3.82
+Lam Research,Hardware,Mature/Exit,,1,1300,2023-01-25,4,6,2,2.11,3.82
+Broadcom,Hardware,Mature/Exit,,1,247,2025-10-17,4,6,2,2.11,3.82
+Marvell,Hardware,Mature/Exit,,1,320,2023-03-21,4,6,2,2.11,3.82
+Juniper,Marketing,Mature/Exit,,1,,2022-11-11,4,6,2,2.11,3.82
+Medtronic,Healthcare,Mature/Exit,5900.00,3,119,2025-10-27,4,2,6,3.48,3.82
+National Instruments,Hardware,Mature/Exit,,1,,2023-01-31,4,6,2,2.11,3.82
+23andMe,Healthcare,Mature/Exit,1100.00,3,346,2024-11-11,4,2,6,3.48,3.82
+WillowTree,Marketing,Mature/Exit,,1,120,2023-05-24,4,6,2,2.11,3.82
+Logitech,Hardware,Mature/Exit,,1,300,2023-03-22,4,6,2,2.11,3.82
+Orbotech,Manufacturing,Mature/Exit,,1,100,2024-03-19,4,6,2,2.14,3.82
+MiQ,Marketing,Mature/Exit,,1,,2023-07-20,4,6,2,2.11,3.82
+AMD,Hardware,Mature/Exit,,1,1000,2024-11-13,4,6,2,2.11,3.82
+ASML,Hardware,Mature/Exit,,1,1700,2026-01-28,4,6,2,2.11,3.82
+Alibaba Cloud,Data,Mature/Exit,,1,,2023-05-24,4,6,2,2.04,3.81
+Lever,Recruiting,Mature/Exit,123.00,2,86,2024-01-05,4,4,4,2.70,3.81
+Greenhouse,Recruiting,Mature/Exit,110.00,2,220,2023-04-27,4,4,4,2.70,3.81
+Vista Group,Data,Mature/Exit,,1,,2023-07-05,4,6,2,2.04,3.81
+Teradata,Data,Mature/Exit,,1,,2024-08-06,4,6,2,2.04,3.81
+Glassdoor,Recruiting,Mature/Exit,204.00,2,440,2023-03-22,4,4,4,2.70,3.81
+Validity,Data,Mature/Exit,,1,130,2020-05-06,4,6,2,2.04,3.81
+Wattpad,Media,Mature/Exit,117.00,2,62,2024-01-30,4,4,4,2.71,3.81
+Asana,Other,Mature/Exit,453.00,2,280,2025-02-04,4,4,4,2.63,3.79
+Qualtrics,Other,Mature/Exit,400.00,2,1050,2023-10-04,4,4,4,2.63,3.79
+Fiverr,Other,Mature/Exit,111.00,2,310,2025-09-15,4,4,4,2.63,3.79
+SoundHound,Other,Mature/Exit,326.00,2,245,2023-01-05,4,4,4,2.63,3.79
+Jamf,Other,Mature/Exit,332.00,2,166,2025-07-15,4,4,4,2.63,3.79
+Zoom,Other,Mature/Exit,276.00,2,1450,2024-02-01,4,4,4,2.63,3.79
+Starry,Other,Mature/Exit,260.00,2,100,2023-01-18,4,4,4,2.63,3.79
+Digimarc,Other,Mature/Exit,105.00,2,90,2025-02-27,4,4,4,2.63,3.79
+Viasat,Other,Mature/Exit,366.00,2,1100,2023-11-02,4,4,4,2.63,3.79
+WalkMe,Other,Mature/Exit,307.00,2,155,2023-04-19,4,4,4,2.63,3.79
+Similarweb,Other,Mature/Exit,235.00,2,180,2023-05-10,4,4,4,2.63,3.79
+Meati,Food,Growth,274.00,1,,2024-02-20,5,4,2,3.90,3.78
+Silo,Food,Growth,272.00,1,,2024-05-22,5,4,2,3.90,3.78
+Foxtrot,Food,Growth,166.00,1,26,2022-09-23,5,4,2,3.90,3.78
+F-Secure,Security,Mature/Exit,,1,70,2023-10-25,4,6,2,1.85,3.78
+7shifts,Food,Growth,131.00,1,30,2023-09-15,5,4,2,3.90,3.78
+Rebel Foods,Food,Unknown,548.00,1,,2023-01-16,7,2,2,3.90,3.78
+Liv Up,Food,Growth,118.00,1,100,2022-02-16,5,4,2,3.90,3.78
+Whatfix,AI,Growth,265.00,1,60,2025-12-09,5,4,2,3.87,3.78
+GeoComply,Security,Mature/Exit,,1,68,2026-04-21,4,6,2,1.85,3.78
+Kaspersky,Security,Mature/Exit,,1,,2024-07-16,4,6,2,1.85,3.78
+Meati Foods,Food,Growth,274.00,1,,2023-06-03,5,4,2,3.90,3.78
+Frubana,Food,Growth,202.00,1,,2022-06-21,5,4,2,3.90,3.78
+Captain Fresh,Food,Growth,126.00,1,120,2023-01-15,5,4,2,3.90,3.78
+Livspace,Retail,Late,482.00,3,1550,2026-02-20,2,4,6,3.17,3.78
+Builder.ai,AI,Growth,445.00,1,,2025-05-20,5,4,2,3.87,3.78
+Otorio,Security,Mature/Exit,,1,45,2025-03-17,4,6,2,1.85,3.78
+Pulse Secure,Security,Mature/Exit,,1,78,2020-12-23,4,6,2,1.85,3.78
+Absolute Software,Security,Mature/Exit,,1,40,2023-04-06,4,6,2,1.85,3.78
+Rent the Runway,Retail,Mature/Exit,541.00,3,37,2024-01-09,4,2,6,3.17,3.78
+Lightspeed Commerce,Retail,Mature/Exit,1200.00,3,780,2024-12-02,4,2,6,3.17,3.78
+Gousto,Food,Unknown,675.00,1,,2022-12-31,7,2,2,3.90,3.78
+Zomato,Food,Late,914.00,4,1220,2025-04-01,2,2,8,3.90,3.78
+Tools for Humanity,AI,Growth,244.00,1,,2026-06-08,5,4,2,3.87,3.78
+CyberProof,Security,Mature/Exit,,1,,2024-07-10,4,6,2,1.85,3.78
+Provi,Food,Growth,150.00,1,,2022-11-03,5,4,2,3.90,3.78
+Hugging Face,AI,Growth,395.00,1,10,2025-02-05,5,4,2,3.87,3.78
+Rappi,Food,Unknown,2300.00,1,,2023-01-17,7,2,2,3.90,3.78
+7Shifts,Food,Growth,131.00,1,68,2024-01-11,5,4,2,3.90,3.78
+Wish,Retail,Mature/Exit,1600.00,3,595,2023-07-27,4,2,6,3.17,3.78
+Upside Foods,Food,Unknown,598.00,1,26,2024-07-01,7,2,2,3.90,3.78
+Iron Ox,Food,Growth,103.00,1,50,2022-11-02,5,4,2,3.90,3.78
+Green Labs,Food,Growth,214.00,1,350,2023-02-21,5,4,2,3.90,3.78
+xAI,AI,Unknown,22700.00,1,500,2025-09-12,7,2,2,3.87,3.78
+TouchBistro,Food,Growth,224.00,1,131,2020-04-14,5,4,2,3.90,3.78
+AppGate,Security,Mature/Exit,,1,130,2022-07-21,4,6,2,1.85,3.78
+Appgate,Security,Mature/Exit,,1,34,2023-02-01,4,6,2,1.85,3.78
+Luminar,Transportation,Mature/Exit,780.00,3,140,2025-05-20,4,2,6,3.06,3.76
+Ecobee,Energy,Growth,149.00,1,47,2020-03-26,5,4,2,3.72,3.76
+Tesla,Transportation,Mature/Exit,20200.00,3,14500,2024-04-30,4,2,6,3.06,3.76
+Twelve,Energy,Unknown,844.00,1,,2024-10-25,7,2,2,3.72,3.76
+Form Energy,Energy,Unknown,966.00,1,,2024-03-05,7,2,2,3.72,3.76
+TuSimple,Transportation,Mature/Exit,648.00,3,500,2023-12-04,4,2,6,3.06,3.76
+RigUp,Energy,Growth,423.00,1,120,2020-03-30,5,4,2,3.72,3.76
+Carvana,Transportation,Mature/Exit,1600.00,3,4000,2023-01-13,4,2,6,3.06,3.76
+Bird,Transportation,Mature/Exit,916.00,3,544,2023-10-04,4,2,6,3.06,3.76
+Cruise,Transportation,Mature/Exit,15000.00,3,2050,2025-02-04,4,2,6,3.06,3.76
+Tibber,Energy,Growth,181.00,1,50,2023-06-27,5,4,2,3.72,3.76
+Cazoo,Transportation,Mature/Exit,2000.00,3,1500,2023-01-18,4,2,6,3.06,3.76
+Affirm,Finance,Mature/Exit,1500.00,3,560,2024-02-21,4,2,6,2.98,3.75
+SoFi,Finance,Mature/Exit,3000.00,3,112,2024-01-10,4,2,6,2.98,3.75
+Nubank,Finance,Mature/Exit,4100.00,3,366,2023-06-07,4,2,6,2.98,3.75
+OpenSpace,Construction,Growth,200.00,1,,2023-11-02,5,4,2,3.66,3.75
+Monzo,Finance,Late,324.00,3,335,2026-03-31,2,4,6,2.98,3.75
+Doma,Finance,Mature/Exit,679.00,3,1075,2022-12-06,4,2,6,2.98,3.75
+Pinterest,Consumer,Mature/Exit,1500.00,3,850,2026-01-27,4,2,6,2.97,3.74
+Rec Room,Consumer,Late,294.00,3,141,2026-03-31,2,4,6,2.97,3.74
+CircleCI,Product,Late,315.00,3,100,2024-01-31,2,4,6,2.84,3.73
+CS Disco,Legal,Mature/Exit,233.00,2,62,2023-05-11,4,4,4,2.21,3.73
+Pendo,Product,Late,469.00,3,235,2026-04-07,2,4,6,2.84,3.73
+Healthcare.com,Healthcare,Growth,244.00,1,149,2022-08-03,5,4,2,3.48,3.72
+Cedar,Healthcare,Growth,351.00,1,,2022-07-07,5,4,2,3.48,3.72
+Sidecar Health,Healthcare,Growth,163.00,1,110,2022-06-28,5,4,2,3.48,3.72
+Workit Health,Healthcare,Growth,138.00,1,100,2023-04-07,5,4,2,3.48,3.72
+Honor,Healthcare,Unknown,625.00,1,,2023-06-27,7,2,2,3.48,3.72
+HubSpot,Marketing,Mature/Exit,100.00,2,500,2024-01-24,4,4,4,2.11,3.72
+Drift,Marketing,Mature/Exit,107.00,2,159,2023-09-07,4,4,4,2.11,3.72
+IntelyCare,Healthcare,Growth,171.00,1,,2023-07-10,5,4,2,3.48,3.72
+Sight Diagnostics,Healthcare,Growth,124.00,1,40,2024-05-09,5,4,2,3.48,3.72
+Clarify Health,Healthcare,Growth,328.00,1,15,2022-07-22,5,4,2,3.48,3.72
+Unite Us,Healthcare,Growth,196.00,1,,2023-08-21,5,4,2,3.48,3.72
+Brightcove,Marketing,Mature/Exit,145.00,2,268,2025-03-19,4,4,4,2.11,3.72
+OneStudyTeam,Healthcare,Growth,479.00,1,,2022-12-06,5,4,2,3.48,3.72
+Virta Health,Healthcare,Growth,175.00,1,65,2020-04-07,5,4,2,3.48,3.72
+Health IQ,Healthcare,Growth,136.00,1,,2022-12-19,5,4,2,3.48,3.72
+Synthego,Healthcare,Growth,459.00,1,105,2022-11-18,5,4,2,3.48,3.72
+LetsGetChecked,Healthcare,Growth,263.00,1,,2022-07-02,5,4,2,3.48,3.72
+PathAI,Healthcare,Growth,255.00,1,87,2023-07-21,5,4,2,3.48,3.72
+Integral Ad Science,Marketing,Mature/Exit,116.00,2,190,2022-12-07,4,4,4,2.11,3.72
+Taboola,Marketing,Mature/Exit,445.00,2,200,2026-04-15,4,4,4,2.11,3.72
+Genome Medical,Healthcare,Growth,120.00,1,23,2022-09-08,5,4,2,3.48,3.72
+Noom,Healthcare,Late,657.00,4,995,2024-01-30,2,2,8,3.48,3.72
+Mindstrong,Healthcare,Growth,160.00,1,127,2023-02-02,5,4,2,3.48,3.72
+Calm,Healthcare,Growth,218.00,1,90,2022-08-11,5,4,2,3.48,3.72
+Cyteir Therapeutics,Healthcare,Growth,156.00,1,,2023-01-20,5,4,2,3.48,3.72
+AlayaCare,Healthcare,Growth,293.00,1,80,2022-08-16,5,4,2,3.48,3.72
+Oscar Health,Healthcare,Unknown,1300.00,1,70,2020-04-23,7,2,2,3.48,3.72
+Practo,Healthcare,Growth,222.00,1,41,2023-04-08,5,4,2,3.48,3.72
+Sprout Social,Marketing,Mature/Exit,111.00,2,260,2026-07-15,4,4,4,2.11,3.72
+Alma,Healthcare,Growth,220.00,1,,2024-10-02,5,4,2,3.48,3.72
+Included Health,Healthcare,Growth,272.00,1,,2022-07-25,5,4,2,3.48,3.72
+Ro,Healthcare,Unknown,1000.00,1,,2022-06-23,7,2,2,3.48,3.72
+Vedanta Biosciences,Healthcare,Growth,301.00,1,,2022-08-10,5,4,2,3.48,3.72
+Yext,Marketing,Mature/Exit,117.00,2,,2024-06-05,4,4,4,2.11,3.72
+Halodoc,Healthcare,Growth,245.00,1,,2023-11-14,5,4,2,3.48,3.72
+InSightec,Healthcare,Unknown,733.00,1,100,2023-12-19,7,2,2,3.48,3.72
+Osso VR,Healthcare,Growth,109.00,1,67,2024-04-01,5,4,2,3.48,3.72
+Color Health,Healthcare,Growth,482.00,1,300,2023-03-01,5,4,2,3.48,3.72
+Dandy,Healthcare,Growth,172.00,1,160,2026-06-03,5,4,2,3.48,3.72
+Commure,Healthcare,Unknown,1900.00,1,,2023-11-09,7,2,2,3.48,3.72
+PACT Pharma,Healthcare,Growth,200.00,1,94,2022-07-18,5,4,2,3.48,3.72
+Biofourmis,Healthcare,Growth,464.00,1,120,2023-08-31,5,4,2,3.48,3.72
+Inscripta,Healthcare,Growth,459.00,1,43,2022-12-08,5,4,2,3.48,3.72
+Casavo,Real Estate,Unknown,708.00,1,,2023-02-13,7,2,2,3.38,3.71
+OpenClassrooms,Education,Growth,150.00,1,,2023-04-14,5,4,2,3.39,3.71
+EasyKnock,Real Estate,Growth,440.00,1,,2024-12-09,5,4,2,3.38,3.71
+Point,Real Estate,Growth,149.00,1,61,2023-07-27,5,4,2,3.38,3.71
+BuzzFeed,Media,Mature/Exit,696.00,3,360,2024-02-21,4,2,6,2.71,3.71
+Juniper Square,Real Estate,Growth,108.00,1,,2022-09-06,5,4,2,3.38,3.71
+Ziroom,Real Estate,Unknown,2100.00,1,,2022-06-10,7,2,2,3.38,3.71
+LingoAce,Education,Growth,180.00,1,,2023-08-11,5,4,2,3.39,3.71
+Industrious,Real Estate,Growth,222.00,1,90,2020-04-02,5,4,2,3.38,3.71
+UpGrad,Education,Unknown,631.00,1,120,2023-03-06,7,2,2,3.39,3.71
+ZipRecruiter,Recruiting,Mature/Exit,769.00,3,750,2025-09-16,4,2,6,2.70,3.71
+Bungalow,Real Estate,Growth,171.00,1,70,2022-06-22,5,4,2,3.38,3.71
+Zumper,Real Estate,Growth,178.00,1,45,2022-06-16,5,4,2,3.38,3.71
+Preply,Education,Growth,100.00,1,26,2022-06-09,5,4,2,3.39,3.71
+Apartment List,Real Estate,Growth,169.00,1,29,2022-08-31,5,4,2,3.38,3.71
+Cadre,Real Estate,Growth,133.00,1,28,2020-05-11,5,4,2,3.38,3.71
+Elastic,Data,Mature/Exit,162.00,2,,2026-06-24,4,4,4,2.04,3.71
+Breather,Real Estate,Growth,131.00,1,120,2020-12-16,5,4,2,3.38,3.71
+Kiavi,Real Estate,Growth,240.00,1,39,2022-07-14,5,4,2,3.38,3.71
+MariaDB,Data,Mature/Exit,272.00,2,84,2023-10-12,4,4,4,2.04,3.71
+Sundae,Real Estate,Growth,135.00,1,,2022-06-30,5,4,2,3.38,3.71
+Knock,Real Estate,Unknown,654.00,1,115,2022-03-15,7,2,2,3.38,3.71
+Pacaso,Real Estate,Growth,217.00,1,100,2022-10-11,5,4,2,3.38,3.71
+Matterport,Data,Mature/Exit,409.00,2,260,2023-07-11,4,4,4,2.04,3.71
+Twilio,Other,Mature/Exit,614.00,3,2300,2023-12-04,4,2,6,2.63,3.69
+Dropbox,Other,Mature/Exit,1700.00,3,1342,2024-10-30,4,2,6,2.63,3.69
+Avaya,Other,Mature/Exit,700.00,3,180,2024-11-06,4,2,6,2.63,3.69
+GupShup,Other,Late,484.00,3,600,2025-09-04,2,4,6,2.63,3.69
+Impact.com,Sales,Mature/Exit,361.00,2,40,2024-02-05,4,4,4,1.85,3.68
+ForeScout,Security,Mature/Exit,125.00,2,140,2023-09-06,4,4,4,1.85,3.68
+Grove Collaborative,Retail,Growth,474.00,1,,2022-03-19,5,4,2,3.17,3.68
+Swappie,Retail,Growth,169.00,1,250,2022-06-15,5,4,2,3.17,3.68
+Furlenco,Retail,Growth,228.00,1,180,2022-03-26,5,4,2,3.17,3.68
+1stdibs,Retail,Growth,253.00,1,70,2020-04-02,5,4,2,3.17,3.68
+Saks.com,Retail,Unknown,965.00,1,100,2023-01-19,7,2,2,3.17,3.68
+Artsy,Retail,Growth,100.00,1,35,2023-06-29,5,4,2,3.17,3.68
+Refurbed,Retail,Growth,191.00,1,,2025-02-06,5,4,2,3.17,3.68
+PetLove,Retail,Growth,225.00,1,94,2023-02-13,5,4,2,3.17,3.68
+Trigo,Retail,Growth,199.00,1,30,2024-01-04,5,4,2,3.17,3.68
+Minted,Retail,Growth,297.00,1,147,2020-04-03,5,4,2,3.17,3.68
+Gorillas,Food,Growth,1300.00,2,840,2022-07-03,5,2,4,3.90,3.68
+Cloudflare,Security,Mature/Exit,332.00,2,1140,2026-05-07,4,4,4,1.85,3.68
+Uber Freight,Logistics,Mature/Exit,2700.00,3,230,2024-01-09,4,2,6,2.56,3.68
+SellerX,Retail,Unknown,766.00,1,28,2022-07-19,7,2,2,3.17,3.68
+GOAT Group,Retail,Growth,197.00,1,,2020-04-01,5,4,2,3.17,3.68
+Commercetools,Retail,Growth,119.00,1,,2025-02-26,5,4,2,3.17,3.68
+Zola,Retail,Growth,140.00,1,,2020-04-08,5,4,2,3.17,3.68
+Ankorstore,Retail,Growth,365.00,1,,2023-03-06,5,4,2,3.17,3.68
+MadeiraMadeira,Retail,Growth,338.00,1,60,2022-08-09,5,4,2,3.17,3.68
+Shogun,Retail,Growth,114.00,1,48,2022-08-09,5,4,2,3.17,3.68
+Grover,Retail,Unknown,2300.00,1,40,2022-12-07,7,2,2,3.17,3.68
+Meesho,Retail,Late,1100.00,4,901,2023-05-05,2,2,8,3.17,3.68
+HomeLane,Retail,Growth,116.00,1,30,2023-03-06,5,4,2,3.17,3.68
+Made.com,Retail,Growth,136.00,1,,2022-09-22,5,4,2,3.17,3.68
+HashiCorp,Security,Mature/Exit,349.00,2,69,2023-06-07,4,4,4,1.85,3.68
+Kitopi,Food,Growth,804.00,2,217,2022-11-21,5,2,4,3.90,3.68
+Sophos,Security,Mature/Exit,125.00,2,450,2025-02-13,4,4,4,1.85,3.68
+Thrasio,Retail,Unknown,3400.00,1,,2022-05-02,7,2,2,3.17,3.68
+Berlin Brands Group,Retail,Unknown,1000.00,1,100,2022-06-10,7,2,2,3.17,3.68
+Moove,Transportation,Unknown,630.00,1,,2022-12-06,7,2,2,3.06,3.66
+Aurora Solar,Energy,Growth,523.00,2,169,2025-01-16,5,2,4,3.72,3.66
+Lattice,HR,Late,328.00,3,134,2023-01-12,2,4,6,2.43,3.66
+Cars24,Transportation,Late,1300.00,4,1020,2025-05-27,2,2,8,3.06,3.66
+May Mobility,Transportation,Growth,303.00,1,,2024-02-15,5,4,2,3.06,3.66
+Britishvolt,Transportation,Unknown,2400.00,1,206,2023-01-17,7,2,2,3.06,3.66
+Foretellix,Transportation,Growth,132.00,1,29,2026-01-08,5,4,2,3.06,3.66
+Passport,Transportation,Growth,123.00,1,44,2020-03-26,5,4,2,3.06,3.66
+Docker,Infrastructure,Growth,436.00,1,,2024-10-29,5,4,2,3.06,3.66
+Ghost Autonomy,Transportation,Growth,247.00,1,100,2024-04-03,5,4,2,3.06,3.66
+Shuttl,Transportation,Growth,122.00,1,40,2020-04-02,5,4,2,3.06,3.66
+Zerto,Infrastructure,Growth,130.00,1,,2020-03-31,5,4,2,3.06,3.66
+Reef,Transportation,Unknown,1500.00,1,750,2022-05-06,7,2,2,3.06,3.66
+Aiven,Infrastructure,Growth,420.00,1,,2023-01-18,5,4,2,3.06,3.66
+Buser,Transportation,Growth,138.00,1,160,2022-12-08,5,4,2,3.06,3.66
+Volta Trucks,Transportation,Growth,391.00,1,,2023-10-18,5,4,2,3.06,3.66
+Tackle.io,Infrastructure,Growth,148.00,1,75,2023-06-21,5,4,2,3.06,3.66
+Pavilion Data,Infrastructure,Growth,103.00,1,96,2022-10-10,5,4,2,3.06,3.66
+Fly.io,Infrastructure,Growth,110.00,1,40,2024-09-04,5,4,2,3.06,3.66
+BigPanda,Infrastructure,Growth,337.00,1,40,2023-04-24,5,4,2,3.06,3.66
+Teleport,Infrastructure,Growth,169.00,1,15,2022-07-01,5,4,2,3.06,3.66
+Cabify,Transportation,Unknown,601.00,1,29,2024-05-02,7,2,2,3.06,3.66
+Warren,Finance,Growth,104.00,1,50,2022-08-17,5,4,2,2.98,3.65
+Divvy,Finance,Growth,252.00,1,,2020-05-19,5,4,2,2.98,3.65
+Atome,Finance,Unknown,645.00,1,,2022-10-06,7,2,2,2.98,3.65
+Pipe,Finance,Growth,453.00,1,200,2025-11-16,5,4,2,2.98,3.65
+Earnin,Finance,Growth,190.00,1,50,2020-04-01,5,4,2,2.98,3.65
+TIFIN,Crypto,Growth,204.00,1,24,2022-06-14,5,4,2,3.02,3.65
+Unit,Finance,Growth,170.00,1,,2024-06-17,5,4,2,2.98,3.65
+Zopper,Finance,Growth,125.00,1,100,2025-04-17,5,4,2,2.98,3.65
+Zego,Finance,Growth,202.00,1,85,2022-07-14,5,4,2,2.98,3.65
+Matrixport,Crypto,Growth,100.00,1,29,2023-01-27,5,4,2,3.02,3.65
+Open Co,Finance,Growth,140.00,1,,2023-02-10,5,4,2,2.98,3.65
+Modern Treasury,Finance,Growth,183.00,1,,2022-12-16,5,4,2,2.98,3.65
+Lithic,Finance,Growth,115.00,1,27,2022-12-07,5,4,2,2.98,3.65
+Wealthsimple,Finance,Unknown,900.00,1,159,2022-06-15,7,2,2,2.98,3.65
+Fungible,Crypto,Growth,310.00,1,,2022-08-29,5,4,2,3.02,3.65
+Sure,Finance,Growth,123.00,1,70,2025-02-03,5,4,2,2.98,3.65
+StarkWare,Crypto,Growth,273.00,1,,2026-04-13,5,4,2,3.02,3.65
+SmartAsset,Finance,Growth,161.00,1,,2023-06-01,5,4,2,2.98,3.65
+Curve,Finance,Growth,182.00,1,65,2022-06-01,5,4,2,2.98,3.65
+Flutterwave,Finance,Unknown,509.00,1,30,2024-06-24,7,2,2,2.98,3.65
+Vesttoo,Finance,Growth,110.00,1,150,2023-08-01,5,4,2,2.98,3.65
+Stripe,Finance,Late,8700.00,4,1350,2025-01-21,2,2,8,2.98,3.65
+Addi,Finance,Growth,376.00,1,,2022-06-14,5,4,2,2.98,3.65
+Bestow,Finance,Growth,137.00,1,41,2022-06-24,5,4,2,2.98,3.65
+Polly,Finance,Growth,184.00,1,47,2022-12-02,5,4,2,2.98,3.65
+Ava Labs,Crypto,Unknown,640.00,1,,2023-11-06,7,2,2,3.02,3.65
+Paddle,Finance,Growth,293.00,1,,2023-01-11,5,4,2,2.98,3.65
+Paxos,Crypto,Unknown,543.00,1,65,2024-06-12,7,2,2,3.02,3.65
+Center,Finance,Growth,102.00,1,8,2024-09-07,5,4,2,2.98,3.65
+Creditas,Finance,Growth,314.00,1,,2020-04-08,5,4,2,2.98,3.65
+Tractable,Finance,Growth,119.00,1,,2023-05-23,5,4,2,2.98,3.65
+MX,Finance,Growth,450.00,1,200,2022-10-11,5,4,2,2.98,3.65
+Vise,Finance,Growth,128.00,1,25,2022-05-04,5,4,2,2.98,3.65
+Happy Money,Finance,Growth,191.00,1,158,2022-11-30,5,4,2,2.98,3.65
+M1,Finance,Growth,323.00,1,38,2022-07-19,5,4,2,2.98,3.65
+DailyPay,Finance,Unknown,814.00,1,,2022-08-09,7,2,2,2.98,3.65
+Caribou,Finance,Growth,189.00,1,,2022-12-12,5,4,2,2.98,3.65
+Albert,Finance,Growth,175.00,1,20,2022-06-10,5,4,2,2.98,3.65
+Anchorage Digital,Crypto,Growth,487.00,1,75,2023-03-14,5,4,2,3.02,3.65
+Guideline,Finance,Growth,339.00,1,48,2023-04-03,5,4,2,2.98,3.65
+Open,Finance,Growth,190.00,1,47,2023-04-20,5,4,2,2.98,3.65
+Embroker,Finance,Growth,142.00,1,30,2022-10-25,5,4,2,2.98,3.65
+FloQast,Finance,Growth,119.00,1,,2020-04-10,5,4,2,2.98,3.65
+Onfido,Finance,Growth,182.00,1,,2023-07-24,5,4,2,2.98,3.65
+Motif Investing,Finance,Growth,126.00,1,,2020-04-18,5,4,2,2.98,3.65
+TaskUs,Support,Mature/Exit,279.00,2,238,2023-02-22,4,4,4,1.67,3.65
+ScaleFactor,Finance,Growth,103.00,1,90,2020-06-23,5,4,2,2.98,3.65
+Corvus Insurance,Finance,Growth,160.00,1,,2023-01-24,5,4,2,2.98,3.65
+Figure,Crypto,Unknown,1500.00,1,90,2023-07-26,7,2,2,3.02,3.65
+Navi Technologies,Finance,Unknown,659.00,1,200,2023-07-13,7,2,2,2.98,3.65
+Vouch,Finance,Growth,159.00,1,15,2022-06-23,5,4,2,2.98,3.65
+Akulaku,Finance,Growth,160.00,1,100,2020-04-15,5,4,2,2.98,3.65
+PolicyGenius,Finance,Growth,286.00,1,170,2022-06-02,5,4,2,2.98,3.65
+HighRadius,Finance,Growth,475.00,1,25,2022-11-09,5,4,2,2.98,3.65
+Khatabook,Finance,Growth,187.00,1,42,2023-09-01,5,4,2,2.98,3.65
+Stax,Finance,Growth,263.00,1,24,2023-02-24,5,4,2,2.98,3.65
+Mythical Games,Crypto,Growth,260.00,1,,2022-11-04,5,4,2,3.02,3.65
+CoinSwitch,Crypto,Growth,301.00,1,44,2023-08-28,5,4,2,3.02,3.65
+Taxfix,Finance,Growth,330.00,1,120,2023-05-30,5,4,2,2.98,3.65
+BUX,Finance,Growth,115.00,1,,2023-01-22,5,4,2,2.98,3.65
+8x8,Support,Mature/Exit,253.00,2,355,2023-01-18,4,4,4,1.67,3.65
+Abra,Crypto,Growth,106.00,1,12,2022-06-30,5,4,2,3.02,3.65
+Lendio,Finance,Growth,108.00,1,,2024-01-08,5,4,2,2.98,3.65
+MoonPay,Crypto,Unknown,651.00,1,30,2024-06-05,7,2,2,3.02,3.65
+Tempo,Fitness,Growth,298.00,1,,2022-10-03,5,4,2,2.96,3.64
+Flip,Consumer,Growth,294.00,1,,2025-08-29,5,4,2,2.97,3.64
+Citizen,Consumer,Growth,133.00,1,33,2023-01-11,5,4,2,2.97,3.64
+SeatGeek,Consumer,Growth,400.00,1,150,2025-02-20,5,4,2,2.97,3.64
+Clutter,Consumer,Growth,296.00,1,,2020-03-25,5,4,2,2.97,3.64
+Canva,Consumer,Unknown,2500.00,1,10,2025-04-02,7,2,2,2.97,3.64
+Tonal,Fitness,Growth,450.00,1,262,2022-07-13,5,4,2,2.96,3.64
+Gympass,Fitness,Growth,300.00,1,467,2020-04-03,5,4,2,2.96,3.64
+DICE,Consumer,Growth,135.00,1,,2023-08-02,5,4,2,2.97,3.64
+eGym,Fitness,Growth,109.00,1,100,2020-04-02,5,4,2,2.96,3.64
+Picsart,Consumer,Growth,195.00,1,90,2022-05-17,5,4,2,2.97,3.64
+Superhuman,Consumer,Growth,108.00,1,23,2022-06-03,5,4,2,2.97,3.64
+Sourcegraph,Product,Growth,248.00,1,24,2022-06-21,5,4,2,2.84,3.63
+Apollo,Product,Growth,183.00,1,,2022-12-15,5,4,2,2.84,3.63
+Nylas,Product,Growth,175.00,1,80,2022-08-02,5,4,2,2.84,3.63
+Jellyfish,Product,Growth,114.00,1,,2023-01-13,5,4,2,2.84,3.63
+Western Digital,Hardware,Mature/Exit,900.00,3,522,2023-06-13,4,2,6,2.11,3.62
+HP,Hardware,Mature/Exit,4200.00,3,6100,2025-11-25,4,2,6,2.11,3.62
+Lenovo,Hardware,Mature/Exit,850.00,3,100,2025-07-16,4,2,6,2.11,3.62
+Alto Pharmacy,Healthcare,Growth,560.00,2,47,2022-07-14,5,2,4,3.48,3.62
+Komodo Health,Healthcare,Growth,514.00,2,101,2022-12-13,5,2,4,3.48,3.62
+Kry,Healthcare,Growth,568.00,2,400,2022-10-31,5,2,4,3.48,3.62
+Vice Media,Media,Unknown,1600.00,1,,2024-02-22,7,2,2,2.71,3.61
+Splice,Media,Growth,159.00,1,23,2022-07-20,5,4,2,2.71,3.61
+Hired,Recruiting,Growth,132.00,1,,2020-06-30,5,4,2,2.70,3.61
+OpenWeb,Media,Growth,223.00,1,14,2022-06-15,5,4,2,2.71,3.61
+The Athletic,Media,Growth,139.00,1,46,2020-06-05,5,4,2,2.71,3.61
+Knotel,Real Estate,Growth,560.00,2,147,2020-10-29,5,2,4,3.38,3.61
+Veev,Real Estate,Growth,597.00,2,100,2023-11-26,5,2,4,3.38,3.61
+Andela,Recruiting,Growth,181.00,1,135,2020-05-05,5,4,2,2.70,3.61
+Splunk,Data,Mature/Exit,2400.00,3,895,2023-11-01,4,2,6,2.04,3.61
+HackerRank,Recruiting,Growth,103.00,1,53,2023-08-27,5,4,2,2.70,3.61
+Sisense,Data,Late,274.00,3,240,2024-01-11,2,4,6,2.04,3.61
+QuintoAndar,Real Estate,Growth,755.00,2,248,2022-04-19,5,2,4,3.38,3.61
+Mews,Travel,Growth,817.00,2,200,2026-07-07,5,2,4,3.36,3.60
+Workato,Other,Growth,415.00,1,90,2023-02-01,5,4,2,2.63,3.59
+ZenBusiness,Other,Growth,277.00,1,,2022-11-10,5,4,2,2.63,3.59
+Lucid Software,Other,Growth,170.00,1,75,2023-09-25,5,4,2,2.63,3.59
+StoreDot,Other,Growth,184.00,1,,2026-01-13,5,4,2,2.63,3.59
+Coda,Other,Growth,240.00,1,,2023-01-18,5,4,2,2.63,3.59
+PuduTech,Other,Growth,184.00,1,1500,2022-07-08,5,4,2,2.63,3.59
+LeafLink,Other,Growth,379.00,1,80,2022-12-15,5,4,2,2.63,3.59
+Indigo,Other,Late,1200.00,4,80,2024-02-01,2,2,8,2.63,3.59
+Tekion,Other,Growth,435.00,1,300,2023-08-02,5,4,2,2.63,3.59
+Improbable,Other,Unknown,704.00,1,,2022-12-16,7,2,2,2.63,3.59
+Retool,Other,Growth,141.00,1,,2023-06-22,5,4,2,2.63,3.59
+Mark43,Other,Growth,229.00,1,,2022-06-23,5,4,2,2.63,3.59
+Catalant,Other,Growth,110.00,1,30,2020-03-30,5,4,2,2.63,3.59
+Meero,Other,Growth,293.00,1,350,2022-05-09,5,4,2,2.63,3.59
+Xsight Labs,Other,Growth,100.00,1,,2022-09-07,5,4,2,2.63,3.59
+Papa,Other,Growth,241.00,1,,2022-07-13,5,4,2,2.63,3.59
+Tackle,Other,Growth,148.00,1,,2023-02-15,5,4,2,2.63,3.59
+GoBolt,Logistics,Growth,178.00,1,55,2023-01-10,5,4,2,2.56,3.58
+DocuSign,Sales,Mature/Exit,536.00,3,1791,2024-02-06,4,2,6,1.85,3.58
+SendCloud,Logistics,Growth,200.00,1,,2022-11-10,5,4,2,2.56,3.58
+Transfix,Logistics,Growth,128.00,1,24,2020-04-29,5,4,2,2.56,3.58
+BlackBuck,Logistics,Growth,293.00,1,200,2020-04-17,5,4,2,2.56,3.58
+Shippo,Logistics,Growth,154.00,1,60,2022-11-03,5,4,2,2.56,3.58
+KeepTruckin,Logistics,Growth,227.00,1,349,2020-03-31,5,4,2,2.56,3.58
+Stord,Logistics,Growth,325.00,1,59,2022-06-02,5,4,2,2.56,3.58
+Eviation Aircraft,Aerospace,Mature/Exit,140.00,1,,2025-02-14,4,4,2,4.54,3.58
+ShipBob,Logistics,Growth,330.00,1,,2022-08-25,5,4,2,2.56,3.58
+Namely,HR,Growth,217.00,1,110,2020-05-01,5,4,2,2.43,3.56
+Zinier,HR,Growth,120.00,1,,2020-11-25,5,4,2,2.43,3.56
+Skedulo,HR,Growth,114.00,1,31,2022-08-23,5,4,2,2.43,3.56
+Remote,HR,Growth,496.00,1,100,2022-07-06,5,4,2,2.43,3.56
+Eightfold AI,HR,Growth,396.00,1,90,2023-02-03,5,4,2,2.43,3.56
+Kavak,Transportation,Growth,1600.00,2,150,2022-11-18,5,2,4,3.06,3.56
+Dynamic Signal,HR,Growth,114.00,1,35,2020-04-02,5,4,2,2.43,3.56
+Gloat,HR,Growth,192.00,1,35,2023-04-20,5,4,2,2.43,3.56
+The Mom Project,HR,Growth,115.00,1,54,2022-07-14,5,4,2,2.43,3.56
+PayFit,HR,Growth,495.00,1,200,2023-03-01,5,4,2,2.43,3.56
+Factorial,HR,Growth,220.00,1,20,2023-07-13,5,4,2,2.43,3.56
+Zenjob,HR,Growth,107.00,1,,2022-09-29,5,4,2,2.43,3.56
+Ninja Van,Transportation,Growth,974.00,2,21,2024-07-01,5,2,4,3.06,3.56
+Fireblocks,Crypto,Growth,1000.00,2,50,2024-02-07,5,2,4,3.02,3.55
+BlockFi,Crypto,Growth,1000.00,2,250,2022-11-28,5,2,4,3.02,3.55
+Wefox,Finance,Growth,1300.00,2,160,2024-05-16,5,2,4,2.98,3.55
+Varo,Finance,Growth,992.00,2,172,2023-05-11,5,2,4,2.98,3.55
+Melio,Finance,Growth,504.00,2,100,2024-03-04,5,2,4,2.98,3.55
+Socure,Finance,Growth,646.00,2,173,2023-01-05,5,2,4,2.98,3.55
+Fundbox,Finance,Growth,553.00,2,164,2022-10-25,5,2,4,2.98,3.55
+Magic Leap,Consumer,Growth,4100.00,2,1075,2024-07-19,5,2,4,2.97,3.54
+Houzz,Consumer,Growth,613.00,2,250,2022-12-07,5,2,4,2.97,3.54
+Everlaw,Legal,Growth,298.00,1,,2023-05-12,5,4,2,2.21,3.53
+Icertis,Legal,Unknown,521.00,1,,2023-01-19,7,2,2,2.21,3.53
+Filevine,Legal,Growth,226.00,1,,2022-12-06,5,4,2,2.21,3.53
+SirionLabs,Legal,Growth,171.00,1,130,2023-01-25,5,4,2,2.21,3.53
+DISCO,Legal,Growth,133.00,1,75,2020-03-27,5,4,2,2.21,3.53
+LinkSquares,Legal,Growth,161.00,1,90,2024-02-15,5,4,2,2.21,3.53
+Avidbots,Hardware,Growth,106.00,1,50,2023-03-14,5,4,2,2.11,3.52
+ActiveCampaign,Marketing,Growth,360.00,1,,2022-10-03,5,4,2,2.11,3.52
+Formlabs,Hardware,Growth,254.00,1,,2024-08-15,5,4,2,2.11,3.52
+Workfront,Marketing,Growth,375.00,1,,2020-05-14,5,4,2,2.11,3.52
+Lummo,Marketing,Growth,149.00,1,150,2022-06-07,5,4,2,2.11,3.52
+Humane,Hardware,Growth,230.00,1,10,2024-01-09,5,4,2,2.11,3.52
+Branch Metrics,Marketing,Growth,367.00,1,100,2020-04-07,5,4,2,2.11,3.52
+G2,Marketing,Growth,100.80,1,17,2020-06-30,5,4,2,2.11,3.52
+Optimizely,Marketing,Growth,251.20,1,60,2020-07-15,5,4,2,2.11,3.52
+Snappy,Marketing,Growth,104.00,1,100,2023-01-15,5,4,2,2.11,3.52
+Typeform,Marketing,Growth,187.00,1,,2022-11-15,5,4,2,2.11,3.52
+Postscript,Marketing,Growth,106.00,1,43,2022-06-26,5,4,2,2.11,3.52
+Wayflyer,Marketing,Unknown,889.00,1,200,2022-11-16,7,2,2,2.11,3.52
+Clumio,Data,Growth,186.00,1,,2021-03-01,5,4,2,2.04,3.51
+Monte Carlo,Data,Growth,236.00,1,,2026-03-26,5,4,2,2.04,3.51
+PlanetScale,Data,Growth,105.00,1,,2024-03-06,5,4,2,2.04,3.51
+Pecan AI,Data,Growth,116.00,1,30,2023-01-05,5,4,2,2.04,3.51
+Labelbox,Data,Growth,188.00,1,36,2022-08-08,5,4,2,2.04,3.51
+Privitar,Data,Growth,150.00,1,20,2021-01-27,5,4,2,2.04,3.51
+Tray.io,Data,Growth,109.00,1,,2022-06-21,5,4,2,2.04,3.51
+Qumulo,Data,Growth,347.00,1,80,2022-06-29,5,4,2,2.04,3.51
+Segment,Data,Growth,283.00,1,50,2020-05-06,5,4,2,2.04,3.51
+Pliops,Data,Growth,205.00,1,12,2022-08-16,5,4,2,2.04,3.51
+InfluxData,Data,Growth,119.00,1,65,2022-11-10,5,4,2,2.04,3.51
+Starburst,Data,Growth,414.00,1,,2023-06-28,5,4,2,2.04,3.51
+DataRobot,Data,Late,1000.00,4,270,2022-08-23,2,2,8,2.04,3.51
+Hyperscience,Data,Growth,289.00,1,100,2022-03-03,5,4,2,2.04,3.51
+dbt Labs,Data,Growth,414.00,1,,2023-05-18,5,4,2,2.04,3.51
+DataStax,Data,Growth,190.00,1,15,2020-04-14,5,4,2,2.04,3.51
+Infarm,Other,Growth,604.00,2,550,2022-11-28,5,2,4,2.63,3.49
+Planet,Aerospace,Mature/Exit,574.00,2,297,2024-06-26,4,2,4,4.54,3.48
+JupiterOne,Security,Growth,119.00,1,8,2023-06-13,5,4,2,1.85,3.48
+Crossbeam,Sales,Growth,116.00,1,17,2023-03-30,5,4,2,1.85,3.48
+BigID,Security,Growth,306.00,1,,2026-05-26,5,4,2,1.85,3.48
+Arctic Wolf,Security,Unknown,899.00,1,250,2026-05-06,7,2,2,1.85,3.48
+CyCognito,Security,Growth,153.00,1,30,2022-12-08,5,4,2,1.85,3.48
+Expel,Security,Growth,288.00,1,60,2023-06-09,5,4,2,1.85,3.48
+SalesLoft,Sales,Growth,145.00,1,55,2020-05-07,5,4,2,1.85,3.48
+Crunchbase,Sales,Growth,106.00,1,,2023-07-06,5,4,2,1.85,3.48
+Forto,Logistics,Growth,593.00,2,260,2025-04-12,5,2,4,2.56,3.48
+Tanium,Security,Unknown,1000.00,1,30,2021-08-30,7,2,2,1.85,3.48
+Sift,Security,Growth,106.00,1,,2020-05-14,5,4,2,1.85,3.48
+Perimeter 81,Security,Growth,165.00,1,20,2022-12-06,5,4,2,1.85,3.48
+Immersive Labs,Security,Growth,123.00,1,38,2022-08-30,5,4,2,1.85,3.48
+BetterCloud,Security,Growth,111.00,1,,2020-05-13,5,4,2,1.85,3.48
+Oatly,Food,Mature/Exit,441.00,1,,2022-11-15,4,4,2,3.90,3.48
+Introhive,Sales,Growth,125.00,1,57,2022-07-20,5,4,2,1.85,3.48
+Windsurf,AI,Mature/Exit,243.00,1,30,2025-08-05,4,4,2,3.87,3.48
+Pentera,Security,Growth,249.00,1,40,2026-04-27,5,4,2,1.85,3.48
+Snyk,Security,Late,849.00,4,356,2026-06-24,2,2,8,1.85,3.48
+Presto,Food,Mature/Exit,167.00,1,,2023-11-20,4,4,2,3.90,3.48
+6sense,Sales,Growth,426.00,1,150,2022-10-12,5,4,2,1.85,3.48
+CaptivateIQ,Sales,Growth,164.00,1,31,2022-11-15,5,4,2,1.85,3.48
+Truiloo,Security,Growth,474.00,1,24,2022-09-23,5,4,2,1.85,3.48
+Dragos,Security,Growth,364.00,1,50,2023-06-06,5,4,2,1.85,3.48
+Drata,Security,Growth,328.00,1,40,2024-09-26,5,4,2,1.85,3.48
+HackerOne,Security,Growth,159.00,1,,2023-08-02,5,4,2,1.85,3.48
+Wallbox,Energy,Mature/Exit,167.00,1,,2023-01-19,4,4,2,3.72,3.46
+NuScale Power,Energy,Mature/Exit,470.00,1,154,2024-01-08,4,4,2,3.72,3.46
+Checkr,HR,Growth,679.00,2,446,2024-04-09,5,2,4,2.43,3.46
+Otovo,Energy,Mature/Exit,247.00,1,65,2024-02-08,4,4,2,3.72,3.46
+Front,Support,Growth,203.00,1,,2022-09-28,5,4,2,1.67,3.45
+Observe.AI,Support,Growth,214.00,1,,2023-02-15,5,4,2,1.67,3.45
+Berkeley Lights,Healthcare,Mature/Exit,272.00,1,,2022-08-09,4,4,2,3.48,3.42
+Teladoc Health,Healthcare,Mature/Exit,172.00,1,300,2023-01-18,4,4,2,3.48,3.42
+SQZ Biotech,Healthcare,Mature/Exit,229.00,1,,2022-12-01,4,4,2,3.48,3.42
+Neoleukin Therapeutics,Healthcare,Mature/Exit,157.00,1,,2023-03-09,4,4,2,3.48,3.42
+Better Therapeutics,Healthcare,Mature/Exit,143.00,1,,2023-03-27,4,4,2,3.48,3.42
+Akili Interactive,Healthcare,Mature/Exit,271.00,1,,2024-04-30,4,4,2,3.48,3.42
+Quantum SI,Healthcare,Mature/Exit,425.00,1,,2023-01-30,4,4,2,3.48,3.42
+Synlogic,Healthcare,Mature/Exit,321.00,1,,2022-12-01,4,4,2,3.48,3.42
+Sage Therapeutics,Healthcare,Mature/Exit,438.00,1,340,2020-04-07,4,4,2,3.48,3.42
+Owlet,Healthcare,Mature/Exit,178.00,1,,2022-07-22,4,4,2,3.48,3.42
+Jounce Therapeutics,Healthcare,Mature/Exit,194.00,1,,2023-02-22,4,4,2,3.48,3.42
+Homology,Healthcare,Mature/Exit,187.00,1,,2023-07-28,4,4,2,3.48,3.42
+Adaptive Biotechnologies,Healthcare,Mature/Exit,406.00,1,100,2022-03-08,4,4,2,3.48,3.42
+Sage Therapeutics copy,Healthcare,Mature/Exit,438.00,1,290,2023-09-15,4,4,2,3.48,3.42
+Flatiron Health,Healthcare,Mature/Exit,324.00,1,39,2023-06-07,4,4,2,3.48,3.42
+Codexis,Healthcare,Mature/Exit,162.00,1,,2022-11-29,4,4,2,3.48,3.42
+CorroHealth,Healthcare,Mature/Exit,376.00,1,800,2026-07-03,4,4,2,3.48,3.42
+10X Genomics,Healthcare,Mature/Exit,242.00,1,100,2022-08-04,4,4,2,3.48,3.42
+Vicarious Surgical,Healthcare,Mature/Exit,185.00,1,,2023-02-15,4,4,2,3.48,3.42
+ContraFect,Healthcare,Mature/Exit,380.00,1,16,2022-08-15,4,4,2,3.48,3.42
+Accolade,Healthcare,Mature/Exit,458.00,1,,2023-03-03,4,4,2,3.48,3.42
+Lucira Health,Healthcare,Mature/Exit,132.00,1,26,2023-02-24,4,4,2,3.48,3.42
+Titan Medical,Healthcare,Mature/Exit,278.00,1,48,2023-02-10,4,4,2,3.48,3.42
+BenevolentAI,Healthcare,Mature/Exit,292.00,1,180,2023-05-25,4,4,2,3.48,3.42
+Personalis,Healthcare,Mature/Exit,225.00,1,,2023-01-19,4,4,2,3.48,3.42
+Friday Health Plans,Healthcare,Mature/Exit,306.00,1,,2023-06-21,4,4,2,3.48,3.42
+MediBuddy,Healthcare,Mature/Exit,192.00,1,200,2023-01-20,4,4,2,3.48,3.42
+Castlight Health,Healthcare,Mature/Exit,184.00,1,,2020-05-04,4,4,2,3.48,3.42
+reAlpha,Real Estate,Mature/Exit,229.00,1,,2026-05-06,4,4,2,3.38,3.41
+Toppr,Education,Mature/Exit,112.00,1,350,2022-06-29,4,4,2,3.39,3.41
+Nerdy,Education,Mature/Exit,150.00,1,,2022-12-08,4,4,2,3.39,3.41
+Scale AI,Data,Growth,602.00,2,200,2025-07-16,5,2,4,2.04,3.41
+Bluprint,Education,Mature/Exit,108.00,1,137,2020-05-26,4,4,2,3.39,3.41
+DreamBox Learning,Education,Mature/Exit,175.00,1,,2022-09-09,4,4,2,3.39,3.41
+Cohesity,Data,Growth,805.00,2,,2023-06-08,5,2,4,2.04,3.41
+Offerpad,Real Estate,Mature/Exit,355.00,1,,2022-11-11,4,4,2,3.38,3.41
+D2L,Education,Mature/Exit,168.00,1,,2022-11-16,4,4,2,3.39,3.41
+RealPage,Real Estate,Mature/Exit,105.00,1,260,2024-06-27,4,4,2,3.38,3.41
+Skyscanner,Travel,Mature/Exit,197.20,1,300,2020-07-14,4,4,2,3.36,3.40
+Chewy,Retail,Mature/Exit,451.00,1,200,2023-11-14,4,4,2,3.17,3.38
+Enjoy,Retail,Mature/Exit,310.00,1,400,2022-06-30,4,4,2,3.17,3.38
+Capillary,Retail,Mature/Exit,102.00,1,,2020-04-02,4,4,2,3.17,3.38
+Allbirds,Retail,Mature/Exit,202.00,1,23,2022-07-28,4,4,2,3.17,3.38
+VTEX,Retail,Mature/Exit,365.00,1,200,2022-05-26,4,4,2,3.17,3.38
+Ocado,Food,Mature/Exit,2000.00,2,2000,2026-02-26,4,2,4,3.90,3.38
+Mister Spex,Retail,Mature/Exit,158.00,1,,2024-08-15,4,4,2,3.17,3.38
+OneTrust,Security,Growth,926.00,2,1100,2022-06-09,5,2,4,1.85,3.38
+Poshmark,Retail,Mature/Exit,153.00,1,,2023-02-24,4,4,2,3.17,3.38
+Cimpress,Retail,Mature/Exit,300.00,1,500,2023-03-23,4,4,2,3.17,3.38
+Toast,Food,Mature/Exit,962.00,2,1850,2024-02-15,4,2,4,3.90,3.38
+Boxed,Retail,Mature/Exit,365.00,1,32,2023-03-15,4,4,2,3.17,3.38
+Axonius,Security,Growth,865.00,2,140,2026-02-15,5,2,4,1.85,3.38
+Jungle Scout,Retail,Mature/Exit,110.00,1,,2023-12-09,4,4,2,3.17,3.38
+C3.ai,AI,Late,228.00,2,280,2026-02-25,2,4,4,3.87,3.38
+Westwing,Retail,Mature/Exit,237.00,1,125,2022-09-29,4,4,2,3.17,3.38
+AEye,Transportation,Mature/Exit,314.00,1,46,2023-03-28,4,4,2,3.06,3.36
+Embark Trucks,Transportation,Mature/Exit,317.00,1,230,2023-03-03,4,4,2,3.06,3.36
+99,Transportation,Mature/Exit,244.00,1,75,2022-09-20,4,4,2,3.06,3.36
+Kapten / Free Now,Transportation,Mature/Exit,100.00,1,,2020-05-21,4,4,2,3.06,3.36
+VMware,Infrastructure,Mature/Exit,393.00,1,2837,2023-11-27,4,4,2,3.06,3.36
+Quanergy Systems,Transportation,Mature/Exit,175.00,1,72,2022-12-14,4,4,2,3.06,3.36
+Wejo,Transportation,Mature/Exit,376.00,1,40,2023-03-22,4,4,2,3.06,3.36
+Enovix,Energy,Mature/Exit,516.00,2,355,2024-05-06,4,2,4,3.72,3.36
+Chef,Infrastructure,Mature/Exit,105.00,1,,2020-10-08,4,4,2,3.06,3.36
+Moovit,Transportation,Mature/Exit,131.00,1,20,2024-06-19,4,4,2,3.06,3.36
+Datto,Infrastructure,Mature/Exit,100.00,1,,2020-05-12,4,4,2,3.06,3.36
+DigitalOcean,Infrastructure,Mature/Exit,491.00,1,200,2023-02-15,4,4,2,3.06,3.36
+LeddarTech,Transportation,Mature/Exit,402.00,1,138,2025-05-22,4,4,2,3.06,3.36
+Fastly,Infrastructure,Mature/Exit,219.00,1,,2024-08-08,4,4,2,3.06,3.36
+EVgo,Transportation,Mature/Exit,400.00,1,40,2023-02-23,4,4,2,3.06,3.36
+tZero,Finance,Mature/Exit,472.00,1,,2020-07-30,4,4,2,2.98,3.35
+Sezzle,Finance,Mature/Exit,301.00,1,,2022-03-10,4,4,2,2.98,3.35
+Duck Creek Technologies,Finance,Mature/Exit,357.00,1,,2023-07-12,4,4,2,2.98,3.35
+Avalara,Finance,Mature/Exit,341.00,1,,2023-01-20,4,4,2,2.98,3.35
+Coupa,Finance,Mature/Exit,219.00,1,,2023-05-30,4,4,2,2.98,3.35
+Core Scientific,Crypto,Mature/Exit,169.00,1,,2022-08-12,4,4,2,3.02,3.35
+Openpay,Finance,Mature/Exit,299.00,1,83,2023-02-07,4,4,2,2.98,3.35
+Wex,Finance,Mature/Exit,400.00,1,375,2024-06-18,4,4,2,2.98,3.35
+Progrexion,Finance,Mature/Exit,202.00,1,100,2022-05-05,4,4,2,2.98,3.35
+Dock,Finance,Mature/Exit,280.00,1,190,2022-11-07,4,4,2,2.98,3.35
+Mogo,Finance,Mature/Exit,201.00,1,78,2020-03-27,4,4,2,2.98,3.35
+NerdWallet,Finance,Mature/Exit,105.00,1,,2024-07-30,4,4,2,2.98,3.35
+Wise,Finance,Mature/Exit,300.00,1,300,2025-02-10,4,4,2,2.98,3.35
+NCSoft,Consumer,Mature/Exit,240.00,1,,2023-02-02,4,4,2,2.97,3.34
+Angi,Consumer,Mature/Exit,180.00,1,350,2026-01-07,4,4,2,2.97,3.34
+Gloo,Consumer,Mature/Exit,152.00,1,,2026-01-29,4,4,2,2.97,3.34
+Truecaller,Consumer,Mature/Exit,101.00,1,70,2026-05-07,4,4,2,2.97,3.34
+Care.com,Consumer,Mature/Exit,156.00,1,81,2020-04-30,4,4,2,2.97,3.34
+FanDuel,Consumer,Mature/Exit,416.00,1,,2026-06-05,4,4,2,2.97,3.34
+Flywheel Sports,Fitness,Mature/Exit,120.00,1,784,2020-03-20,4,4,2,2.96,3.34
+GitHub,Product,Mature/Exit,350.00,1,,2023-02-09,4,4,2,2.84,3.33
+PagerDuty,Product,Mature/Exit,173.00,1,,2023-01-24,4,4,2,2.84,3.33
+Monday.com,Product,Mature/Exit,384.00,1,630,2026-07-22,4,4,2,2.84,3.33
+Sema4,Healthcare,Mature/Exit,791.00,2,750,2022-11-14,4,2,4,3.48,3.32
+Butterfly Network,Healthcare,Mature/Exit,530.00,2,,2023-01-04,4,2,4,3.48,3.32
+Invitae,Healthcare,Mature/Exit,2500.00,2,1235,2023-12-13,4,2,4,3.48,3.32
+Cue,Healthcare,Mature/Exit,999.00,2,558,2023-01-05,4,2,4,3.48,3.32
+Ginkgo Bioworks,Healthcare,Mature/Exit,1600.00,2,400,2024-06-24,4,2,4,3.48,3.32
+FuboTV,Media,Mature/Exit,151.00,1,,2022-08-02,4,4,2,2.71,3.31
+Jobcase,Recruiting,Mature/Exit,118.00,1,39,2020-04-02,4,4,2,2.70,3.31
+Refinery29,Media,Mature/Exit,134.00,1,,2024-12-17,4,4,2,2.71,3.31
+Acast,Media,Mature/Exit,126.00,1,70,2022-09-15,4,4,2,2.71,3.31
+Evolve,Travel,Late,224.00,2,339,2023-09-12,2,4,4,3.36,3.30
+Airbnb,Travel,Mature/Exit,6400.00,2,1930,2023-03-03,4,2,4,3.36,3.30
+MakeMyTrip,Travel,Mature/Exit,548.00,2,700,2020-08-31,4,2,4,3.36,3.30
+Dude Solutions,Other,Mature/Exit,100.00,1,,2020-04-15,4,4,2,2.63,3.29
+Rubicon Technologies,Other,Mature/Exit,382.00,1,,2022-11-15,4,4,2,2.63,3.29
+Nextiva,Other,Mature/Exit,200.00,1,,2022-12-06,4,4,2,2.63,3.29
+N-able Technologies,Other,Mature/Exit,225.00,1,,2022-12-09,4,4,2,2.63,3.29
+Cellebrite,Other,Mature/Exit,410.00,1,20,2025-12-03,4,4,2,2.63,3.29
+Blink Charging,Other,Mature/Exit,110.00,1,,2025-05-19,4,4,2,2.63,3.29
+Gambling.com Group,Other,Mature/Exit,276.00,1,,2026-05-14,4,4,2,2.63,3.29
+Formstack,Other,Mature/Exit,425.00,1,,2023-05-17,4,4,2,2.63,3.29
+MicroVision,Other,Mature/Exit,415.00,1,49,2026-03-03,4,4,2,2.63,3.29
+Anaplan,Other,Mature/Exit,300.00,1,300,2023-06-21,4,4,2,2.63,3.29
+EverBridge,Other,Mature/Exit,476.00,1,200,2022-11-08,4,4,2,2.63,3.29
+Sigfox,Other,Mature/Exit,277.00,1,64,2022-04-25,4,4,2,2.63,3.29
+ForgeRock,Other,Mature/Exit,234.00,1,109,2023-12-13,4,4,2,2.63,3.29
+Impinj,Other,Mature/Exit,137.00,1,50,2024-02-13,4,4,2,2.63,3.29
+Freightos,Logistics,Mature/Exit,118.00,1,50,2023-07-12,4,4,2,2.56,3.28
+Lazada Group,Retail,Mature/Exit,7200.00,2,100,2026-06-23,4,2,4,3.17,3.28
+Sea,Retail,Mature/Exit,8600.00,2,350,2022-09-02,4,2,4,3.17,3.28
+Jumia,Retail,Mature/Exit,1200.00,2,1100,2026-05-13,4,2,4,3.17,3.28
+Careem,Transportation,Mature/Exit,771.00,2,536,2026-05-05,4,2,4,3.06,3.26
+Innoviz,Transportation,Mature/Exit,547.00,2,100,2025-02-04,4,2,4,3.06,3.26
+Nikola,Transportation,Mature/Exit,3300.00,2,400,2024-10-11,4,2,4,3.06,3.26
+Volta,Transportation,Mature/Exit,575.00,2,,2022-10-21,4,2,4,3.06,3.26
+Grab,Transportation,Mature/Exit,16500.00,2,1360,2023-06-20,4,2,4,3.06,3.26
+Waymo,Transportation,Mature/Exit,5500.00,2,209,2023-10-17,4,2,4,3.06,3.26
+Ola Electric,Transportation,Mature/Exit,1700.00,2,1500,2025-03-03,4,2,4,3.06,3.26
+GoTo Group,Transportation,Mature/Exit,1300.00,2,1900,2023-03-10,4,2,4,3.06,3.26
+Mobileye,Transportation,Mature/Exit,2100.00,2,300,2025-12-08,4,2,4,3.06,3.26
+Xero,Finance,Mature/Exit,681.00,2,1050,2026-02-18,4,2,4,2.98,3.25
+Oportun,Finance,Mature/Exit,766.00,2,340,2023-11-07,4,2,4,2.98,3.25
+Chargebee,Finance,Late,468.00,2,242,2023-09-11,2,4,4,2.98,3.25
+Circle,Crypto,Mature/Exit,1100.00,2,50,2024-12-05,4,2,4,3.02,3.25
+Hippo Insurance,Finance,Mature/Exit,1300.00,2,190,2023-10-26,4,2,4,2.98,3.25
+Stone,Finance,Mature/Exit,521.00,2,1700,2026-03-13,4,2,4,2.98,3.25
+Root Insurance,Finance,Mature/Exit,527.00,2,467,2022-11-09,4,2,4,2.98,3.25
+Bakkt,Crypto,Mature/Exit,932.00,2,28,2024-05-03,4,2,4,3.02,3.25
+Funding Circle,Finance,Mature/Exit,746.00,2,85,2024-05-29,4,2,4,2.98,3.25
+nCino,Finance,Mature/Exit,1100.00,2,100,2025-05-27,4,2,4,2.98,3.25
+Metromile,Finance,Mature/Exit,510.00,2,160,2022-07-28,4,2,4,2.98,3.25
+Zuora,Finance,Mature/Exit,647.00,2,,2024-01-31,4,2,4,2.98,3.25
+Pagaya,Finance,Mature/Exit,2000.00,2,240,2024-06-05,4,2,4,2.98,3.25
+Tencent,Consumer,Mature/Exit,12600.00,2,300,2023-02-17,4,2,4,2.97,3.24
+DraftKings,Consumer,Mature/Exit,719.00,2,140,2026-02-24,4,2,4,2.97,3.24
+Nextdoor,Consumer,Mature/Exit,736.00,2,67,2025-08-07,4,2,4,2.97,3.24
+WHOOP,Fitness,Late,404.00,2,95,2023-01-10,2,4,4,2.96,3.24
+Exterro,Legal,Mature/Exit,100.00,1,24,2023-02-01,4,4,2,2.21,3.23
+Relativity,Legal,Mature/Exit,125.00,1,150,2022-12-07,4,4,2,2.21,3.23
+UserTesting,Marketing,Mature/Exit,152.00,1,63,2023-03-03,4,4,2,2.11,3.22
+The Trade Desk,Marketing,Mature/Exit,257.00,1,,2025-12-17,4,4,2,2.11,3.22
+Markforged,Manufacturing,Mature/Exit,347.00,1,,2023-11-14,4,4,2,2.14,3.22
+TechTarget,Marketing,Mature/Exit,115.00,1,60,2022-12-08,4,4,2,2.11,3.22
+Velo3D,Manufacturing,Mature/Exit,305.00,1,42,2024-08-26,4,4,2,2.14,3.22
+Rigetti Computing,Hardware,Mature/Exit,298.00,1,,2023-02-10,4,4,2,2.11,3.22
+Innovid,Marketing,Mature/Exit,295.00,1,40,2023-01-23,4,4,2,2.11,3.22
+Cvent,Marketing,Mature/Exit,146.00,1,400,2020-05-21,4,4,2,2.11,3.22
+Cardlytics,Marketing,Mature/Exit,212.00,1,51,2022-11-14,4,4,2,2.11,3.22
+Adjust,Marketing,Mature/Exit,256.00,1,304,2024-11-22,4,4,2,2.11,3.22
+Magnite,Marketing,Mature/Exit,400.00,1,,2023-01-19,4,4,2,2.11,3.22
+Handshake,Recruiting,Late,434.00,2,100,2025-10-14,2,4,4,2.70,3.21
+BigBear.ai,Data,Mature/Exit,200.00,1,,2022-09-08,4,4,2,2.04,3.21
+SiriusXM,Media,Mature/Exit,525.00,2,635,2024-02-12,4,2,4,2.71,3.21
+Sumo Logic,Data,Mature/Exit,340.00,1,79,2023-06-07,4,4,2,2.04,3.21
+Software AG,Data,Mature/Exit,344.00,1,200,2023-01-31,4,4,2,2.04,3.21
+Conga,Data,Mature/Exit,117.00,1,,2020-06-15,4,4,2,2.04,3.21
+Confluent,Data,Mature/Exit,455.00,1,221,2023-01-26,4,4,2,2.04,3.21
+Amplitude,Data,Mature/Exit,311.00,1,99,2023-04-05,4,4,2,2.04,3.21
+Actifio,Data,Mature/Exit,352.00,1,54,2020-12-16,4,4,2,2.04,3.21
+SAP,Other,Mature/Exit,1300.00,2,11000,2024-01-23,4,2,4,2.63,3.19
+View,Other,Mature/Exit,2300.00,2,170,2023-04-03,4,2,4,2.63,3.19
+Thoughtworks,Other,Mature/Exit,748.00,2,1079,2023-08-08,4,2,4,2.63,3.19
+Ericsson,Other,Mature/Exit,663.00,2,10100,2026-01-15,4,2,4,2.63,3.19
+Venafi,Security,Mature/Exit,167.00,1,,2022-11-30,4,4,2,1.85,3.18
+SambaNova,AI,Growth,1100.00,1,77,2025-04-25,5,2,2,3.87,3.18
+Sonatype,Security,Mature/Exit,154.00,1,100,2023-05-09,4,4,2,1.85,3.18
+AI21 Labs,AI,Growth,626.00,1,110,2026-05-18,5,2,2,3.87,3.18
+Kape,Security,Mature/Exit,188.00,1,180,2023-07-28,4,4,2,1.85,3.18
+Apeel Sciences,Food,Growth,640.00,1,,2022-07-11,5,2,2,3.90,3.18
+Skybox Security,Security,Mature/Exit,335.00,1,300,2025-02-24,4,4,2,1.85,3.18
+Kape Technologies,Security,Mature/Exit,188.00,1,200,2023-07-30,4,4,2,1.85,3.18
+Cohere,AI,Growth,935.00,1,20,2024-07-23,5,2,2,3.87,3.18
+Misfits Market,Food,Growth,526.00,1,649,2023-02-09,5,2,2,3.90,3.18
+WiseTech,Logistics,Mature/Exit,3000.00,2,2000,2026-02-24,4,2,4,2.56,3.18
+Weee!,Food,Growth,863.00,1,150,2022-06-15,5,2,2,3.90,3.18
+Perfect Day,Food,Growth,711.00,1,134,2023-07-06,5,2,2,3.90,3.18
+Salesloft,Sales,Mature/Exit,245.00,1,100,2023-02-07,4,4,2,1.85,3.18
+Cyren,Security,Mature/Exit,161.00,1,121,2023-02-01,4,4,2,1.85,3.18
+Ynsect,Food,Growth,579.00,1,17,2023-04-17,5,2,2,3.90,3.18
+Jumio,Security,Mature/Exit,205.00,1,100,2023-01-11,4,4,2,1.85,3.18
+Verint Systems,Security,Mature/Exit,213.00,1,,2026-03-02,4,4,2,1.85,3.18
+Zscaler,Security,Mature/Exit,148.00,1,177,2023-03-02,4,4,2,1.85,3.18
+Ping Identity,Security,Mature/Exit,128.00,1,,2023-11-14,4,4,2,1.85,3.18
+Workrise,Energy,Growth,752.00,1,450,2022-04-05,5,2,2,3.72,3.16
+Enpal,Energy,Growth,3500.00,1,100,2026-03-27,5,2,2,3.72,3.16
+Medallia,Support,Mature/Exit,325.00,1,59,2023-02-24,4,4,2,1.67,3.15
+Personetics,Support,Mature/Exit,178.00,1,30,2023-01-05,4,4,2,1.67,3.15
+GoCardless,Finance,Late,529.00,3,240,2026-04-14,2,2,6,2.98,3.15
+C2FO,Finance,Late,537.00,3,116,2024-06-18,2,2,6,2.98,3.15
+Totango,Support,Mature/Exit,147.00,1,,2024-03-07,4,4,2,1.67,3.15
+Tipalti,Finance,Late,565.00,3,223,2026-01-15,2,2,6,2.98,3.15
+LegalZoom,Legal,Mature/Exit,952.00,2,100,2024-08-07,4,2,4,2.21,3.13
+Capsule,Healthcare,Growth,570.00,1,,2022-07-19,5,2,2,3.48,3.12
+Hinge Health,Healthcare,Growth,826.00,1,,2024-04-11,5,2,2,3.48,3.12
+GoDaddy,Marketing,Mature/Exit,800.00,2,981,2023-02-08,4,2,4,2.11,3.12
+DispatchHealth,Healthcare,Growth,733.00,1,88,2024-01-29,5,2,2,3.48,3.12
+Cityblock Health,Healthcare,Growth,891.00,1,155,2023-06-08,5,2,2,3.48,3.12
+Freenome,Healthcare,Growth,1400.00,1,100,2024-04-23,5,2,2,3.48,3.12
+Zebra Technologies,Manufacturing,Mature/Exit,2000.00,2,700,2025-12-12,4,2,4,2.14,3.12
+Hewlett Packard Enterprise,Hardware,Mature/Exit,1400.00,2,2552,2025-11-05,4,2,4,2.11,3.12
+MediaMath,Marketing,Mature/Exit,607.00,2,53,2023-06-30,4,2,4,2.11,3.12
+SurveyMonkey,Marketing,Mature/Exit,1100.00,2,180,2023-02-15,4,2,4,2.11,3.12
+Eruditus,Education,Growth,1200.00,1,40,2022-06-04,5,2,2,3.39,3.11
+UiPath,Data,Mature/Exit,2000.00,2,451,2022-11-15,4,2,4,2.04,3.11
+Palantir,Data,Mature/Exit,3000.00,2,195,2025-03-27,4,2,4,2.04,3.11
+HomeLight,Real Estate,Growth,743.00,1,,2022-06-29,5,2,2,3.38,3.11
+Veeam,Data,Mature/Exit,500.00,2,500,2024-01-12,4,2,4,2.04,3.11
+Domo,Data,Mature/Exit,689.00,2,90,2023-11-30,4,2,4,2.04,3.11
+GetYourGuide,Travel,Growth,656.00,1,90,2020-10-14,5,2,2,3.36,3.10
+Klook,Travel,Growth,521.00,1,300,2020-04-20,5,2,2,3.36,3.10
+TripActions,Travel,Growth,981.00,1,300,2020-03-25,5,2,2,3.36,3.10
+Back Market,Retail,Growth,1000.00,1,93,2022-12-23,5,2,2,3.17,3.08
+Facily,Retail,Growth,502.00,1,260,2022-04-20,5,2,2,3.17,3.08
+SentinelOne,Security,Mature/Exit,696.00,2,230,2026-05-29,4,2,4,1.85,3.08
+Fetch,Retail,Growth,581.00,1,100,2023-03-14,5,2,2,3.17,3.08
+Carta,HR,Late,1100.00,3,161,2023-11-09,2,2,6,2.43,3.06
+Byton,Transportation,Growth,1200.00,1,,2020-06-27,5,2,2,3.06,3.06
+Rubrik,Infrastructure,Growth,553.00,1,57,2020-05-18,5,2,2,3.06,3.06
+Carsome,Transportation,Growth,607.00,1,,2022-09-30,5,2,2,3.06,3.06
+Lime,Transportation,Growth,765.00,1,80,2020-04-29,5,2,2,3.06,3.06
+Spinny,Transportation,Growth,513.00,1,300,2023-08-02,5,2,2,3.06,3.06
+Mollie,Finance,Growth,928.00,1,,2023-09-11,5,2,2,2.98,3.05
+Pie Insurance,Finance,Growth,621.00,1,63,2023-05-18,5,2,2,2.98,3.05
+Next Insurance,Finance,Growth,881.00,1,150,2022-07-07,5,2,2,2.98,3.05
+ClearCo,Finance,Growth,698.00,1,50,2023-01-16,5,2,2,2.98,3.05
+Plaid,Finance,Growth,734.00,1,260,2022-12-07,5,2,2,2.98,3.05
+DriveWealth,Finance,Growth,550.00,1,,2023-01-26,5,2,2,2.98,3.05
+Revolut,Finance,Growth,837.00,1,60,2020-05-11,5,2,2,2.98,3.05
+Ledger,Crypto,Growth,577.00,1,,2023-10-05,5,2,2,3.02,3.05
+Greenlight,Finance,Growth,556.00,1,104,2023-01-12,5,2,2,2.98,3.05
+Bitpanda,Crypto,Growth,546.00,1,270,2022-06-24,5,2,2,3.02,3.05
+Konfio,Finance,Growth,706.00,1,180,2022-09-23,5,2,2,2.98,3.05
+Five9,Support,Mature/Exit,862.00,2,313,2025-04-03,4,2,4,1.67,3.05
+Ualá,Finance,Growth,544.00,1,53,2022-11-30,5,2,2,2.98,3.05
+Xiaohongshu,Consumer,Growth,917.00,1,180,2022-04-21,5,2,2,2.97,3.04
+ClassPass,Fitness,Growth,549.00,1,154,2020-04-02,5,2,2,2.96,3.04
+Dutchie,Other,Growth,603.00,1,50,2022-06-06,5,2,2,2.63,2.99
+Automattic,Other,Growth,986.00,1,281,2025-04-02,5,2,2,2.63,2.99
+SHINE Technologies,Other,Growth,672.00,1,59,2023-08-10,5,2,2,2.63,2.99
+Lilium,Aerospace,Mature/Exit,1400.00,1,1000,2024-12-23,4,2,2,4.54,2.98
+Cybereason,Security,Late,750.00,3,300,2024-03-20,2,2,6,1.85,2.98
+Gusto,HR,Growth,746.00,1,126,2023-02-08,5,2,2,2.43,2.96
+Zenefits,HR,Growth,583.00,1,87,2020-04-23,5,2,2,2.43,2.96
+BetterUp,HR,Growth,567.00,1,100,2023-08-02,5,2,2,2.43,2.96
+Carbon,Hardware,Growth,683.00,1,,2022-10-26,5,2,2,2.11,2.92
+Tenstorrent,Hardware,Growth,1000.00,1,80,2025-12-09,5,2,2,2.11,2.92
+Attentive,Marketing,Growth,863.00,1,,2023-01-05,5,2,2,2.11,2.92
+ThoughtSpot,Data,Growth,743.00,1,,2020-05-06,5,2,2,2.04,2.91
+Veritone,AI,Mature/Exit,514.00,1,111,2026-06-10,4,2,2,3.87,2.88
+Gong,Sales,Growth,583.00,1,80,2023-02-08,5,2,2,1.85,2.88
+AppHarvest,Food,Mature/Exit,692.00,1,,2023-07-24,4,2,2,3.90,2.88
+DoorDash,Food,Mature/Exit,2500.00,1,1250,2022-11-30,4,2,2,3.90,2.88
+Licious,Food,Late,490.00,1,80,2024-02-09,2,4,2,3.90,2.88
+MissFresh,Food,Mature/Exit,1700.00,1,,2022-07-29,4,2,2,3.90,2.88
+Deliveroo Australia,Food,Mature/Exit,1700.00,1,120,2022-11-15,4,2,2,3.90,2.88
+Just Eat Takeaway,Food,Mature/Exit,2800.00,1,390,2022-07-20,4,2,2,3.90,2.88
+Postmates,Food,Mature/Exit,763.00,1,180,2021-01-23,4,2,2,3.90,2.88
+iFood,Food,Mature/Exit,2100.00,1,355,2023-03-01,4,2,2,3.90,2.88
+OwnBackup,Security,Growth,507.00,1,170,2022-11-15,5,2,2,1.85,2.88
+Lacework,Security,Growth,1900.00,1,300,2022-05-25,5,2,2,1.85,2.88
+Orca Security,Security,Growth,632.00,1,60,2024-01-03,5,2,2,1.85,2.88
+SenseTime,AI,Mature/Exit,2600.00,1,,2023-08-28,4,2,2,3.87,2.88
+Climeworks,Energy,Mature/Exit,734.00,1,106,2025-05-21,4,2,2,3.72,2.86
+Stem,Energy,Mature/Exit,583.00,1,,2025-04-29,4,2,2,3.72,2.86
+Palmetto Clean Technology,Energy,Mature/Exit,628.00,1,,2023-12-21,4,2,2,3.72,2.86
+Uniphore,Support,Growth,620.00,1,76,2023-01-03,5,2,2,1.67,2.85
+Quanterix,Healthcare,Mature/Exit,533.00,1,130,2022-08-09,4,2,2,3.48,2.82
+Guardant Health,Healthcare,Mature/Exit,550.00,1,130,2023-01-25,4,2,2,3.48,2.82
+Butterfly Network copy,Healthcare,Mature/Exit,530.00,1,,2023-07-11,4,2,2,3.48,2.82
+NanoString Technologies,Healthcare,Mature/Exit,826.00,1,50,2024-01-06,4,2,2,3.48,2.82
+NanoString,Healthcare,Mature/Exit,731.00,1,,2022-11-08,4,2,2,3.48,2.82
+Maven Clinic,Healthcare,Late,417.00,1,60,2024-11-01,2,4,2,3.48,2.82
+Babylon Health,Healthcare,Mature/Exit,1200.00,1,94,2023-08-09,4,2,2,3.48,2.82
+SmileDirectClub,Healthcare,Mature/Exit,694.00,1,,2023-12-09,4,2,2,3.48,2.82
+Natera,Healthcare,Mature/Exit,809.00,1,,2022-11-22,4,2,2,3.48,2.82
+Century Therapeutics,Healthcare,Mature/Exit,560.00,1,,2023-01-09,4,2,2,3.48,2.82
+GoodRx,Healthcare,Mature/Exit,910.00,1,140,2022-08-31,4,2,2,3.48,2.82
+Babylon,Healthcare,Mature/Exit,1100.00,1,100,2022-07-12,4,2,2,3.48,2.82
+Fate Therapeutics,Healthcare,Mature/Exit,1200.00,1,315,2023-01-09,4,2,2,3.48,2.82
+BioMarin,Healthcare,Mature/Exit,585.00,1,120,2022-10-07,4,2,2,3.48,2.82
+Tricida,Healthcare,Mature/Exit,624.00,1,,2022-11-14,4,2,2,3.48,2.82
+Nevro,Healthcare,Mature/Exit,556.00,1,63,2024-01-09,4,2,2,3.48,2.82
+Hims & Hers,Healthcare,Mature/Exit,1200.00,1,68,2025-05-30,4,2,2,3.48,2.82
+EQRx,Healthcare,Mature/Exit,1900.00,1,,2023-02-24,4,2,2,3.48,2.82
+Editas Medicine,Healthcare,Mature/Exit,656.00,1,,2023-01-09,4,2,2,3.48,2.82
+Twist Bioscience,Healthcare,Mature/Exit,503.00,1,270,2023-05-05,4,2,2,3.48,2.82
+Rocket Companies,Real Estate,Mature/Exit,5200.00,1,,2025-07-18,4,2,2,3.38,2.81
+PropertyGuru,Real Estate,Mature/Exit,676.00,1,79,2024-02-27,4,2,2,3.38,2.81
+Selina,Travel,Mature/Exit,612.00,1,350,2023-06-27,4,2,2,3.36,2.80
+Booking Holdings,Travel,Mature/Exit,2800.00,1,60,2024-12-04,4,2,2,3.36,2.80
+Guesty,Travel,Late,411.00,1,20,2026-05-13,2,4,2,3.36,2.80
+Sabre,Travel,Mature/Exit,1700.00,1,1100,2023-05-04,4,2,2,3.36,2.80
+ShopBack,Retail,Late,355.00,1,195,2024-03-19,2,4,2,3.17,2.78
+Shein,Retail,Mature/Exit,4100.00,1,17,2024-09-30,4,2,2,3.17,2.78
+Farfetch,Retail,Mature/Exit,1700.00,1,2000,2024-02-16,4,2,2,3.17,2.78
+Tokopedia,Retail,Mature/Exit,2800.00,1,,2026-07-01,4,2,2,3.17,2.78
+MercadoLibre,Retail,Mature/Exit,5100.00,1,116,2026-01-12,4,2,2,3.17,2.78
+Bukalapak,Retail,Mature/Exit,925.00,1,,2023-08-09,4,2,2,3.17,2.78
+Myntra,Retail,Mature/Exit,516.00,1,50,2023-07-26,4,2,2,3.17,2.78
+Moglix,Retail,Late,472.00,1,40,2023-01-05,2,4,2,3.17,2.78
+Impossible Foods,Food,Late,1900.00,2,190,2023-01-30,2,2,4,3.90,2.78
+JD.ID,Retail,Mature/Exit,5100.00,1,200,2022-12-14,4,2,2,3.17,2.78
+Lordstown Motors,Transportation,Mature/Exit,1100.00,1,,2023-06-27,4,2,2,3.06,2.76
+Mavenir,Infrastructure,Mature/Exit,854.00,1,,2023-01-18,4,2,2,3.06,2.76
+Cloudera,Infrastructure,Mature/Exit,1000.00,1,,2020-05-05,4,2,2,3.06,2.76
+Pivot3,Infrastructure,Late,273.00,1,,2020-03-27,2,4,2,3.06,2.76
+NIO,Transportation,Mature/Exit,7200.00,1,,2023-11-03,4,2,2,3.06,2.76
+Nutanix,Infrastructure,Mature/Exit,1100.00,1,270,2022-08-09,4,2,2,3.06,2.76
+Proterra,Transportation,Mature/Exit,1200.00,1,300,2023-01-19,4,2,2,3.06,2.76
+Aurora,Transportation,Mature/Exit,3700.00,1,,2024-01-24,4,2,2,3.06,2.76
+OnDeck,Finance,Mature/Exit,1200.00,1,,2020-07-08,4,2,2,2.98,2.75
+NYDIG,Crypto,Mature/Exit,1400.00,1,110,2022-09-22,4,2,2,3.02,2.75
+MARA,Crypto,Mature/Exit,4100.00,1,,2026-04-02,4,2,2,3.02,2.75
+Credit Sesame,Finance,Late,120.00,1,22,2020-06-03,2,4,2,2.98,2.75
+Addepar,Finance,Late,491.00,1,20,2023-01-18,2,4,2,2.98,2.75
+PaisaBazaar,Finance,Late,496.00,1,1500,2020-06-16,2,4,2,2.98,2.75
+Marqeta,Finance,Mature/Exit,530.00,1,,2023-05-09,4,2,2,2.98,2.75
+Betterment,Finance,Late,435.00,1,28,2023-02-15,2,4,2,2.98,2.75
+Navi,Finance,Mature/Exit,582.00,1,40,2020-06-17,4,2,2,2.98,2.75
+Credit Karma,Finance,Mature/Exit,868.00,1,117,2026-05-30,4,2,2,2.98,2.75
+Zip,Finance,Mature/Exit,896.00,1,300,2023-07-02,4,2,2,2.98,2.75
+Bally's Interactive,Consumer,Mature/Exit,946.00,1,,2023-01-18,4,2,2,2.97,2.74
+Take-Two,Consumer,Mature/Exit,4100.00,1,579,2024-04-16,4,2,2,2.97,2.74
+Roblox,Consumer,Mature/Exit,857.00,1,30,2023-09-22,4,2,2,2.97,2.74
+Xiaomi,Consumer,Mature/Exit,7400.00,1,,2022-12-19,4,2,2,2.97,2.74
+Take-Two Interactive,Consumer,Mature/Exit,2700.00,1,,2023-03-07,4,2,2,2.97,2.74
+TikTok India,Consumer,Mature/Exit,9400.00,1,40,2023-02-10,4,2,2,2.97,2.74
+Strava,Fitness,Late,151.00,1,,2022-12-01,2,4,2,2.96,2.74
+Warby Parker,Consumer,Mature/Exit,535.00,1,63,2022-08-08,4,2,2,2.97,2.74
+Rover,Consumer,Late,310.00,1,194,2020-03-31,2,4,2,2.97,2.74
+Olive,Healthcare,Late,856.00,2,450,2023-10-31,2,2,4,3.48,2.72
+SmartNews,Media,Late,410.00,1,120,2023-01-12,2,4,2,2.71,2.71
+Guild,Education,Late,643.00,2,472,2024-05-22,2,2,4,3.39,2.71
+Bilibili,Media,Mature/Exit,3700.00,1,,2022-12-27,4,2,2,2.71,2.71
+Minute Media,Media,Late,160.00,1,50,2023-01-08,2,4,2,2.71,2.71
+Hulu,Media,Mature/Exit,683.00,1,200,2023-03-30,4,2,2,2.71,2.71
+Quibi,Media,Mature/Exit,1800.00,1,,2020-10-21,4,2,2,2.71,2.71
+Epidemic Sound,Media,Mature/Exit,509.00,1,150,2026-04-21,4,2,2,2.71,2.71
+UIPath,Other,Mature/Exit,2000.00,1,420,2024-07-09,4,2,2,2.63,2.69
+Sinch,Other,Mature/Exit,1500.00,1,150,2022-10-12,4,2,2,2.63,2.69
+SAP Labs,Other,Mature/Exit,1300.00,1,300,2023-02-24,4,2,2,2.63,2.69
+Benchling,Other,Late,411.00,1,74,2023-04-21,2,4,2,2.63,2.69
+Zepto,Retail,Late,2600.00,2,300,2025-10-18,2,2,4,3.17,2.68
+Porter,Logistics,Late,357.00,1,350,2025-11-04,2,4,2,2.56,2.68
+Faire,Retail,Late,1700.00,2,334,2023-11-01,2,2,4,3.17,2.68
+Motive,Transportation,Late,567.00,2,237,2023-07-10,2,2,4,3.06,2.66
+Chainalysis,Crypto,Late,536.00,2,194,2023-10-02,2,2,4,3.02,2.65
+Thumbtack,Consumer,Late,698.00,2,410,2022-12-13,2,2,4,2.97,2.64
+Discord,Consumer,Late,995.00,2,207,2024-01-11,2,2,4,2.97,2.64
+Airtable,Product,Late,1400.00,2,491,2023-09-14,2,2,4,2.84,2.63
+Xerox,Hardware,Mature/Exit,27200.00,1,3000,2024-01-03,4,2,2,2.11,2.62
+Infineon,Manufacturing,Mature/Exit,1500.00,1,1400,2024-08-05,4,2,2,2.14,2.62
+SiFive,Hardware,Late,365.00,1,130,2023-10-24,2,4,2,2.11,2.62
+Applied Material,Manufacturing,Mature/Exit,2100.00,1,1400,2025-10-23,4,2,2,2.14,2.62
+Foursquare,Marketing,Late,390.00,1,105,2024-05-23,2,4,2,2.11,2.62
+Contentful,Marketing,Late,350.00,1,,2023-12-05,2,4,2,2.11,2.62
+Alteryx,Data,Mature/Exit,613.00,1,320,2023-04-27,4,2,2,2.04,2.61
+Own,Data,Mature/Exit,507.00,1,,2024-11-19,4,2,2,2.04,2.61
+Domino Data Lab,Data,Late,223.00,1,,2022-11-07,2,4,2,2.04,2.61
+Pure Storage,Data,Mature/Exit,529.00,1,275,2024-02-08,4,2,2,2.04,2.61
+Snowflake,Data,Mature/Exit,2900.00,1,70,2026-03-19,4,2,2,2.04,2.61
+VerSe Innovation,Media,Late,1700.00,2,500,2025-05-18,2,2,4,2.71,2.61
+Redis,Data,Late,357.00,1,200,2026-07-13,2,4,2,2.04,2.61
+Exabeam,Security,Late,391.00,1,,2023-10-25,2,4,2,1.85,2.58
+Proofpoint,Security,Mature/Exit,885.00,1,280,2024-01-31,4,2,2,1.85,2.58
+Devo,Security,Late,481.00,1,,2022-11-21,2,4,2,1.85,2.58
+Demandbase,Sales,Late,143.00,1,27,2022-09-07,2,4,2,1.85,2.58
+Acronis,Security,Mature/Exit,658.00,1,,2023-10-11,4,2,2,1.85,2.58
+CrowdStrike,Security,Mature/Exit,1200.00,1,500,2025-05-07,4,2,2,1.85,2.58
+Tenable,Security,Mature/Exit,565.00,1,,2024-02-07,4,2,2,1.85,2.58
+Loggi,Logistics,Late,507.00,2,800,2023-02-06,2,2,4,2.56,2.58
+Cyberark,Security,Mature/Exit,1700.00,1,500,2026-02-17,4,2,2,1.85,2.58
+Jumpcloud,Security,Late,416.00,1,100,2023-01-18,2,4,2,1.85,2.58
+Armis,Security,Mature/Exit,537.00,1,25,2022-12-08,4,2,2,1.85,2.58
+Highspot,Sales,Late,644.00,2,240,2023-06-08,2,2,4,1.85,2.48
+Dataminr,AI,Late,1100.00,1,150,2023-11-28,2,2,2,3.87,2.28
+Lyra Health,Healthcare,Late,910.00,1,77,2024-11-12,2,2,2,3.48,2.22
+Olive AI,Healthcare,Late,856.00,1,215,2023-02-09,2,2,2,3.48,2.22
+Collective Health,Healthcare,Late,719.00,1,54,2023-02-13,2,2,2,3.48,2.22
+WeDoctor,Healthcare,Late,1400.00,1,500,2022-03-02,2,2,2,3.48,2.22
+ManoMano,Retail,Late,705.00,1,230,2023-10-18,2,2,2,3.17,2.18
+Gojek,Transportation,Late,4800.00,1,430,2020-06-23,2,2,2,3.06,2.16
+Chime,Finance,Late,2300.00,1,156,2022-11-02,2,2,2,2.98,2.15
+Zhihu,Consumer,Late,892.00,1,,2022-12-20,2,2,2,2.97,2.14
+Reddit,Consumer,Late,1300.00,1,90,2023-06-06,2,2,2,2.97,2.14
+Cult.fit,Fitness,Late,635.00,1,100,2024-01-24,2,2,2,2.96,2.14
+Cure.fit,Fitness,Late,625.00,1,120,2024-01-23,2,2,2,2.96,2.14
+OutSystems,Product,Late,802.00,1,150,2024-04-19,2,2,2,2.84,2.13
+AlphaSense,Other,Late,1400.00,1,150,2024-11-27,2,2,2,2.63,2.09
+Samsara,Logistics,Late,530.00,1,300,2020-05-20,2,2,2,2.56,2.08
+Branch.io,Marketing,Late,667.00,1,100,2024-08-09,2,2,2,2.11,2.02
+Collibra,Data,Late,596.00,1,,2022-10-19,2,2,2,2.04,2.01
+Aura,Security,Late,500.00,1,70,2022-06-23,2,2,2,1.85,1.98
+ServiceTitan,Sales,Late,1100.00,1,221,2023-02-15,2,2,2,1.85,1.98

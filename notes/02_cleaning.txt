@@ -1,7 +1,0 @@
-- two dates format were mixed together,
-so a separate function was needed to avoidmisreading of dates
-
-- total_laid_off and percentage_laid_off had blank data cells "Nan" which are not filled with artificial data so tht the analysis is intact
-
-- stage_group is added column to fit the 17 stages into simpler 4 groups
-(Early/Growth/Late/Mature-Exit)
